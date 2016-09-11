@@ -1,0 +1,1231 @@
+id,date,home_team,home_team_score,visit_team,visit_team_score
+301026002,2011-10-26,Boston Celtics,88,Miami Heat,80
+301027005,2011-10-27,Cleveland Cavaliers,95,Boston Celtics,87
+301029002,2011-10-29,Boston Celtics,105,New York Knicks,101
+301102008,2011-11-02,Detroit Pistons,86,Boston Celtics,109
+301103002,2011-11-03,Boston Celtics,105,Milwaukee Bucks,102
+301105002,2011-11-05,Boston Celtics,110,Chicago Bulls,105
+301107025,2011-11-07,Oklahoma City Thunder,83,Boston Celtics,92
+301108006,2011-11-08,Dallas Mavericks,89,Boston Celtics,87
+301111014,2011-11-11,Miami Heat,107,Boston Celtics,112
+301113029,2011-11-13,Memphis Grizzlies,110,Boston Celtics,116
+301117002,2011-11-17,Boston Celtics,114,Washington Wizards,83
+301119002,2011-11-19,Boston Celtics,84,Oklahoma City Thunder,89
+301121028,2011-11-21,Toronto Raptors,102,Boston Celtics,101
+301122001,2011-11-22,Atlanta Hawks,76,Boston Celtics,99
+301124002,2011-11-24,Boston Celtics,89,Brooklyn Nets,83
+301126002,2011-11-26,Boston Celtics,110,Toronto Raptors,101
+301130005,2011-11-30,Cleveland Cavaliers,87,Boston Celtics,106
+301201002,2011-12-01,Boston Celtics,99,Portland Trail Blazers,95
+301203002,2011-12-03,Boston Celtics,104,Chicago Bulls,92
+301205017,2011-12-05,Brooklyn Nets,75,Boston Celtics,100
+301208002,2011-12-08,Boston Celtics,105,Denver Nuggets,89
+301209020,2011-12-09,Philadelphia 76ers,101,Boston Celtics,102
+301211030,2011-12-11,Charlotte Hornets,62,Boston Celtics,93
+301215018,2011-12-15,New York Knicks,116,Boston Celtics,118
+301216002,2011-12-16,Boston Celtics,102,Atlanta Hawks,90
+301219002,2011-12-19,Boston Celtics,99,Indiana Pacers,88
+301222002,2011-12-22,Boston Celtics,84,Philadelphia 76ers,80
+301225019,2011-12-25,Orlando Magic,86,Boston Celtics,78
+301228011,2011-12-28,Indiana Pacers,83,Boston Celtics,95
+301229008,2011-12-29,Detroit Pistons,104,Boston Celtics,92
+301231002,2011-12-31,Boston Celtics,81,New Orleans Pelicans,83
+310102028,2011-01-02,Toronto Raptors,79,Boston Celtics,93
+310103002,2011-01-03,Boston Celtics,96,Minnesota Timberwolves,93
+310105002,2011-01-05,Boston Celtics,105,San Antonio Spurs,103
+310107002,2011-01-07,Boston Celtics,122,Toronto Raptors,102
+310108004,2011-01-08,Chicago Bulls,90,Boston Celtics,79
+310110002,2011-01-10,Boston Celtics,102,Houston Rockets,108
+310112002,2011-01-12,Boston Celtics,119,Sacramento Kings,95
+310114002,2011-01-14,Boston Celtics,99,Charlotte Hornets,94
+310117002,2011-01-17,Boston Celtics,109,Orlando Magic,106
+310119002,2011-01-19,Boston Celtics,86,Detroit Pistons,82
+310121002,2011-01-21,Boston Celtics,110,Utah Jazz,86
+310122027,2011-01-22,Washington Wizards,85,Boston Celtics,83
+310125002,2011-01-25,Boston Celtics,112,Cleveland Cavaliers,95
+310127022,2011-01-27,Portland Trail Blazers,78,Boston Celtics,88
+310128021,2011-01-28,Phoenix Suns,88,Boston Celtics,71
+310130013,2011-01-30,Los Angeles Lakers,96,Boston Celtics,109
+310201023,2011-02-01,Sacramento Kings,90,Boston Celtics,95
+310204002,2011-02-04,Boston Celtics,97,Dallas Mavericks,101
+310206002,2011-02-06,Boston Celtics,91,Orlando Magic,80
+310207030,2011-02-07,Charlotte Hornets,94,Boston Celtics,89
+310210002,2011-02-10,Boston Celtics,86,Los Angeles Lakers,92
+310213002,2011-02-13,Boston Celtics,85,Miami Heat,82
+310216002,2011-02-16,Boston Celtics,94,Brooklyn Nets,80
+310222009,2011-02-22,Golden State Warriors,93,Boston Celtics,115
+310224007,2011-02-24,Denver Nuggets,89,Boston Celtics,75
+310226012,2011-02-26,LA Clippers,92,Boston Celtics,99
+310228026,2011-02-28,Utah Jazz,102,Boston Celtics,107
+310302002,2011-03-02,Boston Celtics,115,Phoenix Suns,103
+310304002,2011-03-04,Boston Celtics,107,Golden State Warriors,103
+310306015,2011-03-06,Milwaukee Bucks,83,Boston Celtics,89
+310309002,2011-03-09,Boston Celtics,103,LA Clippers,108
+310311020,2011-03-11,Philadelphia 76ers,89,Boston Celtics,86
+310313002,2011-03-13,Boston Celtics,87,Milwaukee Bucks,56
+310314017,2011-03-14,Brooklyn Nets,88,Boston Celtics,79
+310316002,2011-03-16,Boston Celtics,92,Indiana Pacers,80
+310318010,2011-03-18,Houston Rockets,93,Boston Celtics,77
+310319003,2011-03-19,New Orleans Pelicans,85,Boston Celtics,89
+310321018,2011-03-21,New York Knicks,86,Boston Celtics,96
+310323002,2011-03-23,Boston Celtics,87,Memphis Grizzlies,90
+310325002,2011-03-25,Boston Celtics,81,Charlotte Hornets,83
+310327016,2011-03-27,Minnesota Timberwolves,82,Boston Celtics,85
+310328011,2011-03-28,Indiana Pacers,107,Boston Celtics,100
+310331024,2011-03-31,San Antonio Spurs,97,Boston Celtics,107
+310401001,2011-04-01,Atlanta Hawks,88,Boston Celtics,83
+310403002,2011-04-03,Boston Celtics,101,Detroit Pistons,90
+310405002,2011-04-05,Boston Celtics,99,Philadelphia 76ers,82
+310407004,2011-04-07,Chicago Bulls,97,Boston Celtics,81
+310408002,2011-04-08,Boston Celtics,104,Washington Wizards,88
+310410014,2011-04-10,Miami Heat,100,Boston Celtics,77
+310411027,2011-04-11,Washington Wizards,95,Boston Celtics,94
+310413002,2011-04-13,Boston Celtics,112,New York Knicks,102
+301027017,2011-10-27,Brooklyn Nets,101,Detroit Pistons,98
+301029017,2011-10-29,Brooklyn Nets,106,Sacramento Kings,100
+301031017,2011-10-31,Brooklyn Nets,78,Miami Heat,101
+301103017,2011-11-03,Brooklyn Nets,83,Charlotte Hornets,85
+301105019,2011-11-05,Orlando Magic,105,Brooklyn Nets,90
+301106014,2011-11-06,Miami Heat,101,Brooklyn Nets,89
+301109017,2011-11-09,Brooklyn Nets,91,Cleveland Cavaliers,93
+301110005,2011-11-10,Cleveland Cavaliers,87,Brooklyn Nets,95
+301113017,2011-11-13,Brooklyn Nets,90,Orlando Magic,91
+301115012,2011-11-15,LA Clippers,96,Brooklyn Nets,110
+301117026,2011-11-17,Utah Jazz,98,Brooklyn Nets,88
+301119023,2011-11-19,Sacramento Kings,86,Brooklyn Nets,81
+301120007,2011-11-20,Denver Nuggets,107,Brooklyn Nets,103
+301123017,2011-11-23,Brooklyn Nets,107,Atlanta Hawks,101
+301127020,2011-11-27,Philadelphia 76ers,102,Brooklyn Nets,86
+301128017,2011-11-28,Brooklyn Nets,98,Portland Trail Blazers,96
+301130018,2011-11-30,New York Knicks,111,Brooklyn Nets,100
+301201017,2011-12-01,Brooklyn Nets,120,Oklahoma City Thunder,123
+301203030,2011-12-03,Charlotte Hornets,91,Brooklyn Nets,84
+301207001,2011-12-07,Atlanta Hawks,116,Brooklyn Nets,101
+301209006,2011-12-09,Dallas Mavericks,102,Brooklyn Nets,89
+301212017,2011-12-12,Brooklyn Nets,92,Los Angeles Lakers,99
+301214017,2011-12-14,Brooklyn Nets,77,Philadelphia 76ers,82
+301216017,2011-12-16,Brooklyn Nets,97,Washington Wizards,89
+301217028,2011-12-17,Toronto Raptors,98,Brooklyn Nets,92
+301219017,2011-12-19,Brooklyn Nets,89,Atlanta Hawks,82
+301221029,2011-12-21,Memphis Grizzlies,94,Brooklyn Nets,101
+301222003,2011-12-22,New Orleans Pelicans,105,Brooklyn Nets,91
+301227017,2011-12-27,Brooklyn Nets,88,Orlando Magic,104
+301229025,2011-12-29,Oklahoma City Thunder,114,Brooklyn Nets,93
+301231004,2011-12-31,Chicago Bulls,90,Brooklyn Nets,81
+310101016,2011-01-01,Minnesota Timberwolves,103,Brooklyn Nets,88
+310105017,2011-01-05,Brooklyn Nets,96,Chicago Bulls,94
+310107027,2011-01-07,Washington Wizards,97,Brooklyn Nets,77
+310108017,2011-01-08,Brooklyn Nets,92,Milwaukee Bucks,115
+310112021,2011-01-12,Phoenix Suns,118,Brooklyn Nets,109
+310114013,2011-01-14,Los Angeles Lakers,100,Brooklyn Nets,88
+310115022,2011-01-15,Portland Trail Blazers,96,Brooklyn Nets,89
+310117009,2011-01-17,Golden State Warriors,109,Brooklyn Nets,100
+310119017,2011-01-19,Brooklyn Nets,103,Utah Jazz,95
+310121017,2011-01-21,Brooklyn Nets,89,Detroit Pistons,74
+310122017,2011-01-22,Brooklyn Nets,86,Dallas Mavericks,87
+310124017,2011-01-24,Brooklyn Nets,103,Cleveland Cavaliers,101
+310126017,2011-01-26,Brooklyn Nets,93,Memphis Grizzlies,88
+310128011,2011-01-28,Indiana Pacers,124,Brooklyn Nets,92
+310129015,2011-01-29,Milwaukee Bucks,91,Brooklyn Nets,81
+310131017,2011-01-31,Brooklyn Nets,115,Denver Nuggets,99
+310202017,2011-02-02,Brooklyn Nets,92,Philadelphia 76ers,106
+310204008,2011-02-04,Detroit Pistons,92,Brooklyn Nets,82
+310206017,2011-02-06,Brooklyn Nets,86,Indiana Pacers,105
+310209017,2011-02-09,Brooklyn Nets,103,New Orleans Pelicans,101
+310211030,2011-02-11,Charlotte Hornets,89,Brooklyn Nets,94
+310212017,2011-02-12,Brooklyn Nets,95,New York Knicks,105
+310214017,2011-02-14,Brooklyn Nets,85,San Antonio Spurs,102
+310225024,2011-02-25,San Antonio Spurs,106,Brooklyn Nets,96
+310226010,2011-02-26,Houston Rockets,123,Brooklyn Nets,108
+310228017,2011-02-28,Brooklyn Nets,103,Phoenix Suns,104
+310304017,2011-03-04,Brooklyn Nets,116,Toronto Raptors,103
+310305017,2011-03-05,Brooklyn Nets,137,Toronto Raptors,136
+310309017,2011-03-09,Brooklyn Nets,94,Golden State Warriors,90
+310311017,2011-03-11,Brooklyn Nets,102,LA Clippers,98
+310317017,2011-03-17,Brooklyn Nets,73,Chicago Bulls,84
+310318015,2011-03-18,Milwaukee Bucks,110,Brooklyn Nets,95
+310320027,2011-03-20,Washington Wizards,98,Brooklyn Nets,92
+310321017,2011-03-21,Brooklyn Nets,98,Indiana Pacers,102
+310323005,2011-03-23,Cleveland Cavaliers,94,Brooklyn Nets,98
+310325019,2011-03-25,Orlando Magic,95,Brooklyn Nets,85
+310326001,2011-03-26,Atlanta Hawks,98,Brooklyn Nets,87
+310329017,2011-03-29,Brooklyn Nets,87,Houston Rockets,112
+310330018,2011-03-30,New York Knicks,120,Brooklyn Nets,116
+310401020,2011-04-01,Philadelphia 76ers,115,Brooklyn Nets,90
+310403017,2011-04-03,Brooklyn Nets,94,Miami Heat,108
+310405017,2011-04-05,Brooklyn Nets,107,Minnesota Timberwolves,105
+310406008,2011-04-06,Detroit Pistons,116,Brooklyn Nets,109
+310408017,2011-04-08,Brooklyn Nets,93,New York Knicks,116
+310410028,2011-04-10,Toronto Raptors,99,Brooklyn Nets,92
+310411017,2011-04-11,Brooklyn Nets,103,Charlotte Hornets,105
+310413004,2011-04-13,Chicago Bulls,97,Brooklyn Nets,92
+301027028,2011-10-27,Toronto Raptors,93,New York Knicks,98
+301030018,2011-10-30,New York Knicks,95,Portland Trail Blazers,100
+301104004,2011-11-04,Chicago Bulls,112,New York Knicks,120
+301105018,2011-11-05,New York Knicks,112,Washington Wizards,91
+301107018,2011-11-07,New York Knicks,96,Philadelphia 76ers,106
+301109015,2011-11-09,Milwaukee Bucks,107,New York Knicks,80
+301110018,2011-11-10,New York Knicks,117,Golden State Warriors,122
+301112016,2011-11-12,Minnesota Timberwolves,112,New York Knicks,103
+301114018,2011-11-14,New York Knicks,96,Houston Rockets,104
+301116007,2011-11-16,Denver Nuggets,120,New York Knicks,118
+301117023,2011-11-17,Sacramento Kings,106,New York Knicks,113
+301119009,2011-11-19,Golden State Warriors,119,New York Knicks,125
+301120012,2011-11-20,LA Clippers,115,New York Knicks,124
+301123018,2011-11-23,New York Knicks,110,Charlotte Hornets,107
+301124030,2011-11-24,Charlotte Hornets,95,New York Knicks,99
+301127018,2011-11-27,New York Knicks,90,Atlanta Hawks,99
+301128008,2011-11-28,Detroit Pistons,116,New York Knicks,125
+301203003,2011-12-03,New Orleans Pelicans,92,New York Knicks,100
+301205028,2011-12-05,Toronto Raptors,99,New York Knicks,116
+301206018,2011-12-06,New York Knicks,121,Minnesota Timberwolves,114
+301208018,2011-12-08,New York Knicks,113,Toronto Raptors,110
+301210027,2011-12-10,Washington Wizards,95,New York Knicks,101
+301212018,2011-12-12,New York Knicks,129,Denver Nuggets,125
+301217018,2011-12-17,New York Knicks,91,Miami Heat,113
+301218005,2011-12-18,Cleveland Cavaliers,109,New York Knicks,102
+301222018,2011-12-22,New York Knicks,112,Oklahoma City Thunder,98
+301225018,2011-12-25,New York Knicks,103,Chicago Bulls,95
+301228014,2011-12-28,Miami Heat,106,New York Knicks,98
+301230019,2011-12-30,Orlando Magic,112,New York Knicks,103
+310102018,2011-01-02,New York Knicks,98,Indiana Pacers,92
+310104018,2011-01-04,New York Knicks,128,San Antonio Spurs,115
+310107021,2011-01-07,Phoenix Suns,96,New York Knicks,121
+310109013,2011-01-09,Los Angeles Lakers,109,New York Knicks,87
+310111022,2011-01-11,Portland Trail Blazers,86,New York Knicks,100
+310112026,2011-01-12,Utah Jazz,131,New York Knicks,125
+310114018,2011-01-14,New York Knicks,83,Sacramento Kings,93
+310117018,2011-01-17,New York Knicks,121,Phoenix Suns,129
+310119010,2011-01-19,Houston Rockets,104,New York Knicks,89
+310121024,2011-01-21,San Antonio Spurs,101,New York Knicks,92
+310122025,2011-01-22,Oklahoma City Thunder,101,New York Knicks,98
+310124018,2011-01-24,New York Knicks,115,Washington Wizards,106
+310127018,2011-01-27,New York Knicks,93,Miami Heat,88
+310128001,2011-01-28,Atlanta Hawks,111,New York Knicks,102
+310130018,2011-01-30,New York Knicks,124,Detroit Pistons,106
+310202018,2011-02-02,New York Knicks,97,Dallas Mavericks,113
+310204020,2011-02-04,Philadelphia 76ers,100,New York Knicks,98
+310206018,2011-02-06,New York Knicks,117,Philadelphia 76ers,103
+310209018,2011-02-09,New York Knicks,108,LA Clippers,116
+310211018,2011-02-11,New York Knicks,96,Los Angeles Lakers,113
+310216018,2011-02-16,New York Knicks,102,Atlanta Hawks,90
+310223018,2011-02-23,New York Knicks,114,Milwaukee Bucks,108
+310225005,2011-02-25,Cleveland Cavaliers,115,New York Knicks,109
+310227014,2011-02-27,Miami Heat,86,New York Knicks,91
+310301019,2011-03-01,Orlando Magic,116,New York Knicks,110
+310302018,2011-03-02,New York Knicks,107,New Orleans Pelicans,88
+310304018,2011-03-04,New York Knicks,115,Cleveland Cavaliers,119
+310306001,2011-03-06,Atlanta Hawks,79,New York Knicks,92
+310307018,2011-03-07,New York Knicks,131,Utah Jazz,109
+310309029,2011-03-09,Memphis Grizzlies,108,New York Knicks,110
+310310006,2011-03-10,Dallas Mavericks,127,New York Knicks,109
+310313018,2011-03-13,New York Knicks,93,Indiana Pacers,106
+310315011,2011-03-15,Indiana Pacers,119,New York Knicks,117
+310317018,2011-03-17,New York Knicks,120,Memphis Grizzlies,99
+310318008,2011-03-18,Detroit Pistons,99,New York Knicks,95
+310320015,2011-03-20,Milwaukee Bucks,100,New York Knicks,95
+310323018,2011-03-23,New York Knicks,99,Orlando Magic,111
+310325018,2011-03-25,New York Knicks,96,Milwaukee Bucks,102
+310326030,2011-03-26,Charlotte Hornets,114,New York Knicks,106
+310328018,2011-03-28,New York Knicks,113,Orlando Magic,106
+310403018,2011-04-03,New York Knicks,123,Cleveland Cavaliers,107
+310405018,2011-04-05,New York Knicks,131,Toronto Raptors,118
+310406020,2011-04-06,Philadelphia 76ers,92,New York Knicks,97
+310410011,2011-04-10,Indiana Pacers,109,New York Knicks,110
+310412018,2011-04-12,New York Knicks,90,Chicago Bulls,103
+301027020,2011-10-27,Philadelphia 76ers,87,Miami Heat,97
+301029020,2011-10-29,Philadelphia 76ers,101,Atlanta Hawks,104
+301030011,2011-10-30,Indiana Pacers,99,Philadelphia 76ers,86
+301102027,2011-11-02,Washington Wizards,116,Philadelphia 76ers,115
+301103020,2011-11-03,Philadelphia 76ers,101,Indiana Pacers,75
+301105020,2011-11-05,Philadelphia 76ers,116,Cleveland Cavaliers,123
+301110025,2011-11-10,Oklahoma City Thunder,109,Philadelphia 76ers,103
+301112006,2011-11-12,Dallas Mavericks,99,Philadelphia 76ers,90
+301113024,2011-11-13,San Antonio Spurs,116,Philadelphia 76ers,93
+301116005,2011-11-16,Cleveland Cavaliers,101,Philadelphia 76ers,93
+301117020,2011-11-17,Philadelphia 76ers,86,Toronto Raptors,94
+301119020,2011-11-19,Philadelphia 76ers,90,Milwaukee Bucks,79
+301123027,2011-11-23,Washington Wizards,116,Philadelphia 76ers,114
+301124028,2011-11-24,Toronto Raptors,106,Philadelphia 76ers,90
+301126014,2011-11-26,Miami Heat,99,Philadelphia 76ers,90
+301130020,2011-11-30,Philadelphia 76ers,88,Portland Trail Blazers,79
+301203001,2011-12-03,Atlanta Hawks,93,Philadelphia 76ers,88
+301204020,2011-12-04,Philadelphia 76ers,109,Charlotte Hornets,91
+301207020,2011-12-07,Philadelphia 76ers,117,Cleveland Cavaliers,97
+301212020,2011-12-12,Philadelphia 76ers,88,New Orleans Pelicans,70
+301215020,2011-12-15,Philadelphia 76ers,105,LA Clippers,91
+301217020,2011-12-17,Philadelphia 76ers,81,Los Angeles Lakers,93
+301218019,2011-12-18,Orlando Magic,89,Philadelphia 76ers,97
+301221004,2011-12-21,Chicago Bulls,121,Philadelphia 76ers,76
+301226007,2011-12-26,Denver Nuggets,89,Philadelphia 76ers,95
+301227009,2011-12-27,Golden State Warriors,110,Philadelphia 76ers,95
+301229021,2011-12-29,Phoenix Suns,110,Philadelphia 76ers,123
+301231013,2011-12-31,Los Angeles Lakers,102,Philadelphia 76ers,98
+310103003,2011-01-03,New Orleans Pelicans,84,Philadelphia 76ers,77
+310105020,2011-01-05,Philadelphia 76ers,109,Washington Wizards,97
+310107020,2011-01-07,Philadelphia 76ers,105,Chicago Bulls,99
+310108008,2011-01-08,Detroit Pistons,112,Philadelphia 76ers,109
+310111020,2011-01-11,Philadelphia 76ers,103,Indiana Pacers,111
+310114020,2011-01-14,Philadelphia 76ers,95,Milwaukee Bucks,94
+310117020,2011-01-17,Philadelphia 76ers,96,Charlotte Hornets,92
+310119019,2011-01-19,Orlando Magic,99,Philadelphia 76ers,98
+310120030,2011-01-20,Charlotte Hornets,100,Philadelphia 76ers,97
+310122020,2011-01-22,Philadelphia 76ers,96,Utah Jazz,85
+310124020,2011-01-24,Philadelphia 76ers,105,Phoenix Suns,95
+310126028,2011-01-26,Toronto Raptors,94,Philadelphia 76ers,107
+310128020,2011-01-28,Philadelphia 76ers,94,Memphis Grizzlies,99
+310130020,2011-01-30,Philadelphia 76ers,110,Denver Nuggets,99
+310208001,2011-02-08,Atlanta Hawks,83,Philadelphia 76ers,117
+310209020,2011-02-09,Philadelphia 76ers,95,Orlando Magic,99
+310211020,2011-02-11,Philadelphia 76ers,77,San Antonio Spurs,71
+310212016,2011-02-12,Minnesota Timberwolves,87,Philadelphia 76ers,107
+310215029,2011-02-15,Memphis Grizzlies,102,Philadelphia 76ers,91
+310216010,2011-02-16,Houston Rockets,105,Philadelphia 76ers,114
+310223020,2011-02-23,Philadelphia 76ers,117,Washington Wizards,94
+310225020,2011-02-25,Philadelphia 76ers,110,Detroit Pistons,94
+310227005,2011-02-27,Cleveland Cavaliers,91,Philadelphia 76ers,95
+310301020,2011-03-01,Philadelphia 76ers,93,Dallas Mavericks,101
+310304020,2011-03-04,Philadelphia 76ers,111,Minnesota Timberwolves,100
+310306020,2011-03-06,Philadelphia 76ers,125,Golden State Warriors,117
+310308011,2011-03-08,Indiana Pacers,100,Philadelphia 76ers,110
+310309020,2011-03-09,Philadelphia 76ers,105,Oklahoma City Thunder,110
+310312015,2011-03-12,Milwaukee Bucks,102,Philadelphia 76ers,74
+310314026,2011-03-14,Utah Jazz,112,Philadelphia 76ers,107
+310316012,2011-03-16,LA Clippers,94,Philadelphia 76ers,104
+310318023,2011-03-18,Sacramento Kings,80,Philadelphia 76ers,102
+310319022,2011-03-19,Portland Trail Blazers,110,Philadelphia 76ers,101
+310323020,2011-03-23,Philadelphia 76ers,105,Atlanta Hawks,100
+310325014,2011-03-25,Miami Heat,111,Philadelphia 76ers,99
+310327020,2011-03-27,Philadelphia 76ers,111,Sacramento Kings,114
+310328004,2011-03-28,Chicago Bulls,85,Philadelphia 76ers,97
+310330020,2011-03-30,Philadelphia 76ers,108,Houston Rockets,97
+310402015,2011-04-02,Milwaukee Bucks,93,Philadelphia 76ers,87
+310408020,2011-04-08,Philadelphia 76ers,98,Toronto Raptors,93
+310411020,2011-04-11,Philadelphia 76ers,85,Orlando Magic,95
+310413020,2011-04-13,Philadelphia 76ers,100,Detroit Pistons,104
+301029028,2011-10-29,Toronto Raptors,101,Cleveland Cavaliers,81
+301101023,2011-11-01,Sacramento Kings,111,Toronto Raptors,108
+301103026,2011-11-03,Utah Jazz,125,Toronto Raptors,108
+301105013,2011-11-05,Los Angeles Lakers,108,Toronto Raptors,103
+301106022,2011-11-06,Portland Trail Blazers,97,Toronto Raptors,84
+301108028,2011-11-08,Toronto Raptors,102,Golden State Warriors,109
+301110028,2011-11-10,Toronto Raptors,96,Charlotte Hornets,101
+301112019,2011-11-12,Orlando Magic,106,Toronto Raptors,110
+301113014,2011-11-13,Miami Heat,109,Toronto Raptors,100
+301116027,2011-11-16,Washington Wizards,109,Toronto Raptors,94
+301119028,2011-11-19,Toronto Raptors,106,Houston Rockets,96
+301128028,2011-11-28,Toronto Raptors,78,Atlanta Hawks,96
+301201028,2011-12-01,Toronto Raptors,127,Washington Wizards,108
+301203028,2011-12-03,Toronto Raptors,111,Oklahoma City Thunder,99
+301206011,2011-12-06,Indiana Pacers,124,Toronto Raptors,100
+301210028,2011-12-10,Toronto Raptors,116,Denver Nuggets,123
+301211008,2011-12-11,Detroit Pistons,116,Toronto Raptors,120
+301214030,2011-12-14,Charlotte Hornets,97,Toronto Raptors,91
+301215028,2011-12-15,Toronto Raptors,93,Chicago Bulls,110
+301219028,2011-12-19,Toronto Raptors,110,Los Angeles Lakers,120
+301222028,2011-12-22,Toronto Raptors,93,Detroit Pistons,115
+301227029,2011-12-27,Memphis Grizzlies,96,Toronto Raptors,85
+301228006,2011-12-28,Dallas Mavericks,76,Toronto Raptors,84
+301231010,2011-12-31,Houston Rockets,114,Toronto Raptors,105
+310104004,2011-01-04,Chicago Bulls,111,Toronto Raptors,91
+310105005,2011-01-05,Cleveland Cavaliers,105,Toronto Raptors,120
+310109028,2011-01-09,Toronto Raptors,118,Sacramento Kings,112
+310112028,2011-01-12,Toronto Raptors,101,Atlanta Hawks,104
+310114028,2011-01-14,Toronto Raptors,95,Detroit Pistons,101
+310115027,2011-01-15,Washington Wizards,98,Toronto Raptors,95
+310117003,2011-01-17,New Orleans Pelicans,85,Toronto Raptors,81
+310119024,2011-01-19,San Antonio Spurs,104,Toronto Raptors,95
+310121019,2011-01-21,Orlando Magic,112,Toronto Raptors,72
+310122014,2011-01-22,Miami Heat,120,Toronto Raptors,103
+310124028,2011-01-24,Toronto Raptors,98,Memphis Grizzlies,100
+310128028,2011-01-28,Toronto Raptors,110,Milwaukee Bucks,116
+310129016,2011-01-29,Minnesota Timberwolves,103,Toronto Raptors,87
+310131011,2011-01-31,Indiana Pacers,104,Toronto Raptors,93
+310202001,2011-02-02,Atlanta Hawks,100,Toronto Raptors,87
+310204028,2011-02-04,Toronto Raptors,111,Minnesota Timberwolves,100
+310208015,2011-02-08,Milwaukee Bucks,92,Toronto Raptors,74
+310209028,2011-02-09,Toronto Raptors,100,San Antonio Spurs,111
+310211028,2011-02-11,Toronto Raptors,96,Portland Trail Blazers,102
+310213028,2011-02-13,Toronto Raptors,98,LA Clippers,93
+310216028,2011-02-16,Toronto Raptors,95,Miami Heat,103
+310222030,2011-02-22,Charlotte Hornets,114,Toronto Raptors,101
+310223028,2011-02-23,Toronto Raptors,118,Chicago Bulls,113
+310225028,2011-02-25,Toronto Raptors,92,Phoenix Suns,110
+310227028,2011-02-27,Toronto Raptors,96,Dallas Mavericks,114
+310301028,2011-03-01,Toronto Raptors,96,New Orleans Pelicans,90
+310309028,2011-03-09,Toronto Raptors,94,Utah Jazz,96
+310311028,2011-03-11,Toronto Raptors,108,Indiana Pacers,98
+310313028,2011-03-13,Toronto Raptors,90,Charlotte Hornets,95
+310316008,2011-03-16,Detroit Pistons,107,Toronto Raptors,93
+310318028,2011-03-18,Toronto Raptors,116,Washington Wizards,107
+310320025,2011-03-20,Oklahoma City Thunder,93,Toronto Raptors,95
+310321007,2011-03-21,Denver Nuggets,123,Toronto Raptors,90
+310323021,2011-03-23,Phoenix Suns,114,Toronto Raptors,106
+310325009,2011-03-25,Golden State Warriors,138,Toronto Raptors,100
+310326012,2011-03-26,LA Clippers,94,Toronto Raptors,90
+310330028,2011-03-30,Toronto Raptors,98,Milwaukee Bucks,104
+310402004,2011-04-02,Chicago Bulls,113,Toronto Raptors,106
+310403028,2011-04-03,Toronto Raptors,102,Orlando Magic,98
+310406028,2011-04-06,Toronto Raptors,96,Cleveland Cavaliers,104
+310411015,2011-04-11,Milwaukee Bucks,93,Toronto Raptors,86
+310413028,2011-04-13,Toronto Raptors,79,Miami Heat,97
+301027009,2011-10-27,Golden State Warriors,132,Houston Rockets,128
+301029009,2011-10-29,Golden State Warriors,109,LA Clippers,91
+301031013,2011-10-31,Los Angeles Lakers,107,Golden State Warriors,83
+301103009,2011-11-03,Golden State Warriors,115,Memphis Grizzlies,109
+301105009,2011-11-05,Golden State Warriors,85,Utah Jazz,78
+301107008,2011-11-07,Detroit Pistons,102,Golden State Warriors,97
+301111004,2011-11-11,Chicago Bulls,120,Golden State Warriors,90
+301113015,2011-11-13,Milwaukee Bucks,79,Golden State Warriors,72
+301115009,2011-11-15,Golden State Warriors,101,Detroit Pistons,97
+301121013,2011-11-21,Los Angeles Lakers,117,Golden State Warriors,89
+301122009,2011-11-22,Golden State Warriors,89,Denver Nuggets,106
+301124010,2011-11-24,Houston Rockets,111,Golden State Warriors,101
+301126029,2011-11-26,Memphis Grizzlies,116,Golden State Warriors,111
+301127016,2011-11-27,Minnesota Timberwolves,94,Golden State Warriors,104
+301130009,2011-11-30,Golden State Warriors,98,San Antonio Spurs,118
+301202009,2011-12-02,Golden State Warriors,101,Phoenix Suns,107
+301205025,2011-12-05,Oklahoma City Thunder,114,Golden State Warriors,109
+301207006,2011-12-07,Dallas Mavericks,105,Golden State Warriors,100
+301208024,2011-12-08,San Antonio Spurs,111,Golden State Warriors,94
+301210009,2011-12-10,Golden State Warriors,84,Miami Heat,106
+301213026,2011-12-13,Utah Jazz,108,Golden State Warriors,95
+301214009,2011-12-14,Golden State Warriors,108,Minnesota Timberwolves,99
+301218022,2011-12-18,Portland Trail Blazers,96,Golden State Warriors,95
+301220009,2011-12-20,Golden State Warriors,112,Houston Rockets,121
+301221023,2011-12-21,Sacramento Kings,109,Golden State Warriors,117
+301225009,2011-12-25,Golden State Warriors,109,Portland Trail Blazers,102
+301229001,2011-12-29,Atlanta Hawks,103,Golden State Warriors,93
+301231030,2011-12-31,Charlotte Hornets,95,Golden State Warriors,96
+310101014,2011-01-01,Miami Heat,114,Golden State Warriors,107
+310103019,2011-01-03,Orlando Magic,110,Golden State Warriors,90
+310105003,2011-01-05,New Orleans Pelicans,103,Golden State Warriors,110
+310107009,2011-01-07,Golden State Warriors,116,Cleveland Cavaliers,98
+310109012,2011-01-09,LA Clippers,105,Golden State Warriors,91
+310112009,2011-01-12,Golden State Warriors,110,Los Angeles Lakers,115
+310114009,2011-01-14,Golden State Warriors,122,LA Clippers,112
+310119009,2011-01-19,Golden State Warriors,110,Indiana Pacers,108
+310121009,2011-01-21,Golden State Warriors,119,Sacramento Kings,112
+310122012,2011-01-22,LA Clippers,113,Golden State Warriors,109
+310124009,2011-01-24,Golden State Warriors,102,San Antonio Spurs,113
+310126009,2011-01-26,Golden State Warriors,103,New Orleans Pelicans,112
+310128009,2011-01-28,Golden State Warriors,113,Charlotte Hornets,121
+310130009,2011-01-30,Golden State Warriors,96,Utah Jazz,81
+310203009,2011-02-03,Golden State Warriors,100,Milwaukee Bucks,94
+310205009,2011-02-05,Golden State Warriors,101,Chicago Bulls,90
+310207009,2011-02-07,Golden State Warriors,92,Phoenix Suns,104
+310209009,2011-02-09,Golden State Warriors,116,Denver Nuggets,114
+310210021,2011-02-10,Phoenix Suns,112,Golden State Warriors,88
+310213009,2011-02-13,Golden State Warriors,100,Oklahoma City Thunder,94
+310215009,2011-02-15,Golden State Warriors,102,New Orleans Pelicans,89
+310216026,2011-02-16,Utah Jazz,100,Golden State Warriors,107
+310225009,2011-02-25,Golden State Warriors,79,Atlanta Hawks,95
+310227016,2011-02-27,Minnesota Timberwolves,126,Golden State Warriors,123
+310301011,2011-03-01,Indiana Pacers,109,Golden State Warriors,100
+310302027,2011-03-02,Washington Wizards,102,Golden State Warriors,106
+310308005,2011-03-08,Cleveland Cavaliers,85,Golden State Warriors,95
+310311009,2011-03-11,Golden State Warriors,123,Orlando Magic,120
+310313009,2011-03-13,Golden State Warriors,100,Minnesota Timberwolves,77
+310314023,2011-03-14,Sacramento Kings,129,Golden State Warriors,119
+310316009,2011-03-16,Golden State Warriors,106,Dallas Mavericks,112
+310318021,2011-03-18,Phoenix Suns,108,Golden State Warriors,97
+310320006,2011-03-20,Dallas Mavericks,101,Golden State Warriors,73
+310321024,2011-03-21,San Antonio Spurs,111,Golden State Warriors,96
+310323010,2011-03-23,Houston Rockets,131,Golden State Warriors,112
+310327009,2011-03-27,Golden State Warriors,114,Washington Wizards,104
+310329025,2011-03-29,Oklahoma City Thunder,115,Golden State Warriors,114
+310330029,2011-03-30,Memphis Grizzlies,110,Golden State Warriors,91
+310402009,2011-04-02,Golden State Warriors,99,Dallas Mavericks,92
+310405022,2011-04-05,Portland Trail Blazers,87,Golden State Warriors,108
+310406009,2011-04-06,Golden State Warriors,95,Los Angeles Lakers,87
+310410009,2011-04-10,Golden State Warriors,103,Sacramento Kings,104
+310411007,2011-04-11,Denver Nuggets,134,Golden State Warriors,111
+310413009,2011-04-13,Golden State Warriors,110,Portland Trail Blazers,86
+301027012,2011-10-27,LA Clippers,88,Portland Trail Blazers,98
+301031012,2011-10-31,LA Clippers,83,Dallas Mavericks,99
+301101012,2011-11-01,LA Clippers,88,San Antonio Spurs,97
+301103012,2011-11-03,LA Clippers,107,Oklahoma City Thunder,92
+301105007,2011-11-05,Denver Nuggets,111,LA Clippers,104
+301106026,2011-11-06,Utah Jazz,109,LA Clippers,107
+301109003,2011-11-09,New Orleans Pelicans,101,LA Clippers,82
+301110024,2011-11-10,San Antonio Spurs,107,LA Clippers,95
+301112012,2011-11-12,LA Clippers,107,Detroit Pistons,113
+301117016,2011-11-17,Minnesota Timberwolves,113,LA Clippers,111
+301118011,2011-11-18,Indiana Pacers,107,LA Clippers,80
+301122012,2011-11-22,LA Clippers,99,New Orleans Pelicans,95
+301125012,2011-11-25,LA Clippers,100,Sacramento Kings,82
+301126021,2011-11-26,Phoenix Suns,116,LA Clippers,108
+301128012,2011-11-28,LA Clippers,97,Utah Jazz,109
+301201012,2011-12-01,LA Clippers,90,San Antonio Spurs,85
+301203007,2011-12-03,Denver Nuggets,109,LA Clippers,104
+301205022,2011-12-05,Portland Trail Blazers,100,LA Clippers,91
+301206012,2011-12-06,LA Clippers,98,Sacramento Kings,91
+301208012,2011-12-08,LA Clippers,86,Los Angeles Lakers,87
+301211012,2011-12-11,LA Clippers,83,Memphis Grizzlies,84
+301212012,2011-12-12,LA Clippers,85,Orlando Magic,94
+301217008,2011-12-17,Detroit Pistons,88,LA Clippers,109
+301218004,2011-12-18,Chicago Bulls,99,LA Clippers,100
+301220012,2011-12-20,LA Clippers,113,Minnesota Timberwolves,90
+301222012,2011-12-22,LA Clippers,92,Houston Rockets,97
+301226012,2011-12-26,LA Clippers,108,Phoenix Suns,103
+301227023,2011-12-27,Sacramento Kings,99,LA Clippers,100
+301229012,2011-12-29,LA Clippers,95,Utah Jazz,103
+310102012,2011-01-02,LA Clippers,98,Atlanta Hawks,107
+310105012,2011-01-05,LA Clippers,106,Denver Nuggets,93
+310112012,2011-01-12,LA Clippers,111,Miami Heat,105
+310116012,2011-01-16,LA Clippers,99,Los Angeles Lakers,92
+310117012,2011-01-17,LA Clippers,114,Indiana Pacers,107
+310119012,2011-01-19,LA Clippers,126,Minnesota Timberwolves,111
+310120022,2011-01-20,Portland Trail Blazers,108,LA Clippers,93
+310125006,2011-01-25,Dallas Mavericks,112,LA Clippers,105
+310126010,2011-01-26,Houston Rockets,96,LA Clippers,83
+310129012,2011-01-29,LA Clippers,103,Charlotte Hornets,88
+310131012,2011-01-31,LA Clippers,105,Milwaukee Bucks,98
+310202012,2011-02-02,LA Clippers,88,Chicago Bulls,106
+310204001,2011-02-04,Atlanta Hawks,101,LA Clippers,100
+310206014,2011-02-06,Miami Heat,97,LA Clippers,79
+310208019,2011-02-08,Orlando Magic,101,LA Clippers,85
+310211005,2011-02-11,Cleveland Cavaliers,126,LA Clippers,119
+310214015,2011-02-14,Milwaukee Bucks,102,LA Clippers,78
+310216016,2011-02-16,Minnesota Timberwolves,90,LA Clippers,98
+310222025,2011-02-22,Oklahoma City Thunder,111,LA Clippers,88
+310223003,2011-02-23,New Orleans Pelicans,98,LA Clippers,87
+310225013,2011-02-25,Los Angeles Lakers,108,LA Clippers,95
+310228023,2011-02-28,Sacramento Kings,105,LA Clippers,99
+310302012,2011-03-02,LA Clippers,106,Houston Rockets,103
+310305012,2011-03-05,LA Clippers,100,Denver Nuggets,94
+310307030,2011-03-07,Charlotte Hornets,87,LA Clippers,92
+310312027,2011-03-12,Washington Wizards,101,LA Clippers,122
+310314029,2011-03-14,Memphis Grizzlies,105,LA Clippers,82
+310319012,2011-03-19,LA Clippers,100,Cleveland Cavaliers,92
+310320012,2011-03-20,LA Clippers,99,Phoenix Suns,108
+310323012,2011-03-23,LA Clippers,127,Washington Wizards,119
+310325013,2011-03-25,Los Angeles Lakers,112,LA Clippers,104
+310330012,2011-03-30,LA Clippers,100,Dallas Mavericks,106
+310401021,2011-04-01,Phoenix Suns,111,LA Clippers,98
+310402012,2011-04-02,LA Clippers,98,Oklahoma City Thunder,92
+310405029,2011-04-05,Memphis Grizzlies,81,LA Clippers,82
+310406025,2011-04-06,Oklahoma City Thunder,112,LA Clippers,108
+310408006,2011-04-08,Dallas Mavericks,107,LA Clippers,96
+310409010,2011-04-09,Houston Rockets,99,LA Clippers,78
+310413012,2011-04-13,LA Clippers,110,Memphis Grizzlies,103
+301026013,2011-10-26,Los Angeles Lakers,112,Houston Rockets,110
+301029021,2011-10-29,Phoenix Suns,106,Los Angeles Lakers,114
+301102013,2011-11-02,Los Angeles Lakers,124,Memphis Grizzlies,105
+301103023,2011-11-03,Sacramento Kings,100,Los Angeles Lakers,112
+301107013,2011-11-07,Los Angeles Lakers,121,Portland Trail Blazers,96
+301109013,2011-11-09,Los Angeles Lakers,99,Minnesota Timberwolves,94
+301111007,2011-11-11,Denver Nuggets,118,Los Angeles Lakers,112
+301114013,2011-11-14,Los Angeles Lakers,116,Phoenix Suns,121
+301116015,2011-11-16,Milwaukee Bucks,107,Los Angeles Lakers,118
+301117008,2011-11-17,Detroit Pistons,90,Los Angeles Lakers,103
+301119016,2011-11-19,Minnesota Timberwolves,95,Los Angeles Lakers,112
+301123013,2011-11-23,Los Angeles Lakers,98,Chicago Bulls,91
+301126026,2011-11-26,Utah Jazz,102,Los Angeles Lakers,96
+301128013,2011-11-28,Los Angeles Lakers,92,Indiana Pacers,95
+301130029,2011-11-30,Memphis Grizzlies,98,Los Angeles Lakers,96
+301201010,2011-12-01,Houston Rockets,109,Los Angeles Lakers,99
+301203013,2011-12-03,Los Angeles Lakers,113,Sacramento Kings,80
+301207013,2011-12-07,Los Angeles Lakers,115,Washington Wizards,108
+301210004,2011-12-10,Chicago Bulls,88,Los Angeles Lakers,84
+301214027,2011-12-14,Washington Wizards,89,Los Angeles Lakers,103
+301215011,2011-12-15,Indiana Pacers,94,Los Angeles Lakers,109
+301221013,2011-12-21,Los Angeles Lakers,79,Milwaukee Bucks,98
+301225013,2011-12-25,Los Angeles Lakers,80,Miami Heat,96
+301228024,2011-12-28,San Antonio Spurs,97,Los Angeles Lakers,82
+301229003,2011-12-29,New Orleans Pelicans,88,Los Angeles Lakers,103
+310102013,2011-01-02,Los Angeles Lakers,85,Memphis Grizzlies,104
+310104013,2011-01-04,Los Angeles Lakers,108,Detroit Pistons,83
+310105021,2011-01-05,Phoenix Suns,95,Los Angeles Lakers,99
+310107013,2011-01-07,Los Angeles Lakers,101,New Orleans Pelicans,97
+310111013,2011-01-11,Los Angeles Lakers,112,Cleveland Cavaliers,57
+310117013,2011-01-17,Los Angeles Lakers,101,Oklahoma City Thunder,94
+310119006,2011-01-19,Dallas Mavericks,109,Los Angeles Lakers,100
+310121007,2011-01-21,Denver Nuggets,97,Los Angeles Lakers,107
+310125013,2011-01-25,Los Angeles Lakers,120,Utah Jazz,91
+310128013,2011-01-28,Los Angeles Lakers,95,Sacramento Kings,100
+310201013,2011-02-01,Los Angeles Lakers,114,Houston Rockets,106
+310203013,2011-02-03,Los Angeles Lakers,88,San Antonio Spurs,89
+310205003,2011-02-05,New Orleans Pelicans,95,Los Angeles Lakers,101
+310207029,2011-02-07,Memphis Grizzlies,84,Los Angeles Lakers,93
+310213019,2011-02-13,Orlando Magic,89,Los Angeles Lakers,75
+310214030,2011-02-14,Charlotte Hornets,109,Los Angeles Lakers,89
+310216005,2011-02-16,Cleveland Cavaliers,104,Los Angeles Lakers,99
+310222013,2011-02-22,Los Angeles Lakers,104,Atlanta Hawks,80
+310223022,2011-02-23,Portland Trail Blazers,101,Los Angeles Lakers,106
+310227025,2011-02-27,Oklahoma City Thunder,87,Los Angeles Lakers,90
+310301016,2011-03-01,Minnesota Timberwolves,79,Los Angeles Lakers,90
+310304013,2011-03-04,Los Angeles Lakers,92,Charlotte Hornets,84
+310306024,2011-03-06,San Antonio Spurs,83,Los Angeles Lakers,99
+310308001,2011-03-08,Atlanta Hawks,87,Los Angeles Lakers,101
+310310014,2011-03-10,Miami Heat,94,Los Angeles Lakers,88
+310312006,2011-03-12,Dallas Mavericks,91,Los Angeles Lakers,96
+310314013,2011-03-14,Los Angeles Lakers,97,Orlando Magic,84
+310318013,2011-03-18,Los Angeles Lakers,106,Minnesota Timberwolves,98
+310320013,2011-03-20,Los Angeles Lakers,84,Portland Trail Blazers,80
+310322013,2011-03-22,Los Angeles Lakers,139,Phoenix Suns,137
+310327013,2011-03-27,Los Angeles Lakers,102,New Orleans Pelicans,84
+310331013,2011-03-31,Los Angeles Lakers,110,Dallas Mavericks,82
+310401026,2011-04-01,Utah Jazz,85,Los Angeles Lakers,96
+310403013,2011-04-03,Los Angeles Lakers,90,Denver Nuggets,95
+310405013,2011-04-05,Los Angeles Lakers,85,Utah Jazz,86
+310408022,2011-04-08,Portland Trail Blazers,93,Los Angeles Lakers,86
+310410013,2011-04-10,Los Angeles Lakers,106,Oklahoma City Thunder,120
+310412013,2011-04-12,Los Angeles Lakers,102,San Antonio Spurs,93
+310413023,2011-04-13,Sacramento Kings,108,Los Angeles Lakers,116
+301026022,2011-10-26,Portland Trail Blazers,106,Phoenix Suns,92
+301028026,2011-10-28,Utah Jazz,94,Phoenix Suns,110
+301103021,2011-11-03,Phoenix Suns,110,San Antonio Spurs,112
+301105021,2011-11-05,Phoenix Suns,123,Memphis Grizzlies,118
+301107001,2011-11-07,Atlanta Hawks,114,Phoenix Suns,118
+301108029,2011-11-08,Memphis Grizzlies,109,Phoenix Suns,99
+301112021,2011-11-12,Phoenix Suns,103,Sacramento Kings,89
+301115021,2011-11-15,Phoenix Suns,100,Denver Nuggets,94
+301117014,2011-11-17,Miami Heat,123,Phoenix Suns,96
+301118019,2011-11-18,Orlando Magic,105,Phoenix Suns,89
+301120030,2011-11-20,Charlotte Hornets,123,Phoenix Suns,105
+301122010,2011-11-22,Houston Rockets,116,Phoenix Suns,123
+301124021,2011-11-24,Phoenix Suns,115,Chicago Bulls,123
+301128007,2011-11-28,Denver Nuggets,138,Phoenix Suns,133
+301203021,2011-12-03,Phoenix Suns,105,Indiana Pacers,97
+301205021,2011-12-05,Phoenix Suns,125,Washington Wizards,108
+301207022,2011-12-07,Portland Trail Blazers,106,Phoenix Suns,99
+301208021,2011-12-08,Phoenix Suns,98,Memphis Grizzlies,104
+301210021,2011-12-10,Phoenix Suns,94,Portland Trail Blazers,101
+301215021,2011-12-15,Phoenix Suns,128,Minnesota Timberwolves,122
+301217006,2011-12-17,Dallas Mavericks,106,Phoenix Suns,91
+301219025,2011-12-19,Oklahoma City Thunder,110,Phoenix Suns,113
+301220024,2011-12-20,San Antonio Spurs,118,Phoenix Suns,110
+301223021,2011-12-23,Phoenix Suns,83,Miami Heat,95
+301231021,2011-12-31,Phoenix Suns,92,Detroit Pistons,75
+310102023,2011-01-02,Sacramento Kings,94,Phoenix Suns,89
+310109021,2011-01-09,Phoenix Suns,108,Cleveland Cavaliers,100
+310111007,2011-01-11,Denver Nuggets,132,Phoenix Suns,98
+310114021,2011-01-14,Phoenix Suns,115,Portland Trail Blazers,111
+310119005,2011-01-19,Cleveland Cavaliers,98,Phoenix Suns,106
+310121027,2011-01-21,Washington Wizards,91,Phoenix Suns,109
+310122008,2011-01-22,Detroit Pistons,75,Phoenix Suns,74
+310126021,2011-01-26,Phoenix Suns,107,Charlotte Hornets,114
+310130021,2011-01-30,Phoenix Suns,104,New Orleans Pelicans,102
+310202021,2011-02-02,Phoenix Suns,92,Milwaukee Bucks,77
+310204021,2011-02-04,Phoenix Suns,107,Oklahoma City Thunder,111
+310211026,2011-02-11,Utah Jazz,83,Phoenix Suns,95
+310213021,2011-02-13,Phoenix Suns,108,Sacramento Kings,113
+310215021,2011-02-15,Phoenix Suns,102,Utah Jazz,101
+310217021,2011-02-17,Phoenix Suns,106,Dallas Mavericks,112
+310223021,2011-02-23,Phoenix Suns,105,Atlanta Hawks,97
+310227011,2011-02-27,Indiana Pacers,108,Phoenix Suns,110
+310304015,2011-03-04,Milwaukee Bucks,88,Phoenix Suns,102
+310306025,2011-03-06,Oklahoma City Thunder,122,Phoenix Suns,118
+310308021,2011-03-08,Phoenix Suns,113,Houston Rockets,110
+310310021,2011-03-10,Phoenix Suns,97,Denver Nuggets,116
+310313021,2011-03-13,Phoenix Suns,88,Orlando Magic,111
+310314010,2011-03-14,Houston Rockets,95,Phoenix Suns,93
+310316003,2011-03-16,New Orleans Pelicans,100,Phoenix Suns,95
+310325021,2011-03-25,Phoenix Suns,100,New Orleans Pelicans,106
+310327021,2011-03-27,Phoenix Suns,83,Dallas Mavericks,91
+310329023,2011-03-29,Sacramento Kings,116,Phoenix Suns,113
+310330021,2011-03-30,Phoenix Suns,98,Oklahoma City Thunder,116
+310403024,2011-04-03,San Antonio Spurs,114,Phoenix Suns,97
+310405004,2011-04-05,Chicago Bulls,97,Phoenix Suns,94
+310406016,2011-04-06,Minnesota Timberwolves,98,Phoenix Suns,108
+310408003,2011-04-08,New Orleans Pelicans,109,Phoenix Suns,97
+310410006,2011-04-10,Dallas Mavericks,115,Phoenix Suns,90
+310411021,2011-04-11,Phoenix Suns,135,Minnesota Timberwolves,127
+310413021,2011-04-13,Phoenix Suns,106,San Antonio Spurs,103
+301027016,2011-10-27,Minnesota Timberwolves,116,Sacramento Kings,117
+301030005,2011-10-30,Cleveland Cavaliers,104,Sacramento Kings,107
+301106023,2011-11-06,Sacramento Kings,91,Memphis Grizzlies,100
+301110023,2011-11-10,Sacramento Kings,89,Minnesota Timberwolves,98
+301114023,2011-11-14,Sacramento Kings,94,Detroit Pistons,100
+301121023,2011-11-21,Sacramento Kings,71,New Orleans Pelicans,75
+301122026,2011-11-22,Utah Jazz,94,Sacramento Kings,83
+301127023,2011-11-27,Sacramento Kings,85,Chicago Bulls,96
+301130023,2011-11-30,Sacramento Kings,98,Indiana Pacers,107
+301204023,2011-12-04,Sacramento Kings,103,Dallas Mavericks,105
+301208023,2011-12-08,Sacramento Kings,116,Washington Wizards,91
+301211023,2011-12-11,Sacramento Kings,83,Miami Heat,104
+301214010,2011-12-14,Houston Rockets,118,Sacramento Kings,105
+301215003,2011-12-15,New Orleans Pelicans,94,Sacramento Kings,91
+301217025,2011-12-17,Oklahoma City Thunder,102,Sacramento Kings,87
+301219023,2011-12-19,Sacramento Kings,93,Houston Rockets,102
+301223023,2011-12-23,Sacramento Kings,79,Milwaukee Bucks,84
+301229023,2011-12-29,Sacramento Kings,100,Memphis Grizzlies,98
+310101007,2011-01-01,Denver Nuggets,104,Sacramento Kings,86
+310104023,2011-01-04,Sacramento Kings,102,Atlanta Hawks,108
+310106023,2011-01-06,Sacramento Kings,122,Denver Nuggets,102
+310111027,2011-01-11,Washington Wizards,136,Sacramento Kings,133
+310115008,2011-01-15,Detroit Pistons,110,Sacramento Kings,106
+310117001,2011-01-17,Atlanta Hawks,100,Sacramento Kings,98
+310119023,2011-01-19,Sacramento Kings,90,Portland Trail Blazers,94
+310124022,2011-01-24,Portland Trail Blazers,81,Sacramento Kings,96
+310125023,2011-01-25,Sacramento Kings,89,Charlotte Hornets,94
+310129023,2011-01-29,Sacramento Kings,102,New Orleans Pelicans,96
+310204023,2011-02-04,Sacramento Kings,100,San Antonio Spurs,113
+310207023,2011-02-07,Sacramento Kings,104,Utah Jazz,107
+310209023,2011-02-09,Sacramento Kings,100,Dallas Mavericks,102
+310212023,2011-02-12,Sacramento Kings,97,Oklahoma City Thunder,99
+310215025,2011-02-15,Oklahoma City Thunder,126,Sacramento Kings,96
+310216006,2011-02-16,Dallas Mavericks,116,Sacramento Kings,100
+310222014,2011-02-22,Miami Heat,117,Sacramento Kings,97
+310223019,2011-02-23,Orlando Magic,105,Sacramento Kings,111
+310225030,2011-02-25,Charlotte Hornets,110,Sacramento Kings,98
+310226029,2011-02-26,Memphis Grizzlies,120,Sacramento Kings,92
+310302023,2011-03-02,Sacramento Kings,102,Portland Trail Blazers,107
+310305026,2011-03-05,Utah Jazz,109,Sacramento Kings,102
+310307023,2011-03-07,Sacramento Kings,101,Houston Rockets,123
+310309023,2011-03-09,Sacramento Kings,102,Orlando Magic,106
+310311024,2011-03-11,San Antonio Spurs,108,Sacramento Kings,103
+310312003,2011-03-12,New Orleans Pelicans,115,Sacramento Kings,103
+310316023,2011-03-16,Sacramento Kings,93,Cleveland Cavaliers,97
+310320016,2011-03-20,Minnesota Timberwolves,95,Sacramento Kings,127
+310321004,2011-03-21,Chicago Bulls,132,Sacramento Kings,92
+310323015,2011-03-23,Milwaukee Bucks,90,Sacramento Kings,97
+310325011,2011-03-25,Indiana Pacers,93,Sacramento Kings,110
+310330007,2011-03-30,Denver Nuggets,104,Sacramento Kings,90
+310401023,2011-04-01,Sacramento Kings,90,Denver Nuggets,99
+310403023,2011-04-03,Sacramento Kings,106,Utah Jazz,97
+310405010,2011-04-05,Houston Rockets,101,Sacramento Kings,104
+310406024,2011-04-06,San Antonio Spurs,124,Sacramento Kings,92
+310408029,2011-04-08,Memphis Grizzlies,101,Sacramento Kings,96
+310411023,2011-04-11,Sacramento Kings,112,Oklahoma City Thunder,120
+301027025,2011-10-27,Oklahoma City Thunder,106,Chicago Bulls,95
+301030004,2011-10-30,Chicago Bulls,101,Detroit Pistons,91
+301101004,2011-11-01,Chicago Bulls,110,Portland Trail Blazers,98
+301108004,2011-11-08,Chicago Bulls,94,Denver Nuggets,92
+301113004,2011-11-13,Chicago Bulls,103,Washington Wizards,96
+301116010,2011-11-16,Houston Rockets,92,Chicago Bulls,95
+301117024,2011-11-17,San Antonio Spurs,103,Chicago Bulls,94
+301119006,2011-11-19,Dallas Mavericks,83,Chicago Bulls,88
+301126007,2011-11-26,Denver Nuggets,98,Chicago Bulls,97
+301201004,2011-12-01,Chicago Bulls,78,Orlando Magic,107
+301204004,2011-12-04,Chicago Bulls,119,Houston Rockets,116
+301206004,2011-12-06,Chicago Bulls,99,Oklahoma City Thunder,90
+301208005,2011-12-08,Cleveland Cavaliers,83,Chicago Bulls,88
+301211004,2011-12-11,Chicago Bulls,113,Minnesota Timberwolves,82
+301213004,2011-12-13,Chicago Bulls,92,Indiana Pacers,73
+301222027,2011-12-22,Washington Wizards,80,Chicago Bulls,87
+301226008,2011-12-26,Detroit Pistons,92,Chicago Bulls,95
+301228004,2011-12-28,Chicago Bulls,90,Milwaukee Bucks,77
+310101004,2011-01-01,Chicago Bulls,100,Cleveland Cavaliers,91
+310110004,2011-01-10,Chicago Bulls,95,Detroit Pistons,82
+310112030,2011-01-12,Charlotte Hornets,96,Chicago Bulls,91
+310114011,2011-01-14,Indiana Pacers,86,Chicago Bulls,99
+310115004,2011-01-15,Chicago Bulls,99,Miami Heat,96
+310117029,2011-01-17,Memphis Grizzlies,84,Chicago Bulls,96
+310118004,2011-01-18,Chicago Bulls,82,Charlotte Hornets,83
+310120004,2011-01-20,Chicago Bulls,82,Dallas Mavericks,77
+310122004,2011-01-22,Chicago Bulls,92,Cleveland Cavaliers,79
+310124004,2011-01-24,Chicago Bulls,92,Milwaukee Bucks,83
+310128004,2011-01-28,Chicago Bulls,99,Orlando Magic,90
+310129004,2011-01-29,Chicago Bulls,110,Indiana Pacers,89
+310207022,2011-02-07,Portland Trail Blazers,109,Chicago Bulls,103
+310209026,2011-02-09,Utah Jazz,86,Chicago Bulls,91
+310212003,2011-02-12,New Orleans Pelicans,88,Chicago Bulls,97
+310215004,2011-02-15,Chicago Bulls,106,Charlotte Hornets,94
+310217004,2011-02-17,Chicago Bulls,109,San Antonio Spurs,99
+310224004,2011-02-24,Chicago Bulls,93,Miami Heat,89
+310226015,2011-02-26,Milwaukee Bucks,75,Chicago Bulls,83
+310228027,2011-02-28,Washington Wizards,77,Chicago Bulls,105
+310302001,2011-03-02,Atlanta Hawks,83,Chicago Bulls,80
+310304019,2011-03-04,Orlando Magic,81,Chicago Bulls,89
+310306014,2011-03-06,Miami Heat,86,Chicago Bulls,87
+310307004,2011-03-07,Chicago Bulls,85,New Orleans Pelicans,77
+310309030,2011-03-09,Charlotte Hornets,84,Chicago Bulls,101
+310311004,2011-03-11,Chicago Bulls,94,Atlanta Hawks,76
+310312004,2011-03-12,Chicago Bulls,118,Utah Jazz,100
+310315004,2011-03-15,Chicago Bulls,98,Washington Wizards,79
+310318011,2011-03-18,Indiana Pacers,115,Chicago Bulls,108
+310322001,2011-03-22,Atlanta Hawks,81,Chicago Bulls,114
+310325004,2011-03-25,Chicago Bulls,99,Memphis Grizzlies,96
+310326015,2011-03-26,Milwaukee Bucks,87,Chicago Bulls,95
+310330016,2011-03-30,Minnesota Timberwolves,91,Chicago Bulls,108
+310401008,2011-04-01,Detroit Pistons,96,Chicago Bulls,101
+310408005,2011-04-08,Cleveland Cavaliers,82,Chicago Bulls,93
+310410019,2011-04-10,Orlando Magic,99,Chicago Bulls,102
+301102005,2011-11-02,Cleveland Cavaliers,88,Atlanta Hawks,100
+301106027,2011-11-06,Washington Wizards,102,Cleveland Cavaliers,107
+301113005,2011-11-13,Cleveland Cavaliers,85,Indiana Pacers,99
+301119003,2011-11-19,New Orleans Pelicans,108,Cleveland Cavaliers,101
+301120024,2011-11-20,San Antonio Spurs,116,Cleveland Cavaliers,92
+301123011,2011-11-23,Indiana Pacers,100,Cleveland Cavaliers,89
+301124005,2011-11-24,Cleveland Cavaliers,83,Milwaukee Bucks,81
+301126019,2011-11-26,Orlando Magic,111,Cleveland Cavaliers,100
+301127005,2011-11-27,Cleveland Cavaliers,92,Memphis Grizzlies,86
+301202005,2011-12-02,Cleveland Cavaliers,90,Miami Heat,118
+301204016,2011-12-04,Minnesota Timberwolves,129,Cleveland Cavaliers,95
+301205008,2011-12-05,Detroit Pistons,102,Cleveland Cavaliers,92
+301211010,2011-12-11,Houston Rockets,110,Cleveland Cavaliers,95
+301212025,2011-12-12,Oklahoma City Thunder,106,Cleveland Cavaliers,77
+301215014,2011-12-15,Miami Heat,101,Cleveland Cavaliers,95
+301217011,2011-12-17,Indiana Pacers,108,Cleveland Cavaliers,99
+301220005,2011-12-20,Cleveland Cavaliers,90,Utah Jazz,101
+301222001,2011-12-22,Atlanta Hawks,98,Cleveland Cavaliers,84
+301226005,2011-12-26,Cleveland Cavaliers,97,Minnesota Timberwolves,98
+301228005,2011-12-28,Cleveland Cavaliers,95,Orlando Magic,110
+301229030,2011-12-29,Charlotte Hornets,101,Cleveland Cavaliers,92
+310102005,2011-01-02,Cleveland Cavaliers,95,Dallas Mavericks,104
+310114026,2011-01-14,Utah Jazz,121,Cleveland Cavaliers,99
+310115007,2011-01-15,Denver Nuggets,127,Cleveland Cavaliers,99
+310121005,2011-01-21,Cleveland Cavaliers,88,Milwaukee Bucks,102
+310128005,2011-01-28,Cleveland Cavaliers,103,Denver Nuggets,117
+310130019,2011-01-30,Orlando Magic,103,Cleveland Cavaliers,87
+310131014,2011-01-31,Miami Heat,117,Cleveland Cavaliers,90
+310202005,2011-02-02,Cleveland Cavaliers,112,Indiana Pacers,117
+310204029,2011-02-04,Memphis Grizzlies,112,Cleveland Cavaliers,105
+310205005,2011-02-05,Cleveland Cavaliers,105,Portland Trail Blazers,111
+310207006,2011-02-07,Dallas Mavericks,99,Cleveland Cavaliers,96
+310209005,2011-02-09,Cleveland Cavaliers,94,Detroit Pistons,103
+310213005,2011-02-13,Cleveland Cavaliers,100,Washington Wizards,115
+310223005,2011-02-23,Cleveland Cavaliers,119,Houston Rockets,124
+310302005,2011-03-02,Cleveland Cavaliers,99,San Antonio Spurs,109
+310306005,2011-03-06,Cleveland Cavaliers,81,New Orleans Pelicans,96
+310309015,2011-03-09,Milwaukee Bucks,110,Cleveland Cavaliers,90
+310313005,2011-03-13,Cleveland Cavaliers,75,Oklahoma City Thunder,95
+310317022,2011-03-17,Portland Trail Blazers,111,Cleveland Cavaliers,70
+310321005,2011-03-21,Cleveland Cavaliers,86,Orlando Magic,97
+310325005,2011-03-25,Cleveland Cavaliers,97,Detroit Pistons,91
+310327005,2011-03-27,Cleveland Cavaliers,83,Atlanta Hawks,99
+310329005,2011-03-29,Cleveland Cavaliers,102,Miami Heat,90
+310330030,2011-03-30,Charlotte Hornets,98,Cleveland Cavaliers,97
+310401027,2011-04-01,Washington Wizards,115,Cleveland Cavaliers,107
+310405005,2011-04-05,Cleveland Cavaliers,99,Charlotte Hornets,89
+310409015,2011-04-09,Milwaukee Bucks,108,Cleveland Cavaliers,101
+310411008,2011-04-11,Detroit Pistons,101,Cleveland Cavaliers,110
+310413005,2011-04-13,Cleveland Cavaliers,100,Washington Wizards,93
+301029008,2011-10-29,Detroit Pistons,104,Oklahoma City Thunder,105
+301103001,2011-11-03,Atlanta Hawks,94,Detroit Pistons,85
+301105008,2011-11-05,Detroit Pistons,97,Charlotte Hornets,90
+301109022,2011-11-09,Portland Trail Blazers,100,Detroit Pistons,78
+301121008,2011-11-21,Detroit Pistons,115,Washington Wizards,110
+301123006,2011-11-23,Dallas Mavericks,88,Detroit Pistons,84
+301124029,2011-11-24,Memphis Grizzlies,105,Detroit Pistons,84
+301126008,2011-11-26,Detroit Pistons,103,Milwaukee Bucks,89
+301130019,2011-11-30,Orlando Magic,90,Detroit Pistons,79
+301201014,2011-12-01,Miami Heat,97,Detroit Pistons,72
+301203008,2011-12-03,Detroit Pistons,91,Orlando Magic,104
+301207010,2011-12-07,Houston Rockets,97,Detroit Pistons,83
+301208003,2011-12-08,New Orleans Pelicans,93,Detroit Pistons,74
+301210016,2011-12-10,Minnesota Timberwolves,109,Detroit Pistons,99
+301214008,2011-12-14,Detroit Pistons,103,Atlanta Hawks,80
+301219008,2011-12-19,Detroit Pistons,111,New Orleans Pelicans,108
+301227030,2011-12-27,Charlotte Hornets,105,Detroit Pistons,100
+310103026,2011-01-03,Utah Jazz,102,Detroit Pistons,97
+310112008,2011-01-12,Detroit Pistons,99,Memphis Grizzlies,107
+310117008,2011-01-17,Detroit Pistons,103,Dallas Mavericks,89
+310124019,2011-01-24,Orlando Magic,96,Detroit Pistons,103
+310126008,2011-01-26,Detroit Pistons,100,Denver Nuggets,109
+310128014,2011-01-28,Miami Heat,88,Detroit Pistons,87
+310202008,2011-02-02,Detroit Pistons,87,Charlotte Hornets,97
+310205015,2011-02-05,Milwaukee Bucks,78,Detroit Pistons,89
+310208008,2011-02-08,Detroit Pistons,89,San Antonio Spurs,100
+310211008,2011-02-11,Detroit Pistons,92,Miami Heat,106
+310213008,2011-02-13,Detroit Pistons,100,Portland Trail Blazers,105
+310214008,2011-02-14,Detroit Pistons,79,Atlanta Hawks,94
+310216008,2011-02-16,Detroit Pistons,115,Indiana Pacers,109
+310222008,2011-02-22,Detroit Pistons,100,Houston Rockets,108
+310223011,2011-02-23,Indiana Pacers,102,Detroit Pistons,101
+310226008,2011-02-26,Detroit Pistons,120,Utah Jazz,116
+310301015,2011-03-01,Milwaukee Bucks,92,Detroit Pistons,90
+310302008,2011-03-02,Detroit Pistons,105,Minnesota Timberwolves,116
+310306008,2011-03-06,Detroit Pistons,113,Washington Wizards,102
+310309024,2011-03-09,San Antonio Spurs,111,Detroit Pistons,104
+310311025,2011-03-11,Oklahoma City Thunder,104,Detroit Pistons,94
+310312007,2011-03-12,Denver Nuggets,131,Detroit Pistons,101
+310320001,2011-03-20,Atlanta Hawks,104,Detroit Pistons,96
+310323008,2011-03-23,Detroit Pistons,94,Miami Heat,100
+310326008,2011-03-26,Detroit Pistons,100,Indiana Pacers,88
+310330011,2011-03-30,Indiana Pacers,111,Detroit Pistons,101
+310405027,2011-04-05,Washington Wizards,107,Detroit Pistons,105
+310408008,2011-04-08,Detroit Pistons,110,Milwaukee Bucks,100
+310410030,2011-04-10,Charlotte Hornets,101,Detroit Pistons,112
+301027024,2011-10-27,San Antonio Spurs,122,Indiana Pacers,109
+301029030,2011-10-29,Charlotte Hornets,101,Indiana Pacers,104
+301105011,2011-11-05,Indiana Pacers,90,Milwaukee Bucks,94
+301109011,2011-11-09,Indiana Pacers,144,Denver Nuggets,113
+301112011,2011-11-12,Indiana Pacers,99,Houston Rockets,102
+301116011,2011-11-16,Indiana Pacers,92,Atlanta Hawks,102
+301120011,2011-11-20,Indiana Pacers,86,Orlando Magic,90
+301122014,2011-11-22,Miami Heat,77,Indiana Pacers,93
+301126011,2011-11-26,Indiana Pacers,106,Oklahoma City Thunder,110
+301201026,2011-12-01,Utah Jazz,110,Indiana Pacers,88
+301208015,2011-12-08,Milwaukee Bucks,97,Indiana Pacers,95
+301210011,2011-12-10,Indiana Pacers,100,Charlotte Hornets,92
+301211001,2011-12-11,Atlanta Hawks,97,Indiana Pacers,83
+301220011,2011-12-20,Indiana Pacers,94,New Orleans Pelicans,93
+301226011,2011-12-26,Indiana Pacers,90,Memphis Grizzlies,104
+301229027,2011-12-29,Washington Wizards,104,Indiana Pacers,90
+301231011,2011-12-31,Indiana Pacers,95,Washington Wizards,86
+310107011,2011-01-07,Indiana Pacers,87,San Antonio Spurs,90
+310108001,2011-01-08,Atlanta Hawks,108,Indiana Pacers,93
+310112011,2011-01-12,Indiana Pacers,102,Dallas Mavericks,89
+310122022,2011-01-22,Portland Trail Blazers,97,Indiana Pacers,92
+310123007,2011-01-23,Denver Nuggets,121,Indiana Pacers,107
+310126011,2011-01-26,Indiana Pacers,96,Orlando Magic,111
+310204011,2011-02-04,Indiana Pacers,100,Portland Trail Blazers,87
+310208014,2011-02-08,Miami Heat,117,Indiana Pacers,112
+310209011,2011-02-09,Indiana Pacers,104,Charlotte Hornets,103
+310211011,2011-02-11,Indiana Pacers,116,Minnesota Timberwolves,105
+310212015,2011-02-12,Milwaukee Bucks,97,Indiana Pacers,103
+310215011,2011-02-15,Indiana Pacers,103,Miami Heat,110
+310222027,2011-02-22,Washington Wizards,96,Indiana Pacers,113
+310225011,2011-02-25,Indiana Pacers,84,Utah Jazz,95
+310302025,2011-03-02,Oklahoma City Thunder,113,Indiana Pacers,89
+310304006,2011-03-04,Dallas Mavericks,116,Indiana Pacers,108
+310305010,2011-03-05,Houston Rockets,112,Indiana Pacers,95
+310309016,2011-03-09,Minnesota Timberwolves,101,Indiana Pacers,75
+310319029,2011-03-19,Memphis Grizzlies,99,Indiana Pacers,78
+310323030,2011-03-23,Charlotte Hornets,88,Indiana Pacers,111
+310401011,2011-04-01,Indiana Pacers,89,Milwaukee Bucks,88
+310403003,2011-04-03,New Orleans Pelicans,108,Indiana Pacers,96
+310406011,2011-04-06,Indiana Pacers,136,Washington Wizards,112
+310408011,2011-04-08,Indiana Pacers,114,Atlanta Hawks,102
+310413019,2011-04-13,Orlando Magic,92,Indiana Pacers,74
+301027003,2011-10-27,New Orleans Pelicans,95,Milwaukee Bucks,91
+301029016,2011-10-29,Minnesota Timberwolves,96,Milwaukee Bucks,85
+301030015,2011-10-30,Milwaukee Bucks,98,Charlotte Hornets,88
+301102015,2011-11-02,Milwaukee Bucks,76,Portland Trail Blazers,90
+301106015,2011-11-06,Milwaukee Bucks,81,New Orleans Pelicans,87
+301110001,2011-11-10,Atlanta Hawks,91,Milwaukee Bucks,108
+301120015,2011-11-20,Milwaukee Bucks,81,Oklahoma City Thunder,82
+301127015,2011-11-27,Milwaukee Bucks,104,Charlotte Hornets,101
+301129026,2011-11-29,Utah Jazz,109,Milwaukee Bucks,88
+301201007,2011-12-01,Denver Nuggets,105,Milwaukee Bucks,94
+301204015,2011-12-04,Milwaukee Bucks,96,Orlando Magic,85
+301206015,2011-12-06,Milwaukee Bucks,78,Miami Heat,88
+301210015,2011-12-10,Milwaukee Bucks,97,Houston Rockets,91
+301213006,2011-12-13,Dallas Mavericks,99,Milwaukee Bucks,103
+301215024,2011-12-15,San Antonio Spurs,92,Milwaukee Bucks,90
+301218015,2011-12-18,Milwaukee Bucks,86,Utah Jazz,95
+301220022,2011-12-20,Portland Trail Blazers,106,Milwaukee Bucks,80
+301227015,2011-12-27,Milwaukee Bucks,80,Atlanta Hawks,95
+310101015,2011-01-01,Milwaukee Bucks,99,Dallas Mavericks,87
+310104014,2011-01-04,Miami Heat,101,Milwaukee Bucks,89
+310105019,2011-01-05,Orlando Magic,97,Milwaukee Bucks,87
+310107015,2011-01-07,Milwaukee Bucks,95,Miami Heat,101
+310112015,2011-01-12,Milwaukee Bucks,84,San Antonio Spurs,91
+310117010,2011-01-17,Houston Rockets,93,Milwaukee Bucks,84
+310119015,2011-01-19,Milwaukee Bucks,100,Washington Wizards,87
+310122015,2011-01-22,Milwaukee Bucks,81,Memphis Grizzlies,94
+310126015,2011-01-26,Milwaukee Bucks,98,Atlanta Hawks,90
+310209027,2011-02-09,Washington Wizards,100,Milwaukee Bucks,85
+310211029,2011-02-11,Memphis Grizzlies,89,Milwaukee Bucks,86
+310216015,2011-02-16,Milwaukee Bucks,87,Denver Nuggets,94
+310222015,2011-02-22,Milwaukee Bucks,94,Minnesota Timberwolves,88
+310308027,2011-03-08,Washington Wizards,76,Milwaukee Bucks,95
+310315001,2011-03-15,Atlanta Hawks,110,Milwaukee Bucks,85
+310316015,2011-03-16,Milwaukee Bucks,89,Orlando Magic,93
+310328030,2011-03-28,Charlotte Hornets,87,Milwaukee Bucks,86
+310405019,2011-04-05,Orlando Magic,78,Milwaukee Bucks,72
+310406014,2011-04-06,Miami Heat,85,Milwaukee Bucks,90
+310413025,2011-04-13,Oklahoma City Thunder,106,Milwaukee Bucks,110
+301027006,2011-10-27,Dallas Mavericks,101,Charlotte Hornets,86
+301029006,2011-10-29,Dallas Mavericks,90,Memphis Grizzlies,91
+301103007,2011-11-03,Denver Nuggets,101,Dallas Mavericks,102
+301106006,2011-11-06,Dallas Mavericks,92,Denver Nuggets,103
+301110029,2011-11-10,Memphis Grizzlies,91,Dallas Mavericks,106
+301115006,2011-11-15,Dallas Mavericks,98,New Orleans Pelicans,95
+301117003,2011-11-17,New Orleans Pelicans,99,Dallas Mavericks,97
+301120001,2011-11-20,Atlanta Hawks,93,Dallas Mavericks,98
+301124025,2011-11-24,Oklahoma City Thunder,103,Dallas Mavericks,111
+301126024,2011-11-26,San Antonio Spurs,94,Dallas Mavericks,103
+301127006,2011-11-27,Dallas Mavericks,106,Miami Heat,95
+301129006,2011-11-29,Dallas Mavericks,101,Houston Rockets,91
+301201006,2011-12-01,Dallas Mavericks,100,Minnesota Timberwolves,86
+301203026,2011-12-03,Utah Jazz,81,Dallas Mavericks,93
+301211006,2011-12-11,Dallas Mavericks,103,Utah Jazz,97
+301215006,2011-12-15,Dallas Mavericks,103,Portland Trail Blazers,98
+301220014,2011-12-20,Miami Heat,96,Dallas Mavericks,98
+301221019,2011-12-21,Orlando Magic,99,Dallas Mavericks,105
+301227025,2011-12-27,Oklahoma City Thunder,93,Dallas Mavericks,103
+301230006,2011-12-30,Dallas Mavericks,93,San Antonio Spurs,99
+310104006,2011-01-04,Dallas Mavericks,84,Portland Trail Blazers,81
+310106006,2011-01-06,Dallas Mavericks,95,Oklahoma City Thunder,99
+310108006,2011-01-08,Dallas Mavericks,107,Orlando Magic,117
+310114024,2011-01-14,San Antonio Spurs,101,Dallas Mavericks,89
+310115029,2011-01-15,Memphis Grizzlies,89,Dallas Mavericks,70
+310127006,2011-01-27,Dallas Mavericks,111,Houston Rockets,106
+310129006,2011-01-29,Dallas Mavericks,102,Atlanta Hawks,91
+310131006,2011-01-31,Dallas Mavericks,102,Washington Wizards,92
+310205030,2011-02-05,Charlotte Hornets,92,Dallas Mavericks,101
+310210007,2011-02-10,Denver Nuggets,121,Dallas Mavericks,120
+310212010,2011-02-12,Houston Rockets,102,Dallas Mavericks,106
+310223006,2011-02-23,Dallas Mavericks,118,Utah Jazz,99
+310226027,2011-02-26,Washington Wizards,99,Dallas Mavericks,105
+310306006,2011-03-06,Dallas Mavericks,103,Memphis Grizzlies,104
+310307016,2011-03-07,Minnesota Timberwolves,105,Dallas Mavericks,108
+310309003,2011-03-09,New Orleans Pelicans,93,Dallas Mavericks,92
+310315022,2011-03-15,Portland Trail Blazers,104,Dallas Mavericks,101
+310318006,2011-03-18,Dallas Mavericks,91,San Antonio Spurs,97
+310324006,2011-03-24,Dallas Mavericks,104,Minnesota Timberwolves,96
+310326026,2011-03-26,Utah Jazz,77,Dallas Mavericks,94
+310403022,2011-04-03,Portland Trail Blazers,104,Dallas Mavericks,96
+310406006,2011-04-06,Dallas Mavericks,96,Denver Nuggets,104
+310411010,2011-04-11,Houston Rockets,91,Dallas Mavericks,98
+310413006,2011-04-13,Dallas Mavericks,121,New Orleans Pelicans,89
+301030010,2011-10-30,Houston Rockets,94,Denver Nuggets,107
+301103010,2011-11-03,Houston Rockets,99,New Orleans Pelicans,107
+301106024,2011-11-06,San Antonio Spurs,124,Houston Rockets,121
+301107010,2011-11-07,Houston Rockets,120,Minnesota Timberwolves,94
+301110027,2011-11-10,Washington Wizards,98,Houston Rockets,91
+301117025,2011-11-17,Oklahoma City Thunder,116,Houston Rockets,99
+301126030,2011-11-26,Charlotte Hornets,99,Houston Rockets,89
+301128010,2011-11-28,Houston Rockets,99,Oklahoma City Thunder,98
+301203029,2011-12-03,Memphis Grizzlies,111,Houston Rockets,127
+301215025,2011-12-15,Oklahoma City Thunder,117,Houston Rockets,105
+301217010,2011-12-17,Houston Rockets,103,Memphis Grizzlies,87
+301227010,2011-12-27,Houston Rockets,100,Washington Wizards,93
+301229010,2011-12-29,Houston Rockets,119,Miami Heat,125
+310102022,2011-01-02,Portland Trail Blazers,100,Houston Rockets,85
+310103007,2011-01-03,Denver Nuggets,113,Houston Rockets,106
+310105010,2011-01-05,Houston Rockets,100,Portland Trail Blazers,103
+310107019,2011-01-07,Orlando Magic,110,Houston Rockets,95
+310108010,2011-01-08,Houston Rockets,99,Utah Jazz,103
+310112010,2011-01-12,Houston Rockets,112,Oklahoma City Thunder,118
+310114010,2011-01-14,Houston Rockets,105,New Orleans Pelicans,110
+310115001,2011-01-15,Atlanta Hawks,106,Houston Rockets,112
+310121029,2011-01-21,Memphis Grizzlies,115,Houston Rockets,110
+310122010,2011-01-22,Houston Rockets,104,Orlando Magic,118
+310124016,2011-01-24,Minnesota Timberwolves,125,Houston Rockets,129
+310129024,2011-01-29,San Antonio Spurs,108,Houston Rockets,95
+310202026,2011-02-02,Utah Jazz,96,Houston Rockets,97
+310205010,2011-02-05,Houston Rockets,95,Memphis Grizzlies,93
+310207007,2011-02-07,Denver Nuggets,103,Houston Rockets,108
+310208010,2011-02-08,Houston Rockets,108,Minnesota Timberwolves,112
+310214010,2011-02-14,Houston Rockets,121,Denver Nuggets,102
+310227003,2011-02-27,New Orleans Pelicans,89,Houston Rockets,91
+310301022,2011-03-01,Portland Trail Blazers,87,Houston Rockets,103
+310312010,2011-03-12,Houston Rockets,107,San Antonio Spurs,115
+310316010,2011-03-16,Houston Rockets,94,Charlotte Hornets,78
+310320010,2011-03-20,Houston Rockets,110,Utah Jazz,108
+310327014,2011-03-27,Miami Heat,125,Houston Rockets,119
+310401010,2011-04-01,Houston Rockets,119,San Antonio Spurs,114
+310403010,2011-04-03,Houston Rockets,114,Atlanta Hawks,109
+310406003,2011-04-06,New Orleans Pelicans,101,Houston Rockets,93
+310413016,2011-04-13,Minnesota Timberwolves,102,Houston Rockets,121
+301027029,2011-10-27,Memphis Grizzlies,104,Atlanta Hawks,119
+301030029,2011-10-30,Memphis Grizzlies,109,Minnesota Timberwolves,89
+301115019,2011-11-15,Orlando Magic,89,Memphis Grizzlies,72
+301116029,2011-11-16,Memphis Grizzlies,99,Portland Trail Blazers,100
+301119027,2011-11-19,Washington Wizards,89,Memphis Grizzlies,86
+301120029,2011-11-20,Memphis Grizzlies,97,Miami Heat,95
+301201001,2011-12-01,Atlanta Hawks,112,Memphis Grizzlies,109
+301205007,2011-12-05,Denver Nuggets,108,Memphis Grizzlies,107
+301206026,2011-12-06,Utah Jazz,94,Memphis Grizzlies,85
+301213029,2011-12-13,Memphis Grizzlies,86,Portland Trail Blazers,73
+301215029,2011-12-15,Memphis Grizzlies,113,Charlotte Hornets,80
+301218024,2011-12-18,San Antonio Spurs,112,Memphis Grizzlies,106
+310101026,2011-01-01,Utah Jazz,98,Memphis Grizzlies,92
+310104029,2011-01-04,Memphis Grizzlies,110,Oklahoma City Thunder,105
+310107029,2011-01-07,Memphis Grizzlies,110,Utah Jazz,99
+310108025,2011-01-08,Oklahoma City Thunder,109,Memphis Grizzlies,100
+310110030,2011-01-10,Charlotte Hornets,96,Memphis Grizzlies,82
+310119003,2011-01-19,New Orleans Pelicans,103,Memphis Grizzlies,102
+310129029,2011-01-29,Memphis Grizzlies,107,Washington Wizards,93
+310131029,2011-01-31,Memphis Grizzlies,100,Orlando Magic,97
+310202016,2011-02-02,Minnesota Timberwolves,84,Memphis Grizzlies,102
+310208025,2011-02-08,Oklahoma City Thunder,101,Memphis Grizzlies,105
+310213029,2011-02-13,Memphis Grizzlies,116,Denver Nuggets,108
+310222007,2011-02-22,Denver Nuggets,120,Memphis Grizzlies,107
+310223016,2011-02-23,Minnesota Timberwolves,95,Memphis Grizzlies,104
+310227024,2011-02-27,San Antonio Spurs,95,Memphis Grizzlies,88
+310301029,2011-03-01,Memphis Grizzlies,109,San Antonio Spurs,93
+310304029,2011-03-04,Memphis Grizzlies,91,New Orleans Pelicans,98
+310307029,2011-03-07,Memphis Grizzlies,107,Oklahoma City Thunder,101
+310312014,2011-03-12,Miami Heat,118,Memphis Grizzlies,85
+310321029,2011-03-21,Memphis Grizzlies,103,Utah Jazz,85
+310327029,2011-03-27,Memphis Grizzlies,111,San Antonio Spurs,104
+310401003,2011-04-01,New Orleans Pelicans,81,Memphis Grizzlies,93
+310402029,2011-04-02,Memphis Grizzlies,106,Minnesota Timberwolves,89
+310410029,2011-04-10,Memphis Grizzlies,111,New Orleans Pelicans,89
+310412022,2011-04-12,Portland Trail Blazers,102,Memphis Grizzlies,89
+301029003,2011-10-29,New Orleans Pelicans,101,Denver Nuggets,95
+301030024,2011-10-30,San Antonio Spurs,90,New Orleans Pelicans,99
+301105003,2011-11-05,New Orleans Pelicans,96,Miami Heat,93
+301113003,2011-11-13,New Orleans Pelicans,107,Portland Trail Blazers,87
+301124026,2011-11-24,Utah Jazz,105,New Orleans Pelicans,87
+301126022,2011-11-26,Portland Trail Blazers,78,New Orleans Pelicans,97
+301128003,2011-11-28,New Orleans Pelicans,95,San Antonio Spurs,109
+301129025,2011-11-29,Oklahoma City Thunder,95,New Orleans Pelicans,89
+301201003,2011-12-01,New Orleans Pelicans,89,Charlotte Hornets,73
+301205024,2011-12-05,San Antonio Spurs,109,New Orleans Pelicans,84
+301210003,2011-12-10,New Orleans Pelicans,92,Oklahoma City Thunder,97
+301213014,2011-12-13,Miami Heat,96,New Orleans Pelicans,84
+301217003,2011-12-17,New Orleans Pelicans,100,Utah Jazz,71
+301226003,2011-12-26,New Orleans Pelicans,93,Atlanta Hawks,86
+301227016,2011-12-27,Minnesota Timberwolves,113,New Orleans Pelicans,98
+310101027,2011-01-01,Washington Wizards,81,New Orleans Pelicans,92
+310109007,2011-01-09,Denver Nuggets,87,New Orleans Pelicans,96
+310112003,2011-01-12,New Orleans Pelicans,92,Orlando Magic,89
+310115030,2011-01-15,Charlotte Hornets,81,New Orleans Pelicans,88
+310121001,2011-01-21,Atlanta Hawks,59,New Orleans Pelicans,100
+310122003,2011-01-22,New Orleans Pelicans,96,San Antonio Spurs,72
+310124003,2011-01-24,New Orleans Pelicans,91,Oklahoma City Thunder,89
+310201003,2011-02-01,New Orleans Pelicans,97,Washington Wizards,89
+310202025,2011-02-02,Oklahoma City Thunder,104,New Orleans Pelicans,93
+310207003,2011-02-07,New Orleans Pelicans,92,Minnesota Timberwolves,104
+310211019,2011-02-11,Orlando Magic,93,New Orleans Pelicans,99
+310216022,2011-02-16,Portland Trail Blazers,103,New Orleans Pelicans,96
+310225016,2011-02-25,Minnesota Timberwolves,81,New Orleans Pelicans,95
+310314003,2011-03-14,New Orleans Pelicans,103,Denver Nuggets,114
+310324026,2011-03-24,Utah Jazz,117,New Orleans Pelicans,121
+310330003,2011-03-30,New Orleans Pelicans,95,Portland Trail Blazers,91
+310411003,2011-04-11,New Orleans Pelicans,78,Utah Jazz,90
+301108030,2011-11-08,Charlotte Hornets,91,San Antonio Spurs,95
+301114025,2011-11-14,Oklahoma City Thunder,104,San Antonio Spurs,117
+301119026,2011-11-19,Utah Jazz,82,San Antonio Spurs,94
+301122024,2011-11-22,San Antonio Spurs,106,Orlando Magic,97
+301124016,2011-11-24,Minnesota Timberwolves,109,San Antonio Spurs,113
+301203024,2011-12-03,San Antonio Spurs,107,Minnesota Timberwolves,101
+301210024,2011-12-10,San Antonio Spurs,108,Atlanta Hawks,92
+301212024,2011-12-12,San Antonio Spurs,95,Portland Trail Blazers,78
+301216007,2011-12-16,Denver Nuggets,112,San Antonio Spurs,113
+301222024,2011-12-22,San Antonio Spurs,109,Denver Nuggets,103
+301223019,2011-12-23,Orlando Magic,123,San Antonio Spurs,101
+301226024,2011-12-26,San Antonio Spurs,94,Washington Wizards,80
+310101024,2011-01-01,San Antonio Spurs,101,Oklahoma City Thunder,74
+310109024,2011-01-09,San Antonio Spurs,94,Minnesota Timberwolves,91
+310111016,2011-01-11,Minnesota Timberwolves,96,San Antonio Spurs,107
+310116024,2011-01-16,San Antonio Spurs,110,Denver Nuggets,97
+310126026,2011-01-26,Utah Jazz,105,San Antonio Spurs,112
+310201022,2011-02-01,Portland Trail Blazers,99,San Antonio Spurs,86
+310212027,2011-02-12,Washington Wizards,94,San Antonio Spurs,118
+310223024,2011-02-23,San Antonio Spurs,109,Oklahoma City Thunder,105
+310304024,2011-03-04,San Antonio Spurs,125,Miami Heat,95
+310314014,2011-03-14,Miami Heat,110,San Antonio Spurs,80
+310319024,2011-03-19,San Antonio Spurs,109,Charlotte Hornets,98
+310323007,2011-03-23,Denver Nuggets,115,San Antonio Spurs,112
+310325022,2011-03-25,Portland Trail Blazers,98,San Antonio Spurs,96
+310328024,2011-03-28,San Antonio Spurs,92,Portland Trail Blazers,100
+310405001,2011-04-05,Atlanta Hawks,90,San Antonio Spurs,97
+310409024,2011-04-09,San Antonio Spurs,111,Utah Jazz,102
+301030001,2011-10-30,Atlanta Hawks,99,Washington Wizards,95
+301105016,2011-11-05,Minnesota Timberwolves,103,Atlanta Hawks,113
+301108019,2011-11-08,Orlando Magic,93,Atlanta Hawks,89
+301112001,2011-11-12,Atlanta Hawks,86,Utah Jazz,90
+301114001,2011-11-14,Atlanta Hawks,111,Minnesota Timberwolves,105
+301125001,2011-11-25,Atlanta Hawks,116,Washington Wizards,96
+301204014,2011-12-04,Miami Heat,89,Atlanta Hawks,77
+301206019,2011-12-06,Orlando Magic,74,Atlanta Hawks,80
+301217001,2011-12-17,Atlanta Hawks,90,Charlotte Hornets,85
+301220001,2011-12-20,Atlanta Hawks,91,Orlando Magic,81
+301231025,2011-12-31,Oklahoma City Thunder,103,Atlanta Hawks,94
+310105026,2011-01-05,Utah Jazz,87,Atlanta Hawks,110
+310118014,2011-01-18,Miami Heat,89,Atlanta Hawks,93
+310122030,2011-01-22,Charlotte Hornets,87,Atlanta Hawks,103
+310205027,2011-02-05,Washington Wizards,92,Atlanta Hawks,99
+310212001,2011-02-12,Atlanta Hawks,86,Charlotte Hornets,88
+310227022,2011-02-27,Portland Trail Blazers,83,Atlanta Hawks,90
+310228007,2011-02-28,Denver Nuggets,100,Atlanta Hawks,90
+310304001,2011-03-04,Atlanta Hawks,104,Oklahoma City Thunder,111
+310312001,2011-03-12,Atlanta Hawks,91,Portland Trail Blazers,82
+310316001,2011-03-16,Atlanta Hawks,87,Denver Nuggets,102
+310318001,2011-03-18,Atlanta Hawks,85,Miami Heat,106
+310330001,2011-03-30,Atlanta Hawks,85,Orlando Magic,82
+310409027,2011-04-09,Washington Wizards,115,Atlanta Hawks,83
+310411001,2011-04-11,Atlanta Hawks,90,Miami Heat,98
+310413030,2011-04-13,Charlotte Hornets,96,Atlanta Hawks,85
+301106030,2011-11-06,Charlotte Hornets,88,Orlando Magic,91
+301112027,2011-11-12,Washington Wizards,85,Charlotte Hornets,93
+301113030,2011-11-13,Charlotte Hornets,95,Utah Jazz,96
+301115030,2011-11-15,Charlotte Hornets,113,Minnesota Timberwolves,110
+301119014,2011-11-19,Miami Heat,95,Charlotte Hornets,87
+301207030,2011-12-07,Charlotte Hornets,100,Denver Nuggets,98
+301220027,2011-12-20,Washington Wizards,108,Charlotte Hornets,75
+301221030,2011-12-21,Charlotte Hornets,81,Oklahoma City Thunder,99
+310103030,2011-01-03,Charlotte Hornets,82,Miami Heat,96
+310105016,2011-01-05,Minnesota Timberwolves,105,Charlotte Hornets,108
+310108030,2011-01-08,Charlotte Hornets,104,Washington Wizards,89
+310131026,2011-01-31,Utah Jazz,83,Charlotte Hornets,78
+310204030,2011-02-04,Charlotte Hornets,97,Miami Heat,109
+310227019,2011-02-27,Orlando Magic,100,Charlotte Hornets,86
+310302007,2011-03-02,Denver Nuggets,120,Charlotte Hornets,80
+310305022,2011-03-05,Portland Trail Blazers,93,Charlotte Hornets,69
+310311030,2011-03-11,Charlotte Hornets,97,Portland Trail Blazers,92
+310318025,2011-03-18,Oklahoma City Thunder,99,Charlotte Hornets,82
+310401019,2011-04-01,Orlando Magic,89,Charlotte Hornets,77
+310403030,2011-04-03,Charlotte Hornets,91,Washington Wizards,97
+310406030,2011-04-06,Charlotte Hornets,102,Orlando Magic,111
+310408014,2011-04-08,Miami Heat,112,Charlotte Hornets,103
+301029014,2011-10-29,Miami Heat,96,Orlando Magic,70
+301102014,2011-11-02,Miami Heat,129,Minnesota Timberwolves,97
+301109014,2011-11-09,Miami Heat,114,Utah Jazz,116
+301124019,2011-11-24,Orlando Magic,104,Miami Heat,95
+301129014,2011-11-29,Miami Heat,105,Washington Wizards,94
+301208026,2011-12-08,Utah Jazz,98,Miami Heat,111
+301218027,2011-12-18,Washington Wizards,94,Miami Heat,95
+310109022,2011-01-09,Portland Trail Blazers,100,Miami Heat,107
+310113007,2011-01-13,Denver Nuggets,130,Miami Heat,102
+310130025,2011-01-30,Oklahoma City Thunder,103,Miami Heat,108
+310203019,2011-02-03,Orlando Magic,100,Miami Heat,104
+310225014,2011-02-25,Miami Heat,121,Washington Wizards,113
+310303014,2011-03-03,Miami Heat,96,Orlando Magic,99
+310308014,2011-03-08,Miami Heat,96,Portland Trail Blazers,105
+310316014,2011-03-16,Miami Heat,85,Oklahoma City Thunder,96
+310319014,2011-03-19,Miami Heat,103,Denver Nuggets,98
+310330027,2011-03-30,Washington Wizards,107,Miami Heat,123
+310401016,2011-04-01,Minnesota Timberwolves,92,Miami Heat,111
+301028019,2011-10-28,Orlando Magic,112,Washington Wizards,83
+301103019,2011-11-03,Orlando Magic,128,Minnesota Timberwolves,86
+301110019,2011-11-10,Orlando Magic,94,Utah Jazz,104
+301127027,2011-11-27,Washington Wizards,99,Orlando Magic,100
+301209022,2011-12-09,Portland Trail Blazers,97,Orlando Magic,83
+301210026,2011-12-10,Utah Jazz,117,Orlando Magic,105
+301214007,2011-12-14,Denver Nuggets,111,Orlando Magic,94
+310113025,2011-01-13,Oklahoma City Thunder,125,Orlando Magic,124
+310115016,2011-01-15,Minnesota Timberwolves,99,Orlando Magic,108
+310204027,2011-02-04,Washington Wizards,92,Orlando Magic,110
+310216019,2011-02-16,Orlando Magic,101,Washington Wizards,76
+310225019,2011-02-25,Orlando Magic,111,Oklahoma City Thunder,88
+310307019,2011-03-07,Orlando Magic,85,Portland Trail Blazers,89
+310318019,2011-03-18,Orlando Magic,85,Denver Nuggets,82
+301203027,2011-12-03,Washington Wizards,83,Portland Trail Blazers,79
+310113016,2011-01-13,Minnesota Timberwolves,109,Washington Wizards,97
+310117027,2011-01-17,Washington Wizards,108,Utah Jazz,101
+310125027,2011-01-25,Washington Wizards,109,Denver Nuggets,120
+310128025,2011-01-28,Oklahoma City Thunder,124,Washington Wizards,117
+310305027,2011-03-05,Washington Wizards,103,Minnesota Timberwolves,96
+310314027,2011-03-14,Washington Wizards,89,Oklahoma City Thunder,116
+310322022,2011-03-22,Portland Trail Blazers,111,Washington Wizards,76
+310325007,2011-03-25,Denver Nuggets,114,Washington Wizards,94
+310328026,2011-03-28,Utah Jazz,95,Washington Wizards,100
+301027007,2011-10-27,Denver Nuggets,110,Utah Jazz,88
+301118022,2011-11-18,Portland Trail Blazers,86,Denver Nuggets,83
+301218007,2011-12-18,Denver Nuggets,115,Minnesota Timberwolves,113
+301225025,2011-12-25,Oklahoma City Thunder,114,Denver Nuggets,106
+301228007,2011-12-28,Denver Nuggets,95,Portland Trail Blazers,77
+301229016,2011-12-29,Minnesota Timberwolves,113,Denver Nuggets,119
+310119007,2011-01-19,Denver Nuggets,112,Oklahoma City Thunder,107
+310202007,2011-02-02,Denver Nuggets,109,Portland Trail Blazers,90
+310204007,2011-02-04,Denver Nuggets,106,Utah Jazz,113
+310205016,2011-02-05,Minnesota Timberwolves,100,Denver Nuggets,113
+310225022,2011-02-25,Portland Trail Blazers,107,Denver Nuggets,106
+310303026,2011-03-03,Utah Jazz,101,Denver Nuggets,103
+310405007,2011-04-05,Denver Nuggets,94,Oklahoma City Thunder,101
+310408025,2011-04-08,Oklahoma City Thunder,104,Denver Nuggets,89
+310409007,2011-04-09,Denver Nuggets,130,Minnesota Timberwolves,106
+310413026,2011-04-13,Utah Jazz,107,Denver Nuggets,103
+301122025,2011-11-22,Oklahoma City Thunder,117,Minnesota Timberwolves,107
+301208016,2011-12-08,Minnesota Timberwolves,103,Oklahoma City Thunder,111
+301217022,2011-12-17,Portland Trail Blazers,107,Minnesota Timberwolves,102
+301222016,2011-12-22,Minnesota Timberwolves,107,Utah Jazz,112
+310107016,2011-01-07,Minnesota Timberwolves,98,Portland Trail Blazers,108
+310117022,2011-01-17,Portland Trail Blazers,113,Minnesota Timberwolves,102
+310126016,2011-01-26,Minnesota Timberwolves,117,Oklahoma City Thunder,118
+310128026,2011-01-28,Utah Jazz,108,Minnesota Timberwolves,100
+310214016,2011-02-14,Minnesota Timberwolves,81,Portland Trail Blazers,95
+310311016,2011-03-11,Minnesota Timberwolves,122,Utah Jazz,101
+310316026,2011-03-16,Utah Jazz,119,Minnesota Timberwolves,104
+310325025,2011-03-25,Oklahoma City Thunder,111,Minnesota Timberwolves,103
+301031025,2011-10-31,Oklahoma City Thunder,99,Utah Jazz,120
+301104022,2011-11-04,Portland Trail Blazers,106,Oklahoma City Thunder,107
+301112025,2011-11-12,Oklahoma City Thunder,110,Portland Trail Blazers,108
+301115026,2011-11-15,Utah Jazz,108,Oklahoma City Thunder,115
+310205026,2011-02-05,Utah Jazz,105,Oklahoma City Thunder,121
+310323025,2011-03-23,Oklahoma City Thunder,106,Utah Jazz,94
+310327025,2011-03-27,Oklahoma City Thunder,99,Portland Trail Blazers,90
+310401022,2011-04-01,Portland Trail Blazers,98,Oklahoma City Thunder,91
+301120022,2011-11-20,Portland Trail Blazers,94,Utah Jazz,103
+301227026,2011-12-27,Utah Jazz,91,Portland Trail Blazers,96
+301230022,2011-12-30,Portland Trail Blazers,100,Utah Jazz,89
+310407026,2011-04-07,Utah Jazz,87,Portland Trail Blazers,98
