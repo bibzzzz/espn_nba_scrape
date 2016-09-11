@@ -1,4 +1,4 @@
-import numpy as np
+#import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -65,22 +65,6 @@ for year in years:
                         home_team_score.append(_score[0])
                         visit_team_score.append(_score[1])
 
-                # Extra stats
-                # r = requests.get(BASE_GAME_URL.format(_id))
-                # table = BeautifulSoup(r.text).find('table', class_='mod-data')
-                # heads = table.find_all('thead')
-                # bodies = table.find_all('tbody')
-                # # print(heads)
-                # headers = heads[2].tr.find_all('th')[2:]
-                # headers = [th.text for th in headers]
-                # headers[3] = headers[3].split('\n')[0]
-                # del headers[-2]
-                # visit_stats = bodies[2].tr.find_all('td')[1:]
-                # visit_stats = [td.text for td in visit_stats]
-                # del visit_stats[-2]
-                # print(headers)
-                # print(visit_stats)
-
             except Exception as e:
                 pass # Not all columns row are a game, is OK
                 # print(e)
@@ -89,7 +73,6 @@ for year in years:
             'home_team_score': home_team_score, 'visit_team_score': visit_team_score}
 
     games = pd.DataFrame(dic).drop_duplicates().set_index('id')
-    #print(games)
     print 'storing output from %d season...' %(year)
 
     output_dir = os.path.dirname(os.path.realpath(__file__)) + '/data/' + str(year)
