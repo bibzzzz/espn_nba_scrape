@@ -297,12 +297,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301117002,Washington Wizards,K. Hinrich,1981,SG,30,4-10,0-2,2-4,1,3,4,5,0,0,2,1,-21,10
 301117002,Washington Wizards,C. Martin,3930,PF,13,1-4,0-2,2-2,0,0,0,0,2,0,0,0,-6,4
 301117002,Washington Wizards,T. Booker,4270,PF,22,1-4,0-0,1-2,2,3,5,2,1,0,0,1,-3,3
-301117002,Washington Wizards,K. Seraphin,4289,C,9,0-4,0-0,0-0,3,1,4,0,0,0,2,2,-4,0
 301117002,Washington Wizards,H. Armstrong,2984,PF,13,1-1,0-0,0-0,1,3,4,0,0,0,1,3,-7,2
 301117002,Washington Wizards,N. Young,3243,SF,29,9-15,1-4,1-2,1,0,1,0,1,0,0,0,-20,20
 301117002,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-18,0
 301117002,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-26,0
 301117002,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301117002,Washington Wizards,K. Seraphin,4289,C,9,0-4,0-0,0-0,3,1,4,0,0,0,2,2,-4,0
 301117002,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 301117002,Washington Wizards,L. Hudson,3996,SG,14,0-5,0-3,2-2,1,0,1,4,1,0,1,4,-2,2
 301117002,Boston Celtics,K. Garnett,261,PF,23,9-11,0-0,0-0,2,5,7,2,1,0,1,1,+19,18
@@ -997,35 +997,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310105002,Boston Celtics,M. Daniels,2200,SG,16,3-4,0-0,0-0,0,3,3,0,1,0,1,1,-13,6
 310105002,Boston Celtics,D. West,2422,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 310105002,Boston Celtics,V. Wafer,2793,SG,9,0-3,0-1,0-0,0,1,1,1,0,0,0,0,-5,0
-310107002,Toronto Raptors,A. Johnson,2769,PF,22,4-6,0-0,2-2,1,4,5,1,0,0,2,4,-9,10
-310107002,Toronto Raptors,L. Kleiza,2770,SF,36,7-13,2-5,1-5,2,4,6,0,0,1,1,4,-16,17
-310107002,Toronto Raptors,A. Bargnani,2987,C,36,7-15,0-1,3-4,1,4,5,3,2,2,3,2,-15,17
-310107002,Toronto Raptors,J. Calderon,2806,PG,33,4-6,1-2,2-2,0,1,1,9,2,0,2,2,-22,11
-310107002,Toronto Raptors,D. DeRozan,3978,SG,42,8-15,0-0,4-4,1,2,3,3,0,1,1,3,-17,20
-310107002,Toronto Raptors,E. Davis,4259,PF,24,4-6,0-0,0-2,1,1,2,0,1,2,0,3,-13,8
-310107002,Toronto Raptors,J. Dorsey,3421,PF,9,1-3,0-0,2-2,3,3,6,1,0,0,0,1,-1,4
-310107002,Toronto Raptors,P. Stojakovic,813,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
-310107002,Toronto Raptors,J. Wright,3241,SF,13,0-2,0-0,0-0,2,0,2,1,2,1,0,0,+4,0
-310107002,Toronto Raptors,S. Alabi,4268,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+13,0
-310107002,Toronto Raptors,R. Evans,1828,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
-310107002,Toronto Raptors,J. Bayless,3417,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310107002,Toronto Raptors,L. Barbosa,2166,SG,26,5-13,3-8,2-2,0,1,1,7,1,0,2,1,-11,15
-310107002,Toronto Raptors,S. Weems,3467,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310107002,Boston Celtics,G. Davis,3200,PF,33,4-8,0-0,6-6,1,1,2,3,0,0,0,3,+19,14
-310107002,Boston Celtics,P. Pierce,662,SF,28,6-10,2-5,6-8,1,4,5,4,2,0,1,3,+10,20
-310107002,Boston Celtics,S. O'Neal,614,C,21,6-9,0-0,0-4,3,3,6,2,0,0,2,2,+7,12
-310107002,Boston Celtics,R. Rondo,3026,PG,26,3-7,1-2,2-2,1,3,4,7,2,0,6,0,+23,9
-310107002,Boston Celtics,R. Allen,9,SG,30,6-8,3-4,2-2,3,3,6,4,0,0,1,0,+19,17
-310107002,Boston Celtics,L. Harangody,4276,PF,27,8-11,1-1,0-1,4,7,11,1,0,2,1,4,+13,17
-310107002,Boston Celtics,K. Garnett,261,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-310107002,Boston Celtics,S. Erden,3425,C,6,1-1,0-0,0-0,0,1,1,1,0,0,0,0,-7,2
-310107002,Boston Celtics,K. Perkins,2018,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310107002,Boston Celtics,J. O'Neal,615,C,9,2-3,0-0,0-0,0,2,2,1,0,0,0,1,+8,4
-310107002,Boston Celtics,A. Bradley,4240,PG,3,0-2,0-0,0-0,0,0,0,0,0,0,2,0,-4,0
-310107002,Boston Celtics,N. Robinson,2782,PG,21,5-10,3-7,2-2,1,1,2,2,0,0,2,1,+3,15
-310107002,Boston Celtics,M. Daniels,2200,SG,22,3-6,0-0,0-1,0,2,2,4,0,0,1,0,+11,6
-310107002,Boston Celtics,D. West,2422,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
-310107002,Boston Celtics,V. Wafer,2793,SG,15,2-5,1-2,1-2,0,2,2,2,0,0,0,1,-2,6
 310108004,Boston Celtics,G. Davis,3200,PF,43,4-17,0-0,3-4,2,1,3,0,4,1,2,3,-13,11
 310108004,Boston Celtics,P. Pierce,662,SF,39,7-16,2-4,5-6,0,4,4,3,1,0,1,2,-4,21
 310108004,Boston Celtics,S. O'Neal,614,C,20,2-4,0-0,1-2,0,4,4,1,0,2,0,4,+7,5
@@ -1249,12 +1220,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310122027,Washington Wizards,J. Wall,4237,PG,38,7-12,1-1,1-3,1,5,6,4,0,0,5,5,-4,16
 310122027,Washington Wizards,C. Martin,3930,PF,8,1-4,0-1,1-2,1,0,1,0,0,0,0,0,+8,3
 310122027,Washington Wizards,T. Booker,4270,PF,4,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-310122027,Washington Wizards,K. Seraphin,4289,PF,10,0-0,0-0,0-0,0,1,1,0,0,0,0,1,+3,0
 310122027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310122027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
 310122027,Washington Wizards,Y. Jianlian,3214,SF,9,1-2,0-0,0-0,0,3,3,0,0,0,1,1,+0,2
 310122027,Washington Wizards,A. Thornton,3237,SF,16,3-5,0-1,2-4,1,4,5,0,0,0,1,2,+3,8
 310122027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310122027,Washington Wizards,K. Seraphin,4289,C,10,0-0,0-0,0-0,0,1,1,0,0,0,0,1,+3,0
 310122027,Washington Wizards,M. Shakur,3252,PG,10,2-4,0-2,1-1,1,1,2,5,0,2,0,3,+6,5
 310122027,Washington Wizards,K. Hinrich,1981,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
 310125002,Cleveland Cavaliers,A. Jamison,385,PF,31,5-14,0-0,1-2,2,5,7,1,0,1,1,3,-18,11
@@ -2285,7 +2256,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310408002,Washington Wizards,M. Evans,1031,SG,22,1-5,0-2,2-2,0,1,1,2,1,0,0,4,-17,4
 310408002,Washington Wizards,J. Crawford,4243,SG,40,8-18,0-2,3-3,1,0,1,3,1,0,3,4,-21,19
 310408002,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+9,0
-310408002,Washington Wizards,K. Seraphin,4289,PF,12,1-1,0-0,0-0,1,2,3,0,0,1,0,1,+13,2
+310408002,Washington Wizards,K. Seraphin,4289,C,12,1-1,0-0,0-0,1,2,3,0,0,1,0,1,+13,2
 310408002,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+21,0
 310408002,Washington Wizards,L. Owens,4179,SF,26,1-4,0-1,0-0,1,5,6,0,1,1,1,2,+1,2
 310408002,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-17,0
@@ -2360,13 +2331,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310411027,Washington Wizards,M. Evans,1031,SG,21,1-6,0-1,0-0,1,4,5,0,0,1,1,2,-11,2
 310411027,Washington Wizards,J. Crawford,4243,SG,46,8-19,1-2,0-0,0,2,2,6,1,0,5,3,-13,17
 310411027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
-310411027,Washington Wizards,K. Seraphin,4289,PF,20,1-2,0-0,0-0,1,2,3,1,2,0,0,3,+2,2
 310411027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310411027,Washington Wizards,L. Owens,4179,SF,22,2-3,1-2,2-5,0,1,1,0,4,0,3,4,+13,7
 310411027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
 310411027,Washington Wizards,Y. Jianlian,3214,SF,27,3-8,0-0,0-0,3,7,10,2,1,0,0,2,+7,6
 310411027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310411027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310411027,Washington Wizards,K. Seraphin,4289,C,20,1-2,0-0,0-0,1,2,3,1,2,0,0,3,+2,2
 310411027,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310411027,Washington Wizards,O. Jeffers,4231,SG,23,3-6,0-0,2-2,2,3,5,1,2,0,2,1,+19,8
 310413002,New York Knicks,H. Walker,3464,SF,24,3-6,1-3,5-6,0,3,3,2,0,0,0,2,+2,12
@@ -3076,7 +3047,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301216017,Washington Wizards,J. McGee,3452,C,21,1-5,0-0,0-0,0,5,5,0,0,2,2,5,-7,2
 301216017,Washington Wizards,G. Arenas,974,PG,43,8-19,3-10,0-0,0,3,3,9,2,0,4,6,-3,19
 301216017,Washington Wizards,K. Hinrich,1981,SG,34,5-10,0-1,0-0,0,3,3,6,4,0,2,4,-7,10
-301216017,Washington Wizards,K. Seraphin,4289,PF,4,1-1,0-0,0-0,0,2,2,0,1,0,1,2,-4,2
 301216017,Washington Wizards,C. Martin,3930,PF,8,0-2,0-2,0-0,1,0,1,0,0,0,0,2,-8,0
 301216017,Washington Wizards,H. Armstrong,2984,PF,19,2-5,0-0,0-2,2,5,7,1,0,1,2,4,+6,4
 301216017,Washington Wizards,N. Young,3243,SF,33,6-14,1-3,9-10,1,2,3,0,1,0,2,4,-3,22
@@ -3084,6 +3054,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301216017,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
 301216017,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
 301216017,Washington Wizards,H. Ndiaye,4282,C,3,0-0,0-0,1-2,0,0,0,0,0,0,1,2,-3,1
+301216017,Washington Wizards,K. Seraphin,4289,C,4,1-1,0-0,0-0,0,2,2,0,1,0,1,2,-4,2
 301216017,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 301216017,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301216017,Brooklyn Nets,K. Humphries,2433,PF,36,5-7,0-0,2-4,6,11,17,1,2,2,5,1,+10,12
@@ -3173,9 +3144,9 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301221029,Brooklyn Nets,S. Vujacic,2421,SG,25,6-8,2-3,2-2,0,4,4,0,0,0,2,2,-1,16
 301221029,Memphis Grizzlies,Z. Randolph,1017,PF,32,4-13,0-0,3-5,5,9,14,5,0,0,1,1,+2,11
 301221029,Memphis Grizzlies,R. Gay,3005,SF,44,4-16,1-3,2-2,1,8,9,1,4,4,3,0,-5,11
+301221029,Memphis Grizzlies,X. Henry,4241,SG,19,5-6,0-0,1-2,0,2,2,1,1,0,1,1,-2,11
 301221029,Memphis Grizzlies,M. Gasol,3206,C,28,6-10,0-0,7-10,1,3,4,0,1,2,0,5,-6,19
 301221029,Memphis Grizzlies,M. Conley,3195,PG,33,5-12,1-2,2-3,0,1,1,8,1,0,0,4,-1,13
-301221029,Memphis Grizzlies,X. Henry,4241,SG,19,5-6,0-0,1-2,0,2,2,1,1,0,1,1,-2,11
 301221029,Memphis Grizzlies,D. Arthur,3413,PF,18,2-5,0-0,0-0,3,0,3,0,0,0,0,1,-10,4
 301221029,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
 301221029,Memphis Grizzlies,S. Young,4020,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -3374,12 +3345,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310107027,Washington Wizards,J. McGee,3452,C,34,7-9,0-0,1-1,1,6,7,0,1,6,5,4,+23,15
 310107027,Washington Wizards,J. Wall,4237,PG,34,2-8,0-2,1-2,0,2,2,9,0,0,0,2,+7,5
 310107027,Washington Wizards,T. Booker,4270,PF,6,0-2,0-0,0-0,1,0,1,0,1,0,0,0,-5,0
-310107027,Washington Wizards,K. Seraphin,4289,C,4,0-1,0-0,2-2,0,0,0,0,0,0,0,2,-3,2
 310107027,Washington Wizards,C. Martin,3930,PF,4,2-3,1-2,0-0,0,0,0,0,0,0,0,0,-4,5
 310107027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310107027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-9,0
 310107027,Washington Wizards,Y. Jianlian,3214,SF,10,2-3,0-0,1-2,0,1,1,0,0,0,1,3,+0,5
 310107027,Washington Wizards,A. Thornton,3237,SF,19,3-7,0-0,3-3,1,3,4,1,0,0,0,1,+8,9
+310107027,Washington Wizards,K. Seraphin,4289,C,4,0-1,0-0,2-2,0,0,0,0,0,0,0,2,-3,2
 310107027,Washington Wizards,K. Hinrich,1981,SG,22,3-7,2-2,2-2,0,2,2,2,0,1,0,1,+13,10
 310108017,Milwaukee Bucks,E. Ilyasova,2767,PF,40,10-14,0-0,2-3,1,12,13,4,3,1,1,5,+25,22
 310108017,Milwaukee Bucks,L. Mbah a Moute,3451,PF,17,2-2,0-0,1-2,0,1,1,1,0,1,0,3,+24,5
@@ -4233,12 +4204,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310320027,Washington Wizards,J. McGee,3452,C,38,8-9,0-0,0-0,3,4,7,3,1,2,1,3,+5,16
 310320027,Washington Wizards,J. Wall,4237,PG,38,11-22,0-2,4-6,2,4,6,8,4,0,4,1,+1,26
 310320027,Washington Wizards,J. Crawford,4243,SG,44,8-17,0-2,5-5,0,4,4,3,2,1,0,0,+12,21
-310320027,Washington Wizards,K. Seraphin,4289,PF,5,1-1,0-0,0-0,0,0,0,0,0,2,0,1,-1,2
 310320027,Washington Wizards,C. Martin,3930,PF,6,0-2,0-1,0-0,0,0,0,0,0,0,0,1,+1,0
 310320027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
 310320027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310320027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+13,0
 310320027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310320027,Washington Wizards,K. Seraphin,4289,C,5,1-1,0-0,0-0,0,0,0,0,0,2,0,1,-1,2
 310320027,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310320027,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310320027,Washington Wizards,O. Jeffers,4231,SG,7,0-1,0-0,0-0,0,1,1,2,0,0,1,3,+0,0
@@ -4751,13 +4722,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301105018,Washington Wizards,J. Wall,4237,PG,35,4-11,0-2,5-6,0,4,4,7,0,0,9,2,-16,13
 301105018,Washington Wizards,K. Hinrich,1981,SG,33,2-8,0-4,3-4,0,2,2,2,1,0,3,2,-5,7
 301105018,Washington Wizards,T. Booker,4270,PF,2,0-0,0-0,0-0,0,0,0,0,0,0,1,1,-6,0
-301105018,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-16,0
 301105018,Washington Wizards,C. Martin,3930,PF,7,0-0,0-0,0-0,0,1,1,0,0,0,1,2,-2,0
 301105018,Washington Wizards,H. Armstrong,2984,PF,18,2-4,0-0,0-0,1,6,7,0,0,1,0,0,-1,4
 301105018,Washington Wizards,N. Young,3243,SF,15,1-3,0-1,1-1,0,1,1,0,0,0,0,0,-18,3
 301105018,Washington Wizards,Y. Jianlian,3214,SF,13,2-5,0-0,4-4,0,1,1,1,0,0,2,0,-9,8
 301105018,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
 301105018,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
+301105018,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-16,0
 301105018,Washington Wizards,G. Arenas,974,PG,26,6-13,4-8,2-3,0,1,1,1,1,0,0,2,-13,18
 301105018,Washington Wizards,L. Hudson,3996,SG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301105018,New York Knicks,D. Gallinari,3428,SF,33,6-13,4-9,0-1,2,2,4,2,0,2,1,1,+24,16
@@ -4923,35 +4894,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301114018,New York Knicks,T. Douglas,3979,PG,18,1-11,1-6,0-0,3,3,6,2,2,1,0,1,-8,3
 301114018,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301114018,New York Knicks,R. Mason Jr.,1721,SG,11,1-5,0-1,0-1,0,4,4,0,0,0,0,2,-11,2
-301116007,New York Knicks,D. Gallinari,3428,SF,36,6-19,2-10,7-8,3,7,10,3,0,1,1,4,+5,21
-301116007,New York Knicks,A. Stoudemire,1727,C,32,10-19,1-2,3-8,1,5,6,2,1,2,2,3,-12,24
-301116007,New York Knicks,T. Mozgov,4298,C,12,0-2,0-0,0-0,0,2,2,0,0,1,1,4,-5,0
-301116007,New York Knicks,R. Felton,2753,PG,40,5-13,2-4,7-10,4,4,8,12,1,1,1,3,+11,19
-301116007,New York Knicks,L. Fields,4274,SG,38,10-15,0-3,1-1,5,12,17,1,2,0,2,5,+12,21
-301116007,New York Knicks,A. Randolph,3455,SF,7,2-4,0-0,0-0,0,1,1,0,0,0,1,0,-7,4
-301116007,New York Knicks,H. Walker,3464,SF,10,2-4,2-3,0-0,0,1,1,1,0,0,0,0,+11,6
-301116007,New York Knicks,K. Azubuike,2821,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-12,0
-301116007,New York Knicks,S. Williams,3038,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
-301116007,New York Knicks,W. Chandler,3194,SF,31,8-16,2-5,5-6,1,0,1,1,0,5,2,5,-1,23
-301116007,New York Knicks,E. Curry,990,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,New York Knicks,R. Turiaf,2789,C,12,0-1,0-0,0-0,0,2,2,1,0,2,1,6,-2,0
-301116007,New York Knicks,T. Douglas,3979,PG,16,0-4,0-3,0-0,1,1,2,2,0,0,0,2,-11,0
-301116007,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,New York Knicks,R. Mason Jr.,1721,SG,6,0-1,0-1,0-0,0,1,1,1,0,0,0,1,-11,0
-301116007,Denver Nuggets,C. Anthony,1975,SF,37,8-21,0-1,10-14,1,8,9,3,1,1,5,3,-3,26
-301116007,Denver Nuggets,N. Hilario,1713,C,30,7-9,0-0,3-4,2,3,5,3,0,0,1,4,+1,17
-301116007,Denver Nuggets,S. Williams,3040,C,33,4-4,0-0,2-4,1,4,5,0,1,0,1,4,+10,10
-301116007,Denver Nuggets,C. Billups,63,PG,33,4-12,0-2,5-7,0,2,2,8,1,0,4,3,-2,13
-301116007,Denver Nuggets,A. Afflalo,3187,SG,38,1-4,0-1,5-6,0,6,6,5,0,0,0,1,+1,7
-301116007,Denver Nuggets,A. Harrington,308,PF,21,7-15,2-6,6-7,0,4,4,1,0,0,0,6,+3,22
-301116007,Denver Nuggets,K. Martin,515,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,Denver Nuggets,C. Andersen,1135,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,Denver Nuggets,G. Forbes,4312,F,23,8-13,3-3,0-1,5,4,9,0,1,0,1,3,+3,19
-301116007,Denver Nuggets,R. Balkman,2986,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,Denver Nuggets,M. Ely,1709,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,Denver Nuggets,T. Lawson,4000,PG,24,3-8,0-1,0-4,1,3,4,3,0,1,1,1,-3,6
-301116007,Denver Nuggets,A. Carter,137,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301116007,Denver Nuggets,J.R. Smith,2444,SG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,1,+0,0
 301117023,New York Knicks,D. Gallinari,3428,SF,41,4-8,3-5,16-17,0,4,4,0,0,0,0,1,+13,27
 301117023,New York Knicks,A. Stoudemire,1727,C,40,11-19,0-0,5-8,4,6,10,2,2,2,3,3,+2,27
 301117023,New York Knicks,R. Turiaf,2789,C,30,1-4,0-0,1-2,3,4,7,4,1,2,0,4,+13,3
@@ -5070,36 +5012,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301123018,New York Knicks,T. Douglas,3979,PG,24,8-12,5-7,1-2,0,0,0,1,3,0,1,2,-1,22
 301123018,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301123018,New York Knicks,R. Mason Jr.,1721,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,New York Knicks,D. Gallinari,3428,SF,36,2-9,2-5,3-4,1,6,7,1,1,0,2,3,-6,9
-301124030,New York Knicks,A. Stoudemire,1727,C,34,8-15,0-0,4-4,2,2,4,1,0,6,0,2,-4,20
-301124030,New York Knicks,R. Turiaf,2789,C,17,0-1,0-0,2-2,0,2,2,0,1,1,1,3,-5,2
-301124030,New York Knicks,R. Felton,2753,PG,40,9-18,2-5,3-4,1,2,3,13,2,0,6,3,+3,23
-301124030,New York Knicks,L. Fields,4274,SG,32,3-5,0-2,2-4,3,7,10,1,2,0,2,3,+8,8
-301124030,New York Knicks,A. Randolph,3455,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,New York Knicks,H. Walker,3464,SF,16,4-6,2-4,0-0,1,0,1,0,0,0,1,0,-4,10
-301124030,New York Knicks,K. Azubuike,2821,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-301124030,New York Knicks,S. Williams,3038,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-301124030,New York Knicks,W. Chandler,3194,SF,34,8-12,4-5,1-2,0,8,8,1,0,1,3,3,+7,21
-301124030,New York Knicks,T. Mozgov,4298,C,11,0-2,0-0,0-0,0,2,2,1,0,3,0,2,+10,0
-301124030,New York Knicks,E. Curry,990,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-301124030,New York Knicks,T. Douglas,3979,PG,20,2-7,2-4,0-0,0,1,1,4,1,0,0,2,+11,6
-301124030,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,New York Knicks,R. Mason Jr.,1721,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,Charlotte Hornets,T. Thomas,3032,PF,34,11-20,0-0,4-4,7,4,11,3,0,4,0,2,+6,26
-301124030,Charlotte Hornets,S. Jackson,378,SF,40,7-20,1-5,3-4,1,3,4,2,4,0,5,5,+5,18
-301124030,Charlotte Hornets,G. Wallace,1026,SF,40,4-10,0-1,0-0,2,6,8,4,2,2,3,3,+5,8
-301124030,Charlotte Hornets,B. Diaw,2167,C,38,5-9,1-3,0-1,1,3,4,5,1,1,2,1,+5,11
-301124030,Charlotte Hornets,D.J. Augustin,3415,PG,34,5-13,0-2,4-4,3,5,8,7,0,0,0,2,+6,14
-301124030,Charlotte Hornets,D. McGuire,3246,PF,4,1-2,0-0,1-2,0,1,1,0,0,1,0,0,-5,3
-301124030,Charlotte Hornets,E. Najera,591,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,Charlotte Hornets,D. Brown,3967,SF,21,2-3,0-0,0-2,2,4,6,0,1,0,1,0,-14,4
-301124030,Charlotte Hornets,N. Mohammed,568,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301124030,Charlotte Hornets,K. Brown,981,C,7,0-1,0-0,0-0,0,2,2,0,1,0,0,0,-9,0
-301124030,Charlotte Hornets,D. Diop,992,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-301124030,Charlotte Hornets,S. Collins,4302,PG,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-301124030,Charlotte Hornets,S. Livingston,2393,PG,15,3-6,0-0,3-4,2,1,3,3,0,0,3,1,-9,9
-301124030,Charlotte Hornets,G. Henderson,3993,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
-301124030,Charlotte Hornets,M. Carroll,2211,SG,4,1-3,0-1,0-0,0,0,0,0,0,0,0,0,-4,2
 301127018,Atlanta Hawks,M. Williams,2797,PF,29,5-7,0-0,3-3,3,5,8,2,0,0,1,0,+9,13
 301127018,Atlanta Hawks,J. Johnson,1007,SF,39,3-15,0-6,1-2,1,9,10,7,0,0,0,0,+5,7
 301127018,Atlanta Hawks,J. Smith,2411,C,23,5-9,1-1,2-2,1,5,6,3,2,1,3,5,+16,13
@@ -5298,7 +5210,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301210027,Washington Wizards,G. Arenas,974,PG,39,9-18,2-7,0-0,0,3,3,6,4,1,4,5,-8,20
 301210027,Washington Wizards,J. Wall,4237,PG,37,4-14,0-1,0-2,0,5,5,6,1,0,1,2,-11,8
 301210027,Washington Wizards,T. Booker,4270,PF,6,1-1,0-0,0-0,0,0,0,0,0,0,3,1,-3,2
-301210027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
 301210027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301210027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301210027,Washington Wizards,A. Gee,4232,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -5306,6 +5217,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301210027,Washington Wizards,Y. Jianlian,3214,SF,16,2-5,0-0,3-4,2,3,5,2,1,0,2,2,+0,7
 301210027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301210027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
+301210027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
 301210027,Washington Wizards,K. Hinrich,1981,SG,22,3-6,1-3,6-6,0,4,4,2,2,0,0,0,+6,13
 301212018,Denver Nuggets,C. Anthony,1975,SF,37,11-27,0-6,9-9,5,8,13,3,0,1,4,3,-12,31
 301212018,Denver Nuggets,N. Hilario,1713,C,36,9-13,0-1,8-10,2,6,8,1,1,2,1,3,-9,26
@@ -5396,36 +5308,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301218005,Cleveland Cavaliers,J. Hickson,3437,C,14,4-7,0-0,0-0,0,1,1,0,0,0,2,0,+2,8
 301218005,Cleveland Cavaliers,R. Sessions,3231,PG,21,4-10,0-0,4-5,1,3,4,4,1,0,0,0,-7,12
 301218005,Cleveland Cavaliers,M. Harris,4360,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301222018,Oklahoma City Thunder,S. Ibaka,3439,PF,19,0-6,0-0,0-0,6,2,8,0,1,1,1,2,-17,0
-301222018,Oklahoma City Thunder,K. Durant,3202,SF,37,9-18,1-4,7-8,2,5,7,3,0,0,2,2,-15,26
-301222018,Oklahoma City Thunder,J. Green,3209,SF,39,6-19,1-6,1-1,3,4,7,1,0,1,1,2,-22,14
-301222018,Oklahoma City Thunder,T. Sefolosha,3028,SF,30,3-5,0-2,0-0,2,6,8,1,2,0,1,2,-11,6
-301222018,Oklahoma City Thunder,R. Westbrook,3468,PG,31,10-24,1-1,2-3,2,3,5,5,1,1,4,1,-21,23
-301222018,Oklahoma City Thunder,N. Collison,1978,PF,17,0-1,0-0,2-2,0,0,0,1,0,1,1,5,-9,2
-301222018,Oklahoma City Thunder,D.J. White,3469,PF,8,2-4,0-0,0-2,2,3,5,0,0,0,0,0,+5,4
-301222018,Oklahoma City Thunder,N. Krstic,1719,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+28,0
-301222018,Oklahoma City Thunder,B. Mullens,4005,C,5,1-2,0-0,0-0,0,1,1,0,0,1,0,0,+6,2
-301222018,Oklahoma City Thunder,C. Aldrich,4267,C,4,1-2,0-0,0-0,2,0,2,1,1,0,1,1,+6,2
-301222018,Oklahoma City Thunder,R. Ivey,2387,PG,7,1-3,0-0,0-0,0,1,1,0,0,0,0,2,+3,2
-301222018,Oklahoma City Thunder,E. Maynor,4001,PG,15,2-5,0-0,0-1,2,2,4,0,0,0,2,0,+10,4
-301222018,Oklahoma City Thunder,D. Cook,3196,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-15,0
-301222018,Oklahoma City Thunder,M. Peterson,656,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
-301222018,Oklahoma City Thunder,J. Harden,3992,SG,27,3-8,0-4,7-8,1,4,5,3,2,1,1,0,-5,13
-301222018,New York Knicks,W. Chandler,3194,SF,32,9-15,3-4,0-0,0,5,5,4,0,1,1,3,+26,21
-301222018,New York Knicks,D. Gallinari,3428,SF,33,4-8,2-4,3-3,0,3,3,5,2,0,0,3,+10,13
-301222018,New York Knicks,A. Stoudemire,1727,C,37,7-16,0-0,9-10,2,5,7,4,0,3,5,3,+28,23
-301222018,New York Knicks,R. Felton,2753,PG,33,5-14,1-4,1-1,1,5,6,10,1,0,1,3,+10,12
-301222018,New York Knicks,L. Fields,4274,SG,31,5-8,2-3,2-2,1,9,10,3,2,1,2,2,+25,14
-301222018,New York Knicks,A. Randolph,3455,SF,3,0-1,0-0,0-0,0,2,2,0,0,0,0,0,-6,0
-301222018,New York Knicks,H. Walker,3464,SF,3,0-1,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-301222018,New York Knicks,K. Azubuike,2821,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
-301222018,New York Knicks,S. Williams,3038,SF,18,3-7,1-2,0-0,1,2,3,0,1,3,1,2,-21,7
-301222018,New York Knicks,T. Mozgov,4298,C,4,1-3,0-0,0-0,0,0,0,0,0,0,1,1,-8,2
-301222018,New York Knicks,E. Curry,990,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+17,0
-301222018,New York Knicks,R. Turiaf,2789,C,22,4-5,0-0,3-5,1,1,2,1,0,1,0,3,+13,11
-301222018,New York Knicks,T. Douglas,3979,PG,22,4-8,1-4,0-0,1,4,5,3,0,0,0,2,+5,9
-301222018,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-301222018,New York Knicks,R. Mason Jr.,1721,SG,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301225018,Chicago Bulls,K. Thomas,846,PF,27,2-5,0-0,0-0,4,2,6,1,3,2,4,5,+3,4
 301225018,Chicago Bulls,C. Boozer,1703,PF,42,11-25,0-0,4-7,6,13,19,1,1,0,7,5,-13,26
 301225018,Chicago Bulls,L. Deng,2429,SF,41,5-12,1-4,4-4,2,4,6,2,0,0,3,1,-5,15
@@ -5802,36 +5684,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310121024,San Antonio Spurs,C. Quinn,3046,PG,11,2-4,0-2,1-2,0,0,0,0,0,0,0,1,-5,5
 310121024,San Antonio Spurs,G. Hill,3438,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310121024,San Antonio Spurs,J. Anderson,4242,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,New York Knicks,W. Chandler,3194,SF,18,2-8,0-2,1-1,0,1,1,2,0,2,2,3,-5,5
-310122025,New York Knicks,D. Gallinari,3428,SF,29,7-12,3-5,6-7,0,4,4,1,1,2,0,4,-2,23
-310122025,New York Knicks,A. Stoudemire,1727,C,37,7-18,0-0,4-6,2,10,12,4,2,1,2,3,+3,18
-310122025,New York Knicks,R. Felton,2753,PG,36,5-16,0-4,0-0,0,0,0,7,1,0,3,1,+3,10
-310122025,New York Knicks,L. Fields,4274,SG,31,4-7,1-3,2-2,0,2,2,1,2,1,0,0,+0,11
-310122025,New York Knicks,A. Randolph,3455,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,New York Knicks,H. Walker,3464,SF,12,4-9,4-9,0-0,0,1,1,0,0,0,0,2,-6,12
-310122025,New York Knicks,K. Azubuike,2821,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310122025,New York Knicks,S. Williams,3038,SF,20,1-3,0-0,0-0,2,5,7,1,1,1,2,3,+1,2
-310122025,New York Knicks,T. Mozgov,4298,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,New York Knicks,E. Curry,990,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,New York Knicks,R. Turiaf,2789,C,27,3-3,0-0,1-4,3,4,7,2,0,2,1,4,-6,7
-310122025,New York Knicks,T. Douglas,3979,PG,30,4-10,1-3,1-1,2,4,6,3,3,0,1,2,-3,10
-310122025,New York Knicks,A. Rautins,4285,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-310122025,New York Knicks,R. Mason Jr.,1721,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,Oklahoma City Thunder,T. Sefolosha,3028,SF,15,0-3,0-0,1-2,0,6,6,0,1,0,1,0,+3,1
-310122025,Oklahoma City Thunder,K. Durant,3202,SF,42,10-25,3-8,7-7,1,11,12,2,0,0,3,3,+11,30
-310122025,Oklahoma City Thunder,J. Green,3209,SF,29,3-11,1-1,0-0,4,1,5,1,0,1,2,2,-6,7
-310122025,Oklahoma City Thunder,N. Krstic,1719,C,22,6-9,0-0,0-0,3,3,6,0,3,0,0,3,+3,12
-310122025,Oklahoma City Thunder,R. Westbrook,3468,PG,36,7-15,0-0,14-17,4,1,5,5,2,1,5,3,+1,28
-310122025,Oklahoma City Thunder,S. Ibaka,3439,PF,27,4-9,0-0,3-3,5,10,15,0,0,2,1,3,-4,11
-310122025,Oklahoma City Thunder,D.J. White,3469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,Oklahoma City Thunder,N. Collison,1978,PF,21,0-1,0-0,3-4,5,0,5,0,1,1,1,5,+8,3
-310122025,Oklahoma City Thunder,B. Mullens,4005,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-310122025,Oklahoma City Thunder,C. Aldrich,4267,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-310122025,Oklahoma City Thunder,E. Maynor,4001,PG,12,1-3,0-2,0-0,0,0,0,2,0,0,2,0,+2,2
-310122025,Oklahoma City Thunder,R. Ivey,2387,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,Oklahoma City Thunder,M. Peterson,656,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310122025,Oklahoma City Thunder,J. Harden,3992,SG,26,3-10,1-4,0-1,0,2,2,1,1,0,0,0,+0,7
-310122025,Oklahoma City Thunder,D. Cook,3196,SG,10,0-2,0-2,0-0,0,1,1,1,0,0,0,0,-3,0
 310124018,Washington Wizards,R. Lewis,469,PF,29,8-14,1-4,3-3,0,5,5,1,1,0,0,3,+5,20
 310124018,Washington Wizards,N. Young,3243,SF,41,7-16,2-5,6-7,0,1,1,2,0,0,3,2,-24,22
 310124018,Washington Wizards,A. Blatche,2746,C,28,2-10,0-0,2-4,1,4,5,1,2,0,3,1,-15,6
@@ -5839,7 +5691,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310124018,Washington Wizards,J. Wall,4237,PG,34,5-13,1-2,7-8,1,6,7,9,2,0,4,1,-23,18
 310124018,Washington Wizards,C. Martin,3930,PF,1,0-1,0-1,0-0,0,0,0,0,0,0,0,0,+2,0
 310124018,Washington Wizards,T. Booker,4270,PF,22,3-8,0-0,1-1,2,3,5,1,1,1,1,2,+2,7
-310124018,Washington Wizards,K. Seraphin,4289,PF,15,0-0,0-0,0-0,2,1,3,0,1,1,1,3,-5,0
+310124018,Washington Wizards,K. Seraphin,4289,C,15,0-0,0-0,0-0,2,1,3,0,1,1,1,3,-5,0
 310124018,Washington Wizards,H. Armstrong,2984,PF,1,1-1,0-0,0-0,1,0,1,0,0,0,0,0,+2,2
 310124018,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
 310124018,Washington Wizards,Y. Jianlian,3214,SF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -6940,13 +6792,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301102027,Washington Wizards,J. Wall,4237,PG,45,9-16,0-1,11-14,0,2,2,13,9,0,8,5,+1,29
 301102027,Washington Wizards,K. Hinrich,1981,SG,42,3-5,1-2,1-1,0,4,4,9,0,0,1,4,-14,8
 301102027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-6,0
-301102027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301102027,Washington Wizards,C. Martin,3930,PF,9,2-3,2-2,0-0,0,1,1,0,0,0,0,0,+1,6
 301102027,Washington Wizards,H. Armstrong,2984,PF,21,2-3,0-0,2-2,1,2,3,0,0,1,1,4,+3,6
 301102027,Washington Wizards,N. Young,3243,SF,23,7-11,3-5,3-3,0,2,2,0,1,0,1,2,+14,20
 301102027,Washington Wizards,Y. Jianlian,3214,SF,20,3-8,0-1,3-4,2,2,4,0,1,0,2,1,+10,9
 301102027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
 301102027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
+301102027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301102027,Washington Wizards,G. Arenas,974,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
 301102027,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301103020,Indiana Pacers,J. McRoberts,3220,PF,20,4-6,2-3,0-0,0,4,4,2,3,1,2,4,-11,10
@@ -7200,13 +7052,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301123027,Washington Wizards,K. Hinrich,1981,SG,35,3-8,0-1,1-2,0,1,1,6,2,0,1,5,+4,7
 301123027,Washington Wizards,C. Martin,3930,PF,6,1-3,0-0,0-0,0,0,0,0,0,0,0,1,-2,2
 301123027,Washington Wizards,T. Booker,4270,PF,12,2-4,0-0,1-2,0,1,1,0,1,0,1,0,-2,5
-301123027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301123027,Washington Wizards,H. Armstrong,2984,PF,5,0-0,0-0,0-0,1,2,3,0,0,0,0,1,-5,0
 301123027,Washington Wizards,N. Young,3243,SF,32,7-15,4-8,1-1,0,3,3,1,1,1,1,1,+0,19
 301123027,Washington Wizards,A. Gee,4232,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301123027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301123027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 301123027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301123027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301123027,Washington Wizards,J. Wall,4237,PG,36,7-15,3-7,8-8,0,3,3,6,1,0,1,4,+13,25
 301124028,Philadelphia 76ers,S. Hawes,3211,PF,18,3-8,0-0,0-0,2,3,5,1,0,0,3,3,-14,6
 301124028,Philadelphia 76ers,T. Young,3244,PF,29,7-12,0-1,0-0,2,3,5,1,2,1,0,4,-3,14
@@ -7666,13 +7518,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310105020,Washington Wizards,J. McGee,3452,C,24,2-6,0-0,0-2,2,4,6,0,0,1,1,3,-3,4
 310105020,Washington Wizards,J. Wall,4237,PG,38,6-14,1-4,5-8,0,1,1,14,1,0,1,4,-5,18
 310105020,Washington Wizards,T. Booker,4270,PF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310105020,Washington Wizards,K. Seraphin,4289,PF,9,2-2,0-0,0-0,1,2,3,0,0,0,0,3,-10,4
 310105020,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
 310105020,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310105020,Washington Wizards,J. Howard,2006,SF,12,0-3,0-0,0-0,1,2,3,1,0,0,0,1,+5,0
 310105020,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310105020,Washington Wizards,A. Thornton,3237,SF,12,1-1,0-0,0-0,0,2,2,1,0,0,0,1,-2,2
 310105020,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
+310105020,Washington Wizards,K. Seraphin,4289,C,9,2-2,0-0,0-0,1,2,3,0,0,0,0,3,-10,4
 310105020,Washington Wizards,K. Hinrich,1981,SG,26,5-11,0-1,3-3,0,3,3,4,1,0,3,4,-13,13
 310105020,Philadelphia 76ers,E. Brand,91,PF,33,6-9,0-0,5-6,2,4,6,3,0,0,0,2,+16,17
 310105020,Philadelphia 76ers,S. Hawes,3211,PF,18,2-7,0-0,0-0,1,0,1,0,0,0,0,1,+0,4
@@ -8198,13 +8050,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310223020,Washington Wizards,J. McGee,3452,C,12,0-4,0-0,0-0,1,2,3,0,1,0,0,0,-5,0
 310223020,Washington Wizards,J. Wall,4237,PG,44,8-19,1-2,4-5,1,4,5,12,2,0,4,2,-18,21
 310223020,Washington Wizards,T. Booker,4270,PF,18,9-10,0-0,3-3,4,1,5,1,1,1,0,2,-5,21
-310223020,Washington Wizards,K. Seraphin,4289,PF,10,0-0,0-0,0-0,0,1,1,1,0,1,1,2,+6,0
 310223020,Washington Wizards,C. Martin,3930,PF,20,3-10,1-4,0-0,0,2,2,1,1,0,0,2,+3,7
 310223020,Washington Wizards,R. Lewis,469,PF,12,0-2,0-0,1-2,0,4,4,0,1,1,0,2,-8,1
 310223020,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+16,0
 310223020,Washington Wizards,Y. Jianlian,3214,SF,14,0-1,0-0,1-2,2,2,4,1,0,0,1,1,-11,1
 310223020,Washington Wizards,A. Thornton,3237,SF,19,3-6,0-0,0-0,0,0,0,1,0,0,1,4,-1,6
 310223020,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310223020,Washington Wizards,K. Seraphin,4289,C,10,0-0,0-0,0-0,0,1,1,1,0,1,1,2,+6,0
 310223020,Washington Wizards,K. Hinrich,1981,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
 310223020,Philadelphia 76ers,E. Brand,91,PF,28,5-9,0-0,5-6,4,2,6,1,1,2,0,2,+16,15
 310223020,Philadelphia 76ers,S. Hawes,3211,PF,15,3-5,0-0,1-1,1,4,5,5,0,2,1,2,+6,7
@@ -9106,12 +8958,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301116027,Washington Wizards,K. Hinrich,1981,SG,39,5-8,1-2,2-2,0,4,4,12,0,0,2,3,+20,13
 301116027,Washington Wizards,C. Martin,3930,PF,7,0-0,0-0,0-2,0,0,0,0,1,0,0,0,-1,0
 301116027,Washington Wizards,T. Booker,4270,PF,20,4-6,0-0,0-1,0,2,2,0,1,1,2,4,+8,8
-301116027,Washington Wizards,K. Seraphin,4289,PF,2,1-3,0-0,0-0,1,0,1,0,0,0,1,2,-4,2
 301116027,Washington Wizards,H. Armstrong,2984,PF,16,5-6,0-0,0-0,3,1,4,2,1,0,1,0,+3,10
 301116027,Washington Wizards,N. Young,3243,SF,30,8-15,1-4,3-4,0,6,6,0,1,0,2,3,-6,20
 301116027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+16,0
 301116027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+24,0
 301116027,Washington Wizards,H. Ndiaye,4282,C,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+301116027,Washington Wizards,K. Seraphin,4289,C,2,1-3,0-0,0-0,1,0,1,0,0,0,1,2,-4,2
 301116027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
 301116027,Washington Wizards,L. Hudson,3996,SG,4,0-2,0-1,0-0,0,0,0,1,0,0,0,0,-4,0
 301119028,Houston Rockets,L. Scola,1781,PF,36,8-19,0-0,3-4,1,4,5,3,1,1,2,3,+0,19
@@ -9178,7 +9030,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301201028,Washington Wizards,G. Arenas,974,PG,29,1-10,0-2,5-6,0,2,2,3,2,0,2,2,-6,7
 301201028,Washington Wizards,K. Hinrich,1981,SG,34,7-12,0-1,1-2,0,1,1,5,1,0,2,1,-15,15
 301201028,Washington Wizards,T. Booker,4270,PF,23,2-4,0-0,1-3,2,2,4,0,2,2,1,4,-10,5
-301201028,Washington Wizards,K. Seraphin,4289,PF,13,1-1,0-0,0-0,1,0,1,0,0,1,1,4,-2,2
+301201028,Washington Wizards,K. Seraphin,4289,C,13,1-1,0-0,0-0,1,0,1,0,0,1,1,4,-2,2
 301201028,Washington Wizards,C. Martin,3930,PF,7,2-3,2-2,0-0,0,0,0,1,0,0,0,0,+4,6
 301201028,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301201028,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
@@ -9229,35 +9081,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301203028,Toronto Raptors,R. Evans,1828,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
 301203028,Toronto Raptors,J. Bayless,3417,PG,22,2-6,0-1,3-4,1,0,1,3,1,0,0,0,+8,7
 301203028,Toronto Raptors,L. Barbosa,2166,SG,26,7-12,2-5,6-9,0,1,1,0,2,0,1,3,-4,22
-301206011,Toronto Raptors,A. Johnson,2769,PF,28,7-13,0-0,1-3,4,5,9,2,1,0,1,3,-9,15
-301206011,Toronto Raptors,A. Bargnani,2987,C,32,5-11,0-4,2-3,1,3,4,1,0,0,2,4,-20,12
-301206011,Toronto Raptors,J. Calderon,2806,PG,30,8-12,2-2,3-4,0,1,1,4,1,0,1,3,-13,21
-301206011,Toronto Raptors,S. Weems,3467,SG,19,3-10,0-0,2-2,2,3,5,1,2,0,2,1,-4,8
-301206011,Toronto Raptors,D. DeRozan,3978,SG,33,3-9,0-0,1-2,0,1,1,1,2,2,0,0,-14,7
-301206011,Toronto Raptors,E. Davis,4259,PF,19,3-8,0-0,0-0,4,3,7,0,0,0,0,3,-6,6
-301206011,Toronto Raptors,J. Dorsey,3421,PF,4,0-0,0-0,0-0,1,2,3,0,0,0,1,1,-2,0
-301206011,Toronto Raptors,J. Wright,3241,SF,9,1-1,0-0,0-0,1,0,1,2,1,0,1,1,-13,2
-301206011,Toronto Raptors,L. Kleiza,2770,SF,17,5-12,1-4,1-1,2,2,4,0,0,0,4,3,-13,12
-301206011,Toronto Raptors,P. Stojakovic,813,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301206011,Toronto Raptors,S. Alabi,4268,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-301206011,Toronto Raptors,R. Evans,1828,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
-301206011,Toronto Raptors,J. Bayless,3417,PG,18,2-10,1-3,0-0,1,3,4,2,1,0,2,3,-11,5
-301206011,Toronto Raptors,L. Barbosa,2166,SG,31,5-14,2-5,0-0,2,4,6,3,0,0,4,1,-15,12
-301206011,Indiana Pacers,J. McRoberts,3220,PF,26,4-11,1-4,3-4,2,5,7,6,2,3,1,0,+19,12
-301206011,Indiana Pacers,D. Granger,2760,SF,31,9-16,2-5,1-2,1,8,9,5,1,1,4,1,+14,21
-301206011,Indiana Pacers,R. Hibbert,3436,C,28,6-9,0-0,1-1,2,4,6,6,0,2,5,2,+14,13
-301206011,Indiana Pacers,D. Collison,3973,PG,25,6-7,0-0,5-5,0,3,3,1,1,0,2,2,+14,17
-301206011,Indiana Pacers,M. Dunleavy,1708,SG,29,5-7,1-1,0-0,0,5,5,2,2,1,0,4,+19,11
-301206011,Indiana Pacers,T. Hansbrough,3991,PF,6,0-0,0-0,4-4,0,1,1,1,1,0,0,1,+1,4
-301206011,Indiana Pacers,S. Jones,3010,PF,16,2-5,0-0,1-2,3,3,6,2,0,0,1,1,+8,5
-301206011,Indiana Pacers,J. Foster,250,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301206011,Indiana Pacers,L. Stephenson,4244,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
-301206011,Indiana Pacers,P. George,4251,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
-301206011,Indiana Pacers,B. Rush,3457,SF,32,10-18,6-8,0-0,1,3,4,1,2,0,1,1,+13,26
-301206011,Indiana Pacers,J. Posey,671,SF,20,4-8,3-7,0-0,0,3,3,2,0,0,0,2,+6,11
-301206011,Indiana Pacers,A.J. Price,4010,PG,4,0-1,0-0,0-0,0,1,1,1,0,0,1,0,+2,0
-301206011,Indiana Pacers,T.J. Ford,1979,PG,19,1-3,0-1,2-2,0,2,2,6,1,0,2,1,+8,4
-301206011,Indiana Pacers,D. Jones,2008,SG,4,0-0,0-0,0-0,0,0,0,0,0,1,0,0,+2,0
 301210028,Denver Nuggets,G. Forbes,4312,F,24,7-8,1-1,0-0,1,5,6,1,2,1,1,0,+15,15
 301210028,Denver Nuggets,N. Hilario,1713,C,34,9-12,0-0,8-9,0,6,6,2,1,1,2,2,+17,26
 301210028,Denver Nuggets,S. Williams,3040,C,15,3-6,0-0,0-0,3,4,7,1,0,0,2,4,+6,6
@@ -9450,11 +9273,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301227029,Memphis Grizzlies,M. Gasol,3206,C,31,4-8,0-0,1-1,2,3,5,2,0,2,2,2,-2,9
 301227029,Memphis Grizzlies,M. Conley,3195,PG,39,4-7,1-1,3-6,0,0,0,6,2,0,3,0,+12,12
 301227029,Memphis Grizzlies,D. Arthur,3413,PF,21,3-6,0-0,2-2,2,2,4,0,0,0,0,2,+4,8
+301227029,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227029,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
 301227029,Memphis Grizzlies,H. Haddadi,3478,C,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+0,0
 301227029,Memphis Grizzlies,H. Thabeet,4016,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227029,Memphis Grizzlies,G. Vasquez,4291,PG,6,0-2,0-1,0-0,1,0,1,0,0,0,1,1,-1,0
-301227029,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227029,Memphis Grizzlies,T. Allen,2367,SG,34,5-9,0-0,4-4,1,7,8,2,6,1,2,3,+13,14
 301227029,Memphis Grizzlies,O.J. Mayo,3450,SG,26,4-9,1-5,3-4,0,0,0,0,1,0,2,1,-1,12
 301228006,Toronto Raptors,A. Johnson,2769,PF,42,4-8,0-0,4-5,0,6,6,2,0,1,1,4,+4,12
@@ -9682,7 +9505,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310115027,Washington Wizards,J. McGee,3452,C,25,5-7,0-0,0-0,3,8,11,1,0,6,3,2,-5,10
 310115027,Washington Wizards,J. Wall,4237,PG,36,4-14,0-0,0-0,1,2,3,9,2,0,5,0,-3,8
 310115027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310115027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310115027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310115027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310115027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310115027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
@@ -9804,34 +9627,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310122014,Miami Heat,C. Arroyo,1055,PG,13,1-2,0-0,0-0,0,0,0,4,0,0,2,1,-3,2
 310122014,Miami Heat,D. Wade,1987,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310122014,Miami Heat,E. House,348,SG,28,4-10,4-7,1-1,0,2,2,1,0,0,1,1,+6,13
-310124028,Memphis Grizzlies,Z. Randolph,1017,PF,35,8-24,0-0,1-1,5,7,12,0,0,0,1,3,-7,17
-310124028,Memphis Grizzlies,R. Gay,3005,SF,39,8-20,2-4,3-4,3,4,7,2,1,1,0,3,-3,21
-310124028,Memphis Grizzlies,S. Young,4020,SF,13,0-1,0-0,0-0,0,0,0,1,0,0,0,1,+0,0
-310124028,Memphis Grizzlies,M. Gasol,3206,C,41,7-14,0-0,3-4,4,4,8,4,0,4,4,5,+0,17
-310124028,Memphis Grizzlies,M. Conley,3195,PG,36,5-9,0-1,3-6,2,5,7,4,1,1,2,3,-5,13
-310124028,Memphis Grizzlies,D. Arthur,3413,PF,20,3-7,0-0,1-2,2,2,4,1,2,1,0,3,+11,7
-310124028,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310124028,Memphis Grizzlies,H. Thabeet,4016,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Memphis Grizzlies,G. Vasquez,4291,PG,12,1-2,0-1,0-0,1,1,2,3,0,0,1,1,+7,2
-310124028,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Memphis Grizzlies,T. Allen,2367,SG,11,4-6,0-0,0-0,0,1,1,0,2,0,1,0,-5,8
-310124028,Memphis Grizzlies,O.J. Mayo,3450,SG,33,5-10,2-5,3-3,1,4,5,2,0,1,0,2,+12,15
-310124028,Toronto Raptors,A. Johnson,2769,PF,29,4-5,0-0,2-3,0,6,6,2,0,1,0,5,+3,10
-310124028,Toronto Raptors,J. Wright,3241,SF,41,5-7,0-0,1-4,3,6,9,1,0,2,1,2,+6,11
-310124028,Toronto Raptors,A. Bargnani,2987,C,44,13-27,0-4,3-3,2,3,5,3,1,1,3,1,+5,29
-310124028,Toronto Raptors,J. Bayless,3417,PG,37,5-10,0-3,5-6,1,7,8,11,2,0,4,2,+13,15
-310124028,Toronto Raptors,D. DeRozan,3978,SG,41,9-20,0-2,7-7,2,7,9,2,1,2,1,1,-4,25
-310124028,Toronto Raptors,E. Davis,4259,PF,23,1-3,0-0,0-1,2,0,2,0,0,5,0,3,-12,2
-310124028,Toronto Raptors,J. Dorsey,3421,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Toronto Raptors,L. Kleiza,2770,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Toronto Raptors,S. Alabi,4268,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Toronto Raptors,A. Ajinca,3410,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310124028,Toronto Raptors,R. Evans,1828,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
-310124028,Toronto Raptors,S. Gaines,4224,PG,17,3-10,0-4,0-0,1,2,3,1,1,0,1,1,-11,6
-310124028,Toronto Raptors,J. Calderon,2806,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310124028,Toronto Raptors,S. Weems,3467,SG,8,0-2,0-0,0-0,0,0,0,0,0,0,1,0,-10,0
-310124028,Toronto Raptors,L. Barbosa,2166,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310128028,Milwaukee Bucks,E. Ilyasova,2767,PF,34,9-10,2-2,5-5,0,7,7,1,3,2,2,6,+10,25
 310128028,Milwaukee Bucks,C. Maggette,497,SF,44,10-21,1-3,8-10,1,10,11,5,0,0,5,3,+5,29
 310128028,Milwaukee Bucks,A. Bogut,2747,C,38,12-14,0-0,0-2,3,4,7,2,0,4,1,4,+11,24
@@ -10038,36 +9833,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310209028,Toronto Raptors,J. Bayless,3417,PG,7,0-1,0-0,0-0,0,0,0,3,0,0,1,2,-14,0
 310209028,Toronto Raptors,T. Johnson,3256,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310209028,Toronto Raptors,L. Barbosa,2166,SG,27,7-16,1-4,5-5,0,1,1,1,0,0,2,1,-16,20
-310211028,Portland Trail Blazers,L. Aldridge,2983,PF,42,14-25,0-0,9-12,2,8,10,2,2,2,4,2,+2,37
-310211028,Portland Trail Blazers,D. Cunningham,3974,PF,26,3-4,0-0,0-0,2,2,4,0,1,0,0,3,-3,6
-310211028,Portland Trail Blazers,A. Miller,557,PG,36,5-9,0-1,3-3,2,2,4,8,1,1,0,2,+1,13
-310211028,Portland Trail Blazers,W. Matthews,4032,SG,38,1-7,0-3,4-6,1,1,2,3,2,0,5,3,+8,6
-310211028,Portland Trail Blazers,N. Batum,3416,SG,40,3-7,1-4,0-0,2,5,7,4,0,4,1,1,+1,7
-310211028,Portland Trail Blazers,S. Marks,511,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Portland Trail Blazers,L. Babbitt,4250,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Portland Trail Blazers,G. Oden,3225,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
-310211028,Portland Trail Blazers,J. Przybilla,682,C,14,1-1,0-0,1-2,0,2,2,0,0,1,1,1,+4,3
-310211028,Portland Trail Blazers,M. Camby,125,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Portland Trail Blazers,P. Mills,4004,PG,12,3-6,0-1,1-1,0,2,2,3,1,0,0,1,+5,7
-310211028,Portland Trail Blazers,A. Johnson,4279,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-16,0
-310211028,Portland Trail Blazers,E. Williams,4294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Portland Trail Blazers,B. Roy,3027,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Portland Trail Blazers,R. Fernandez,3204,SG,33,8-11,6-8,1-1,0,1,1,3,3,0,5,2,+12,23
-310211028,Toronto Raptors,E. Davis,4259,PF,28,3-6,0-0,0-2,7,6,13,1,1,0,0,4,-17,6
-310211028,Toronto Raptors,A. Bargnani,2987,C,43,10-17,1-1,8-9,1,5,6,4,1,0,5,3,+1,29
-310211028,Toronto Raptors,J. Calderon,2806,PG,30,2-4,0-0,2-2,0,3,3,10,0,0,0,2,+7,6
-310211028,Toronto Raptors,S. Weems,3467,SG,35,5-10,0-0,0-0,2,0,2,1,2,0,3,1,-14,10
-310211028,Toronto Raptors,D. DeRozan,3978,SG,38,7-13,0-1,3-5,1,3,4,1,3,0,1,1,-1,17
-310211028,Toronto Raptors,J. Dorsey,3421,PF,19,1-2,0-0,0-0,1,5,6,0,0,1,2,4,+2,2
-310211028,Toronto Raptors,A. Johnson,2769,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-310211028,Toronto Raptors,J. Wright,3241,SF,5,1-1,0-0,0-2,0,0,0,0,1,1,1,0,-9,2
-310211028,Toronto Raptors,L. Kleiza,2770,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+17,0
-310211028,Toronto Raptors,S. Alabi,4268,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Toronto Raptors,A. Ajinca,3410,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Toronto Raptors,R. Evans,1828,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
-310211028,Toronto Raptors,J. Bayless,3417,PG,21,6-11,4-5,2-2,0,0,0,1,0,0,2,3,-16,18
-310211028,Toronto Raptors,T. Johnson,3256,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310211028,Toronto Raptors,L. Barbosa,2166,SG,20,2-8,0-2,2-2,0,1,1,3,0,0,1,2,+17,6
 310213028,LA Clippers,B. Griffin,3989,PF,36,7-13,0-0,7-10,2,13,15,2,0,0,1,5,-10,21
 310213028,LA Clippers,R. Gomes,2757,SF,29,5-8,2-3,2-2,1,4,5,1,0,0,1,2,-4,14
 310213028,LA Clippers,D. Jordan,3442,C,21,2-2,0-0,2-6,1,3,4,0,0,0,0,5,-7,6
@@ -10394,12 +10159,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310318028,Washington Wizards,J. McGee,3452,C,29,4-10,0-0,3-6,7,5,12,2,1,4,1,5,-8,11
 310318028,Washington Wizards,J. Wall,4237,PG,42,5-14,1-1,10-12,0,2,2,7,0,0,2,4,-7,21
 310318028,Washington Wizards,J. Crawford,4243,SG,42,12-27,0-5,1-2,1,1,2,3,1,0,5,2,-16,25
-310318028,Washington Wizards,K. Seraphin,4289,PF,5,0-0,0-0,0-2,0,0,0,0,0,0,2,3,-4,0
 310318028,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-15,0
 310318028,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+15,0
 310318028,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310318028,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 310318028,Washington Wizards,H. Ndiaye,4282,C,12,0-1,0-0,0-0,1,1,2,0,1,2,0,3,-9,0
+310318028,Washington Wizards,K. Seraphin,4289,C,5,0-0,0-0,0-2,0,0,0,0,0,0,2,3,-4,0
 310318028,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310318028,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310318028,Washington Wizards,O. Jeffers,4231,SG,11,0-2,0-0,0-0,1,4,5,0,0,0,1,1,+0,0
@@ -11321,34 +11086,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301210009,Golden State Warriors,S. Curry,3975,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
 301210009,Golden State Warriors,C. Bell,1034,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301210009,Golden State Warriors,R. Carney,2995,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-28,0
-301213026,Golden State Warriors,D. Lee,2772,PF,41,3-15,0-0,12-14,5,7,12,2,0,0,4,3,-9,18
-301213026,Golden State Warriors,D. Wright,2423,SF,37,8-17,4-9,0-0,2,4,6,3,0,0,2,3,-6,20
-301213026,Golden State Warriors,R. Williams,4229,SF,38,7-12,4-6,1-3,1,4,5,6,2,0,1,4,-10,19
-301213026,Golden State Warriors,A. Biedrins,2427,C,28,4-10,0-0,0-2,7,5,12,2,0,0,1,4,+4,8
-301213026,Golden State Warriors,M. Ellis,2751,SG,40,7-16,2-6,0-2,0,4,4,5,4,1,7,5,-5,16
-301213026,Golden State Warriors,E. Udoh,4261,PF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-301213026,Golden State Warriors,L. Amundson,3041,PF,8,0-3,0-0,0-2,1,1,2,0,0,0,0,1,-3,0
-301213026,Golden State Warriors,B. Wright,3242,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-301213026,Golden State Warriors,V. Radmanovic,1016,SF,17,2-4,1-3,0-0,2,2,4,0,2,0,3,0,-7,5
-301213026,Golden State Warriors,D. Gadzuric,1710,C,9,0-1,0-0,1-2,0,0,0,0,0,0,0,2,-13,1
-301213026,Golden State Warriors,J. Lin,4299,PG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-301213026,Golden State Warriors,A. Law,3219,PG,15,1-2,0-0,6-6,0,1,1,0,0,0,1,1,-17,8
-301213026,Golden State Warriors,S. Curry,3975,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
-301213026,Golden State Warriors,C. Bell,1034,SG,5,0-1,0-1,0-0,0,0,0,0,0,0,0,0,-1,0
-301213026,Golden State Warriors,R. Carney,2995,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-301213026,Utah Jazz,P. Millsap,3015,PF,32,7-14,0-0,2-3,3,5,8,0,2,0,1,3,+0,16
-301213026,Utah Jazz,A. Kirilenko,434,SF,37,4-6,0-0,4-4,1,3,4,4,4,1,1,1,+20,12
-301213026,Utah Jazz,G. Hayward,4249,SF,11,0-1,0-0,1-2,0,0,0,0,0,0,2,4,+4,1
-301213026,Utah Jazz,A. Jefferson,2389,C,34,4-13,0-0,5-5,1,7,8,2,1,6,1,2,-5,13
-301213026,Utah Jazz,D. Williams,2798,PG,35,8-16,4-8,10-11,1,5,6,10,1,0,3,2,+3,30
-301213026,Utah Jazz,J. Evans,4295,SF,9,4-4,0-0,1-1,1,2,3,1,0,0,1,0,+6,9
-301213026,Utah Jazz,C.J. Miles,2778,SF,28,9-14,2-6,0-1,1,5,6,2,2,1,3,4,+13,20
-301213026,Utah Jazz,K. Fesenko,3205,C,14,1-1,0-0,0-0,1,3,4,2,0,0,1,4,+18,2
-301213026,Utah Jazz,M. Okur,1014,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301213026,Utah Jazz,F. Elson,234,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301213026,Utah Jazz,R. Price,2807,PG,20,1-6,0-3,1-2,0,0,0,0,1,0,1,2,+2,3
-301213026,Utah Jazz,E. Watson,1027,PG,20,1-4,0-0,0-0,1,0,1,5,1,0,2,2,+4,2
-301213026,Utah Jazz,R. Bell,49,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301214009,Minnesota Timberwolves,K. Love,3449,PF,44,6-18,0-3,1-2,4,10,14,3,0,0,2,2,-4,13
 301214009,Minnesota Timberwolves,M. Beasley,3418,SF,35,9-16,1-3,0-1,2,5,7,2,1,0,3,6,-3,19
 301214009,Minnesota Timberwolves,W. Johnson,4247,SF,20,2-5,0-3,0-0,0,2,2,1,0,0,0,2,-5,4
@@ -12265,33 +12002,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310301011,Indiana Pacers,A.J. Price,4010,PG,15,0-4,0-3,1-2,0,1,1,2,0,0,1,0,-8,1
 310301011,Indiana Pacers,M. Dunleavy,1708,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
 310301011,Indiana Pacers,D. Jones,2008,SG,15,3-6,1-2,3-4,0,1,1,0,0,1,1,2,-1,10
-310302027,Golden State Warriors,D. Lee,2772,PF,32,3-9,0-0,3-4,5,11,16,6,1,0,0,5,-8,9
-310302027,Golden State Warriors,E. Udoh,4261,PF,30,2-6,0-0,2-3,1,1,2,0,1,3,2,4,-1,6
-310302027,Golden State Warriors,D. Wright,2423,SF,45,4-14,1-5,5-6,2,4,6,3,1,2,2,3,+10,14
-310302027,Golden State Warriors,S. Curry,3975,PG,37,9-18,3-7,8-9,2,7,9,5,1,0,3,2,-8,29
-310302027,Golden State Warriors,M. Ellis,2751,SG,31,9-20,0-2,3-4,1,2,3,4,0,0,0,5,+1,21
-310302027,Golden State Warriors,L. Amundson,3041,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310302027,Golden State Warriors,J. Adrien,4335,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310302027,Golden State Warriors,R. Williams,4229,SF,18,4-9,1-3,2-2,0,4,4,1,0,0,0,1,+8,11
-310302027,Golden State Warriors,V. Radmanovic,1016,SF,15,2-3,2-3,2-2,0,6,6,1,0,2,1,1,+14,8
-310302027,Golden State Warriors,A. Biedrins,2427,C,13,1-2,0-0,0-0,3,3,6,1,0,0,4,2,+3,2
-310302027,Golden State Warriors,J. Lin,4299,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310302027,Golden State Warriors,A. Law,3219,PG,19,2-4,0-0,2-4,0,2,2,3,2,0,1,2,+1,6
-310302027,Golden State Warriors,C. Bell,1034,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
-310302027,Washington Wizards,J. Howard,2006,SF,19,4-9,0-0,5-6,0,5,5,1,0,1,1,2,-11,13
-310302027,Washington Wizards,N. Young,3243,SF,44,10-24,4-7,7-8,1,1,2,1,1,1,1,3,-1,31
-310302027,Washington Wizards,A. Blatche,2746,C,39,8-14,0-0,4-7,4,5,9,6,1,1,2,1,-5,20
-310302027,Washington Wizards,J. McGee,3452,C,18,2-4,0-0,1-1,1,5,6,0,0,0,0,1,-13,5
-310302027,Washington Wizards,J. Wall,4237,PG,39,5-10,0-1,4-5,0,0,0,6,1,0,4,5,-7,14
-310302027,Washington Wizards,T. Booker,4270,PF,19,3-3,0-0,1-3,3,8,11,1,1,1,0,3,+14,7
-310302027,Washington Wizards,K. Seraphin,4289,PF,11,0-3,0-0,0-0,1,1,2,0,0,0,0,0,-3,0
-310302027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
-310302027,Washington Wizards,R. Lewis,469,PF,5,0-2,0-2,2-2,0,1,1,1,0,0,1,2,-1,2
-310302027,Washington Wizards,Y. Jianlian,3214,SF,6,0-1,0-0,2-4,1,1,2,0,0,0,1,2,-4,2
-310302027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310302027,Washington Wizards,M. Shakur,3252,PG,8,0-3,0-1,0-0,0,2,2,0,0,0,0,1,+3,0
-310302027,Washington Wizards,J. Crawford,4243,SG,12,2-7,0-3,0-0,0,0,0,0,0,0,0,2,+6,4
-310302027,Washington Wizards,M. Evans,1031,SG,21,2-9,0-2,0-0,0,0,0,0,1,0,0,5,+2,4
 310308005,Golden State Warriors,D. Lee,2772,PF,26,6-16,0-0,2-2,7,7,14,2,0,1,2,4,+5,14
 310308005,Golden State Warriors,E. Udoh,4261,PF,20,2-4,0-0,0-0,0,2,2,0,0,2,1,1,+3,4
 310308005,Golden State Warriors,D. Wright,2423,SF,33,3-9,0-2,1-2,0,1,1,4,2,1,1,1,+2,7
@@ -12552,11 +12262,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310327009,Washington Wizards,J. Wall,4237,PG,44,5-16,0-3,8-10,0,2,2,12,2,1,3,1,-15,18
 310327009,Washington Wizards,J. Crawford,4243,SG,37,5-21,0-4,1-1,1,4,5,7,0,0,3,4,-22,11
 310327009,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327009,Washington Wizards,K. Seraphin,4289,C,5,0-1,0-0,0-0,0,1,1,0,1,0,0,0,-3,0
 310327009,Washington Wizards,C. Martin,3930,PF,9,1-3,1-3,2-2,0,0,0,1,0,0,0,2,+7,5
 310327009,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
 310327009,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310327009,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310327009,Washington Wizards,K. Seraphin,4289,C,5,0-1,0-0,0-0,0,1,1,0,1,0,0,0,-3,0
 310327009,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
 310327009,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310327009,Washington Wizards,O. Jeffers,4231,SG,21,0-2,0-1,0-0,1,1,2,3,2,0,0,3,+5,0
@@ -12661,34 +12371,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310402009,Golden State Warriors,J. Lin,4299,PG,7,1-1,0-0,2-2,0,0,0,1,0,0,1,0,+6,4
 310402009,Golden State Warriors,A. Law,3219,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
 310402009,Golden State Warriors,C. Bell,1034,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310405022,Golden State Warriors,D. Lee,2772,PF,41,13-17,0-0,3-3,4,16,20,2,2,1,4,3,+24,29
-310405022,Golden State Warriors,E. Udoh,4261,PF,19,2-3,0-0,0-0,1,0,1,0,0,1,2,4,+6,4
-310405022,Golden State Warriors,D. Wright,2423,SF,33,2-11,0-4,0-0,3,2,5,2,2,0,0,3,+21,4
-310405022,Golden State Warriors,S. Curry,3975,PG,42,10-21,3-5,5-6,1,7,8,4,2,1,2,2,+20,28
-310405022,Golden State Warriors,M. Ellis,2751,SG,44,11-19,4-6,4-4,1,2,3,5,1,1,2,2,+23,30
-310405022,Golden State Warriors,L. Amundson,3041,PF,27,1-3,0-0,7-9,0,4,4,0,0,1,0,1,+12,9
-310405022,Golden State Warriors,J. Adrien,4335,SF,2,1-1,0-0,0-0,2,0,2,0,0,0,1,0,-2,2
-310405022,Golden State Warriors,R. Williams,4229,SF,7,0-2,0-1,0-0,0,2,2,0,0,0,0,0,+1,0
-310405022,Golden State Warriors,A. Thornton,3237,SF,15,1-5,0-0,0-0,1,0,1,1,0,0,0,2,+2,2
-310405022,Golden State Warriors,V. Radmanovic,1016,SF,7,0-0,0-0,0-0,1,0,1,1,0,0,0,1,+0,0
-310405022,Golden State Warriors,A. Biedrins,2427,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310405022,Golden State Warriors,J. Lin,4299,PG,2,0-0,0-0,0-0,0,0,0,1,1,0,0,1,-2,0
-310405022,Golden State Warriors,A. Law,3219,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310405022,Golden State Warriors,C. Bell,1034,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310405022,Portland Trail Blazers,L. Aldridge,2983,PF,41,7-15,0-0,3-3,4,8,12,4,1,2,1,2,-17,17
-310405022,Portland Trail Blazers,G. Wallace,1026,SF,37,4-9,0-1,2-2,2,1,3,2,3,0,2,2,-16,10
-310405022,Portland Trail Blazers,M. Camby,125,C,10,0-0,0-0,0-0,2,6,8,2,0,0,0,1,+2,0
-310405022,Portland Trail Blazers,A. Miller,557,PG,31,4-7,0-0,4-4,0,0,0,2,0,0,2,2,-11,12
-310405022,Portland Trail Blazers,W. Matthews,4032,SG,29,6-11,1-5,4-5,0,3,3,3,1,0,2,0,-10,17
-310405022,Portland Trail Blazers,L. Babbitt,4250,SF,4,1-3,0-0,0-0,0,1,1,1,0,1,0,0,+0,2
-310405022,Portland Trail Blazers,C. Johnson,4400,C,7,0-0,0-0,2-2,1,1,2,0,1,0,1,3,-6,2
-310405022,Portland Trail Blazers,G. Oden,3225,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
-310405022,Portland Trail Blazers,A. Johnson,4279,PG,3,1-1,0-0,0-0,0,0,0,0,0,0,0,1,+2,2
-310405022,Portland Trail Blazers,P. Mills,4004,PG,8,1-3,1-2,0-0,0,1,1,0,0,0,0,1,-12,3
-310405022,Portland Trail Blazers,E. Williams,4294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-12,0
-310405022,Portland Trail Blazers,B. Roy,3027,SG,16,2-11,0-1,1-2,5,3,8,1,0,0,0,1,-12,5
-310405022,Portland Trail Blazers,R. Fernandez,3204,SG,24,1-9,0-6,0-0,0,1,1,2,0,0,0,1,-12,2
-310405022,Portland Trail Blazers,N. Batum,3416,SG,30,7-14,1-6,0-0,1,0,1,2,0,1,1,2,-13,15
 310406009,Los Angeles Lakers,M. World Peace,25,SF,25,1-7,0-2,0-0,0,2,2,3,1,0,1,2,+0,2
 310406009,Los Angeles Lakers,K. Bryant,110,SF,32,10-20,1-5,4-6,0,2,2,2,4,0,3,1,+2,25
 310406009,Los Angeles Lakers,P. Gasol,996,C,27,7-11,0-0,4-8,1,6,7,0,0,0,1,1,-2,18
@@ -13029,35 +12711,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301110024,San Antonio Spurs,G. Hill,3438,PG,26,3-7,2-3,2-2,0,2,2,4,0,0,2,0,+5,10
 301110024,San Antonio Spurs,G. Temple,4023,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301110024,San Antonio Spurs,J. Anderson,4242,SG,11,2-3,2-3,1-2,0,1,1,1,0,0,0,1,-1,7
-301112012,Detroit Pistons,B. Wallace,885,PF,23,2-3,0-0,0-0,1,4,5,2,1,1,0,2,-8,4
-301112012,Detroit Pistons,T. Prince,1724,SF,37,3-11,0-0,4-8,2,6,8,1,0,0,1,2,+3,10
-301112012,Detroit Pistons,A. Daye,3976,SF,25,5-7,2-2,0-0,0,4,4,0,1,0,2,3,+5,12
-301112012,Detroit Pistons,R. Stuckey,3235,PG,31,6-14,0-1,5-7,2,1,3,6,1,0,1,3,+6,17
-301112012,Detroit Pistons,R. Hamilton,294,SG,33,4-13,1-4,3-4,1,4,5,3,5,0,3,3,-1,12
-301112012,Detroit Pistons,J. Jerebko,3998,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
-301112012,Detroit Pistons,C. Wilcox,1731,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
-301112012,Detroit Pistons,J. Maxiell,2775,PF,24,3-4,0-0,5-6,1,2,3,1,0,2,0,4,+12,11
-301112012,Detroit Pistons,C. Villanueva,2792,PF,35,9-15,5-7,7-8,0,1,1,1,1,0,1,4,+8,30
-301112012,Detroit Pistons,D. Summers,4012,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301112012,Detroit Pistons,G. Monroe,4260,C,6,0-0,0-0,0-2,0,1,1,0,0,0,0,0,-1,0
-301112012,Detroit Pistons,W. Bynum,2816,PG,22,2-8,0-0,0-1,0,3,3,2,1,0,0,1,+0,4
-301112012,Detroit Pistons,T. McGrady,532,SG,8,2-2,1-1,0-0,0,0,0,2,0,0,1,1,-1,5
-301112012,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
-301112012,Detroit Pistons,B. Gordon,2381,SG,20,3-5,2-3,0-0,0,1,1,3,0,0,2,2,+7,8
-301112012,LA Clippers,B. Griffin,3989,PF,44,8-15,0-0,2-5,2,16,18,4,1,2,3,4,-10,18
-301112012,LA Clippers,R. Gomes,2757,SF,42,3-7,1-3,2-4,0,3,3,0,2,0,2,2,-6,9
-301112012,LA Clippers,A. Aminu,4248,SF,19,2-5,1-1,1-2,3,2,5,1,2,1,3,2,+4,6
-301112012,LA Clippers,E. Bledsoe,4238,PG,46,6-10,0-2,6-6,2,4,6,5,1,1,3,2,-10,18
-301112012,LA Clippers,E. Gordon,3431,SG,42,9-20,0-2,10-11,1,2,3,5,0,0,6,6,-7,28
-301112012,LA Clippers,C. Smith,3031,PF,26,5-6,0-1,4-5,3,3,6,1,0,0,1,3,-7,14
-301112012,LA Clippers,B. Cook,1998,PF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-301112012,LA Clippers,R. Butler,1767,SF,22,3-13,2-10,4-5,0,2,2,1,1,0,0,1,-3,12
-301112012,LA Clippers,D. Jordan,3442,C,16,1-2,0-0,0-0,1,5,6,1,2,0,3,5,+4,2
-301112012,LA Clippers,J. Collins,988,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301112012,LA Clippers,C. Kaman,1982,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-301112012,LA Clippers,B. Davis,194,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
-301112012,LA Clippers,W. Warren,4292,SG,7,0-2,0-1,0-0,0,0,0,1,0,0,0,1,+4,0
-301112012,LA Clippers,R. Foye,3003,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301117016,LA Clippers,B. Griffin,3989,PF,37,12-22,0-0,2-5,7,10,17,2,0,0,2,3,-5,26
 301117016,LA Clippers,A. Aminu,4248,SF,28,7-11,3-5,0-0,1,3,4,3,1,0,3,1,-3,17
 301117016,LA Clippers,D. Jordan,3442,C,23,5-5,0-0,1-1,4,3,7,1,0,0,0,2,-3,11
@@ -14457,12 +14110,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310323012,Washington Wizards,J. McGee,3452,C,51,11-14,0-0,0-2,4,9,13,0,2,4,1,3,+1,22
 310323012,Washington Wizards,J. Wall,4237,PG,51,12-26,0-0,8-11,1,4,5,10,1,1,6,2,-12,32
 310323012,Washington Wizards,J. Crawford,4243,SG,53,10-28,2-9,3-4,2,5,7,10,4,0,7,3,-10,25
-310323012,Washington Wizards,K. Seraphin,4289,PF,8,1-2,0-0,0-0,2,0,2,0,0,0,1,5,-15,2
 310323012,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310323012,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+9,0
 310323012,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310323012,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
 310323012,Washington Wizards,H. Ndiaye,4282,C,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+310323012,Washington Wizards,K. Seraphin,4289,C,8,1-2,0-0,0-0,2,0,2,0,0,0,1,5,-15,2
 310323012,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310323012,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310323012,Washington Wizards,O. Jeffers,4231,SG,22,2-3,0-0,1-2,2,1,3,4,1,0,1,3,+1,5
@@ -15225,7 +14878,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301207013,Washington Wizards,G. Arenas,974,PG,38,8-17,2-8,5-5,0,2,2,4,2,0,7,5,-12,23
 301207013,Washington Wizards,J. Wall,4237,PG,38,7-14,2-5,6-6,0,5,5,14,1,3,3,3,-13,22
 301207013,Washington Wizards,T. Booker,4270,PF,21,7-9,0-0,0-0,3,1,4,0,2,0,0,5,+17,14
-301207013,Washington Wizards,K. Seraphin,4289,PF,19,0-2,0-0,2-2,2,2,4,2,1,4,0,5,+11,2
+301207013,Washington Wizards,K. Seraphin,4289,C,19,0-2,0-0,2-2,2,2,4,2,1,4,0,5,+11,2
 301207013,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301207013,Washington Wizards,H. Armstrong,2984,PF,8,0-0,0-0,0-2,0,0,0,0,0,1,0,1,-2,0
 301207013,Washington Wizards,A. Gee,4232,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -15297,12 +14950,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301214027,Washington Wizards,K. Hinrich,1981,SG,36,3-10,0-2,1-2,1,4,5,4,0,0,3,4,-7,7
 301214027,Washington Wizards,C. Martin,3930,PF,14,2-7,2-6,0-0,1,1,2,0,1,0,0,3,-6,6
 301214027,Washington Wizards,T. Booker,4270,PF,34,4-7,0-0,1-1,4,5,9,0,1,0,0,2,-12,9
-301214027,Washington Wizards,K. Seraphin,4289,PF,15,2-6,0-0,2-2,6,3,9,0,0,1,1,2,-2,6
 301214027,Washington Wizards,H. Armstrong,2984,PF,12,2-6,0-0,0-0,0,5,5,1,0,0,1,4,+1,4
 301214027,Washington Wizards,N. Young,3243,SF,32,9-21,0-4,3-3,0,1,1,2,2,0,2,2,-17,21
 301214027,Washington Wizards,A. Gee,4232,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301214027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
 301214027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301214027,Washington Wizards,K. Seraphin,4289,C,15,2-6,0-0,2-2,6,3,9,0,0,1,1,2,-2,6
 301214027,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-17,0
 301214027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
 301215011,Los Angeles Lakers,L. Odom,617,PF,34,5-9,0-1,3-5,2,15,17,3,0,1,3,4,+18,13
@@ -16965,7 +16618,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301205021,Washington Wizards,J. Wall,4237,PG,43,4-12,1-2,3-4,0,2,2,12,3,1,4,4,-8,12
 301205021,Washington Wizards,K. Hinrich,1981,SG,20,1-3,0-0,0-0,0,5,5,2,0,0,0,4,-20,2
 301205021,Washington Wizards,T. Booker,4270,PF,13,4-6,0-0,1-1,1,1,2,0,1,0,1,2,-1,9
-301205021,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301205021,Washington Wizards,C. Martin,3930,PF,2,0-0,0-0,0-0,0,1,1,1,0,0,1,0,+1,0
 301205021,Washington Wizards,H. Armstrong,2984,PF,5,0-1,0-0,0-0,0,1,1,0,1,0,0,3,-4,0
 301205021,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+19,0
@@ -16973,6 +16625,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301205021,Washington Wizards,A. Thornton,3237,SF,8,2-3,0-0,0-0,0,0,0,0,0,1,0,1,+3,4
 301205021,Washington Wizards,N. Young,3243,SF,23,8-14,2-5,2-3,2,2,4,1,0,1,1,4,-2,20
 301205021,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
+301205021,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301205021,Washington Wizards,G. Arenas,974,PG,32,6-13,2-6,0-1,0,1,1,6,1,1,0,2,-7,14
 301205021,Phoenix Suns,C. Frye,2754,PF,26,2-8,1-6,2-2,1,4,5,1,0,1,0,2,+18,7
 301205021,Phoenix Suns,G. Hill,336,SF,23,5-10,0-0,1-2,0,4,4,1,1,0,0,0,+16,11
@@ -17017,9 +16670,9 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301207022,Portland Trail Blazers,R. Fernandez,3204,SG,23,4-6,2-3,1-1,0,3,3,3,0,0,1,6,+12,11
 301208021,Memphis Grizzlies,Z. Randolph,1017,PF,43,15-19,1-1,3-4,5,12,17,0,0,0,2,4,+18,34
 301208021,Memphis Grizzlies,R. Gay,3005,SF,48,7-12,1-1,7-8,1,3,4,3,1,2,2,2,+4,22
+301208021,Memphis Grizzlies,X. Henry,4241,SG,33,4-11,0-1,0-0,0,1,1,1,0,1,1,3,+9,8
 301208021,Memphis Grizzlies,M. Gasol,3206,C,27,3-6,0-0,1-2,3,5,8,1,0,0,2,5,+10,7
 301208021,Memphis Grizzlies,M. Conley,3195,PG,44,5-13,0-0,1-2,0,0,0,14,3,1,3,0,+14,11
-301208021,Memphis Grizzlies,X. Henry,4241,SG,33,4-11,0-1,0-0,0,1,1,1,0,1,1,3,+9,8
 301208021,Memphis Grizzlies,D. Arthur,3413,PF,29,5-13,0-1,2-2,4,6,10,2,1,0,4,3,-11,12
 301208021,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301208021,Memphis Grizzlies,S. Young,4020,SF,7,1-4,0-1,0-0,1,3,4,0,0,0,0,3,-2,2
@@ -17401,13 +17054,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310121027,Washington Wizards,J. McGee,3452,C,21,2-4,0-0,0-0,1,2,3,0,1,2,0,1,-3,4
 310121027,Washington Wizards,J. Wall,4237,PG,40,4-13,0-1,3-5,0,4,4,14,4,0,5,0,-20,11
 310121027,Washington Wizards,T. Booker,4270,PF,8,1-2,0-0,0-0,3,0,3,0,0,0,0,0,-8,2
-310121027,Washington Wizards,K. Seraphin,4289,C,15,2-5,0-0,0-0,3,2,5,1,0,2,0,2,-7,4
 310121027,Washington Wizards,C. Martin,3930,PF,2,1-1,1-1,0-0,0,0,0,0,0,0,0,0,+0,3
 310121027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310121027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-18,0
 310121027,Washington Wizards,Y. Jianlian,3214,SF,6,0-2,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 310121027,Washington Wizards,A. Thornton,3237,SF,22,1-7,0-0,2-2,0,4,4,0,0,0,0,2,-14,4
 310121027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+310121027,Washington Wizards,K. Seraphin,4289,C,15,2-5,0-0,0-0,3,2,5,1,0,2,0,2,-7,4
 310121027,Washington Wizards,K. Hinrich,1981,SG,13,3-5,2-3,0-0,0,2,2,2,1,0,2,3,+1,8
 310122008,Phoenix Suns,C. Frye,2754,PF,33,3-14,2-12,0-0,1,7,8,2,0,1,1,2,-1,8
 310122008,Phoenix Suns,G. Hill,336,SF,30,4-14,0-0,0-0,1,3,4,2,1,2,1,0,-2,8
@@ -18113,35 +17766,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310406016,Minnesota Timberwolves,J. Flynn,3985,PG,16,1-5,1-2,0-0,1,0,1,2,0,0,1,0,-12,3
 310406016,Minnesota Timberwolves,S. Telfair,2417,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310406016,Minnesota Timberwolves,W. Ellington,3981,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310408003,Phoenix Suns,C. Frye,2754,PF,33,4-10,1-3,0-0,1,6,7,2,0,0,2,3,-12,9
-310408003,Phoenix Suns,G. Hill,336,SF,33,6-10,1-3,2-2,1,3,4,3,0,0,4,2,-13,15
-310408003,Phoenix Suns,J. Dudley,3201,SF,39,6-9,2-2,4-6,2,5,7,2,2,0,2,1,-1,18
-310408003,Phoenix Suns,M. Gortat,2758,C,29,6-9,0-0,5-5,1,5,6,1,0,1,2,2,+14,17
-310408003,Phoenix Suns,A. Brooks,3192,PG,30,2-7,0-3,5-7,1,1,2,9,1,0,2,1,-2,9
-310408003,Phoenix Suns,H. Warrick,2794,PF,10,0-2,0-0,0-0,0,1,1,0,0,0,2,1,-7,0
-310408003,Phoenix Suns,G. Lawal,4281,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-310408003,Phoenix Suns,M. Pietrus,2173,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+10,0
-310408003,Phoenix Suns,J. Childress,2373,SF,10,2-4,0-0,0-1,0,2,2,0,0,0,0,0,+3,4
-310408003,Phoenix Suns,R. Lopez,3447,C,7,0-0,0-0,0-0,1,1,2,0,0,1,1,2,-4,0
-310408003,Phoenix Suns,G. Siler,4035,C,6,1-1,0-0,0-0,1,0,1,0,0,0,0,0,-9,2
-310408003,Phoenix Suns,Z. Dowdell,4327,PG,18,4-8,1-1,0-0,0,1,1,1,1,0,0,4,-10,9
-310408003,Phoenix Suns,S. Nash,592,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310408003,Phoenix Suns,V. Carter,136,SG,26,5-12,1-4,3-3,0,3,3,1,3,1,0,1,-19,14
-310408003,New Orleans Pelicans,C. Landry,3217,PF,33,8-10,0-0,1-1,2,3,5,0,0,1,2,2,-7,17
-310408003,New Orleans Pelicans,T. Ariza,2426,SF,41,9-17,1-4,2-2,1,7,8,4,3,0,0,1,+10,21
-310408003,New Orleans Pelicans,E. Okafor,2399,C,29,3-8,0-0,4-7,2,3,5,1,1,2,1,4,-3,10
-310408003,New Orleans Pelicans,C. Paul,2779,PG,36,3-8,1-2,0-0,0,5,5,12,2,0,3,4,+10,7
-310408003,New Orleans Pelicans,M. Belinelli,3190,SG,17,4-11,1-3,0-0,0,1,1,3,1,0,2,2,-17,9
-310408003,New Orleans Pelicans,J. Smith,3232,PF,17,3-4,0-0,0-0,1,3,4,0,1,2,0,1,+15,6
-310408003,New Orleans Pelicans,D. West,2177,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-19,0
-310408003,New Orleans Pelicans,P. Ewing Jr.,3426,SF,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+2,0
-310408003,New Orleans Pelicans,Q. Pondexter,4253,SF,8,0-0,0-0,0-0,0,0,0,1,1,0,1,1,-3,0
-310408003,New Orleans Pelicans,D. Andersen,4205,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-310408003,New Orleans Pelicans,A. Gray,3207,C,8,0-0,0-0,0-2,0,4,4,0,0,0,1,1,+14,0
-310408003,New Orleans Pelicans,D. Ilunga-Mbenga,2450,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310408003,New Orleans Pelicans,M. Banks,2165,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
-310408003,New Orleans Pelicans,J. Jack,2768,PG,19,3-6,0-0,2-4,0,1,1,6,0,0,1,0,+10,8
-310408003,New Orleans Pelicans,W. Green,2004,SG,31,12-17,5-6,2-2,1,2,3,4,1,0,1,2,+29,31
 310410006,Phoenix Suns,C. Frye,2754,PF,24,2-7,0-3,2-2,2,5,7,1,0,0,1,2,-7,6
 310410006,Phoenix Suns,G. Hill,336,SF,25,3-12,0-2,1-4,1,3,4,1,0,0,3,4,-20,7
 310410006,Phoenix Suns,J. Dudley,3201,SF,28,5-11,0-3,1-2,3,2,5,0,1,0,0,0,-13,11
@@ -18505,8 +18129,8 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301204023,Sacramento Kings,P. Jeter,3105,PG,10,0-2,0-1,0-0,0,0,0,4,0,0,0,0,+2,0
 301204023,Sacramento Kings,F. Garcia,2755,SG,15,3-5,2-2,0-0,0,3,3,1,0,0,1,4,-2,8
 301208023,Washington Wizards,T. Booker,4270,PF,30,1-2,0-0,2-2,3,2,5,2,1,1,1,1,-16,4
-301208023,Washington Wizards,K. Seraphin,4289,PF,16,2-5,0-0,0-2,4,3,7,0,0,0,4,2,-16,4
 301208023,Washington Wizards,A. Thornton,3237,SF,33,7-11,0-0,6-9,0,1,1,0,2,0,2,2,-12,20
+301208023,Washington Wizards,K. Seraphin,4289,C,16,2-5,0-0,0-2,4,3,7,0,0,0,4,2,-16,4
 301208023,Washington Wizards,G. Arenas,974,PG,41,6-17,2-7,5-6,1,2,3,4,0,0,5,3,-31,19
 301208023,Washington Wizards,K. Hinrich,1981,SG,37,6-9,1-1,5-5,2,3,5,3,4,0,5,2,-21,18
 301208023,Washington Wizards,C. Martin,3930,PF,10,2-4,2-2,0-0,0,0,0,1,1,0,2,0,+6,6
@@ -18711,11 +18335,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301229023,Memphis Grizzlies,D. Arthur,3413,PF,14,3-5,0-0,0-0,0,0,0,1,1,0,0,2,+1,6
 301229023,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
 301229023,Memphis Grizzlies,S. Young,4020,SF,4,1-1,0-0,0-0,0,0,0,0,0,0,0,1,+0,2
+301229023,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301229023,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301229023,Memphis Grizzlies,H. Thabeet,4016,C,4,0-0,0-0,0-0,0,0,0,0,0,0,0,3,-6,0
 301229023,Memphis Grizzlies,G. Vasquez,4291,PG,14,1-2,0-1,1-1,0,1,1,1,0,0,1,1,-1,3
 301229023,Memphis Grizzlies,O.J. Mayo,3450,SG,29,3-10,0-1,4-5,1,5,6,2,0,0,2,3,+4,10
-301229023,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301229023,Sacramento Kings,J. Thompson,3462,PF,15,0-2,0-0,1-2,0,2,2,0,0,0,1,5,+2,1
 301229023,Sacramento Kings,S. Dalembert,991,C,24,1-5,0-0,0-0,2,5,7,0,0,3,5,5,+2,2
 301229023,Sacramento Kings,B. Udrih,2448,PG,39,7-12,2-4,8-8,0,4,4,6,0,0,2,1,+12,24
@@ -19503,34 +19127,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310316023,Sacramento Kings,M. Daniels,2200,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310316023,Sacramento Kings,T. Evans,3983,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
 310316023,Sacramento Kings,J. Taylor,4014,SG,10,3-9,1-2,0-0,3,1,4,0,0,0,1,0,+8,7
-310320016,Sacramento Kings,M. Thornton,4017,SF,38,7-12,4-5,5-6,0,8,8,9,0,1,2,2,+28,23
-310320016,Sacramento Kings,S. Dalembert,991,C,35,13-20,0-0,0-2,6,11,17,0,0,2,2,3,+23,26
-310320016,Sacramento Kings,D. Cousins,4258,C,21,1-2,0-0,1-2,0,1,1,4,0,0,4,3,-2,3
-310320016,Sacramento Kings,B. Udrih,2448,PG,33,8-13,2-4,1-1,0,2,2,5,2,0,2,2,+10,19
-310320016,Sacramento Kings,F. Garcia,2755,SG,25,2-11,1-5,2-2,0,3,3,3,2,0,1,2,+7,7
-310320016,Sacramento Kings,D. Jackson,3440,PF,7,2-2,1-1,3-4,0,0,0,0,1,0,0,1,-4,8
-310320016,Sacramento Kings,J. Thompson,3462,PF,28,3-8,0-0,0-0,1,7,8,0,0,1,2,5,+33,6
-310320016,Sacramento Kings,D. Greene,3432,SF,15,5-8,3-5,0-2,0,0,0,1,1,0,1,3,+32,13
-310320016,Sacramento Kings,O. Casspi,3554,SF,14,1-3,0-2,0-2,2,1,3,1,0,0,0,1,+7,2
-310320016,Sacramento Kings,H. Whiteside,4262,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310320016,Sacramento Kings,L. Head,2763,PG,--,-----,-----,-----,--,--,--,--,--,--,--,--,--,--
-310320016,Sacramento Kings,P. Jeter,3105,PG,20,6-9,0-0,1-1,0,2,2,6,5,0,1,0,+21,13
-310320016,Sacramento Kings,M. Daniels,2200,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-18,0
-310320016,Sacramento Kings,T. Evans,3983,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310320016,Sacramento Kings,J. Taylor,4014,SG,5,3-3,0-0,1-1,2,1,3,1,0,0,1,0,+5,7
-310320016,Minnesota Timberwolves,K. Love,3449,PF,14,0-2,0-0,0-0,0,3,3,4,0,0,0,0,-1,0
-310320016,Minnesota Timberwolves,M. Beasley,3418,SF,15,3-8,0-1,7-9,0,1,1,0,0,0,1,2,-11,13
-310320016,Minnesota Timberwolves,W. Johnson,4247,SF,22,1-5,0-2,0-0,1,2,3,0,0,0,0,1,-15,2
-310320016,Minnesota Timberwolves,D. Milicic,2171,C,26,6-10,0-0,1-2,0,6,6,1,3,2,2,2,-16,13
-310320016,Minnesota Timberwolves,L. Ridnour,1985,PG,36,8-13,3-3,3-4,1,0,1,4,1,0,4,2,-18,22
-310320016,Minnesota Timberwolves,A. Tolliver,3276,PF,17,1-2,1-1,1-2,0,1,1,3,0,0,2,1,-12,4
-310320016,Minnesota Timberwolves,L. Hayward,4277,SF,8,2-5,1-3,2-2,1,2,3,1,1,0,0,1,-11,7
-310320016,Minnesota Timberwolves,A. Randolph,3455,SF,24,6-11,0-0,2-3,1,3,4,3,0,0,7,4,-18,14
-310320016,Minnesota Timberwolves,M. Webster,2795,SF,22,2-6,1-2,2-2,0,1,1,2,0,0,1,1,-8,7
-310320016,Minnesota Timberwolves,N. Pekovic,3453,C,20,1-3,0-0,0-0,1,2,3,0,0,1,3,4,-13,2
-310320016,Minnesota Timberwolves,J. Flynn,3985,PG,13,1-5,1-3,0-0,0,1,1,1,2,0,3,0,-14,3
-310320016,Minnesota Timberwolves,S. Telfair,2417,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-12,0
-310320016,Minnesota Timberwolves,W. Ellington,3981,SG,23,4-9,0-2,0-0,0,0,0,1,0,0,2,2,-23,8
 310321004,Sacramento Kings,M. Thornton,4017,SF,33,9-14,2-3,5-6,2,1,3,4,3,0,2,1,-23,25
 310321004,Sacramento Kings,S. Dalembert,991,C,34,4-8,0-0,1-1,2,5,7,2,0,0,0,3,-23,9
 310321004,Sacramento Kings,D. Cousins,4258,C,25,5-11,0-0,1-1,1,7,8,4,0,0,8,5,-17,11
@@ -20261,10 +19857,10 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301222027,Washington Wizards,R. Lewis,469,PF,22,4-10,0-5,0-0,1,2,3,1,0,1,2,5,-8,8
 301222027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301222027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301222027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301222027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 301222027,Washington Wizards,J. Howard,2006,SF,25,4-8,1-1,4-5,0,1,1,0,1,0,1,1,+2,13
 301222027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301222027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301222027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301222027,Washington Wizards,L. Hudson,3996,SG,5,0-1,0-1,0-0,0,0,0,1,0,0,0,1,-1,0
 301226008,Chicago Bulls,K. Thomas,846,PF,29,1-4,0-0,1-1,2,6,8,2,1,0,1,3,+11,3
@@ -20864,11 +20460,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310228027,Washington Wizards,J. Wall,4237,PG,39,3-14,0-0,3-4,0,3,3,10,2,0,2,3,-20,9
 310228027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+17,0
 310228027,Washington Wizards,T. Booker,4270,PF,19,2-6,0-0,0-1,1,3,4,1,0,2,1,1,-9,4
-310228027,Washington Wizards,K. Seraphin,4289,PF,18,2-5,0-0,2-2,1,1,2,0,1,2,2,3,-12,6
 310228027,Washington Wizards,R. Lewis,469,PF,10,1-3,1-2,0-0,1,0,1,1,0,0,1,3,-7,3
 310228027,Washington Wizards,Y. Jianlian,3214,SF,3,1-3,0-0,0-0,0,0,0,0,0,0,0,0,-3,2
 310228027,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+24,0
 310228027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
+310228027,Washington Wizards,K. Seraphin,4289,C,18,2-5,0-0,2-2,1,1,2,0,1,2,2,3,-12,6
 310228027,Washington Wizards,M. Shakur,3252,PG,6,0-1,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 310228027,Washington Wizards,J. Crawford,4243,SG,16,1-6,0-1,0-0,0,1,1,2,3,0,4,1,-17,2
 310228027,Washington Wizards,M. Evans,1031,SG,20,3-7,1-3,0-0,0,0,0,1,0,0,0,2,-18,7
@@ -21067,7 +20663,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310315004,Washington Wizards,J. McGee,3452,C,39,5-14,0-0,1-3,3,9,12,1,0,12,2,4,-15,11
 310315004,Washington Wizards,J. Wall,4237,PG,46,7-14,1-1,2-3,2,9,11,7,4,1,7,3,-23,17
 310315004,Washington Wizards,J. Crawford,4243,SG,48,10-21,3-7,4-6,0,3,3,4,0,0,2,3,-19,27
-310315004,Washington Wizards,K. Seraphin,4289,PF,9,0-0,0-0,2-2,1,2,3,0,0,0,2,1,-4,2
+310315004,Washington Wizards,K. Seraphin,4289,C,9,0-0,0-0,2-2,1,2,3,0,0,0,2,1,-4,2
 310315004,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 310315004,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+18,0
 310315004,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -21371,13 +20967,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301106027,Washington Wizards,J. Wall,4237,PG,43,5-14,0-1,3-4,0,4,4,10,1,1,6,4,-1,13
 301106027,Washington Wizards,K. Hinrich,1981,SG,37,7-14,3-9,4-4,1,4,5,4,1,0,0,3,+12,21
 301106027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301106027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301106027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301106027,Washington Wizards,H. Armstrong,2984,PF,15,0-1,0-0,0-0,1,1,2,1,2,0,2,3,-20,0
 301106027,Washington Wizards,N. Young,3243,SF,6,1-3,1-2,0-0,0,0,0,0,0,0,0,0,-12,3
 301106027,Washington Wizards,Y. Jianlian,3214,SF,15,1-5,0-1,0-0,0,1,1,2,0,1,0,2,-11,2
 301106027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-16,0
 301106027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301106027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301106027,Washington Wizards,G. Arenas,974,PG,25,4-13,3-6,2-2,0,1,1,3,2,1,2,2,-21,13
 301106027,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301113005,Indiana Pacers,J. McRoberts,3220,PF,27,1-3,0-0,2-2,2,4,6,4,2,0,3,4,+13,4
@@ -21614,35 +21210,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301202005,Cleveland Cavaliers,M. Harris,4360,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-27,0
 301202005,Cleveland Cavaliers,R. Sessions,3231,PG,23,2-5,0-0,7-8,1,2,3,7,1,0,1,0,-4,11
 301202005,Cleveland Cavaliers,D. Gibson,3006,SG,28,6-14,4-6,5-7,1,3,4,2,1,0,0,1,-10,21
-301204016,Cleveland Cavaliers,L. Powe,3023,PF,23,5-9,0-0,0-0,1,5,6,0,0,0,2,3,-22,10
-301204016,Cleveland Cavaliers,J. Williams,2850,SF,35,4-14,1-4,2-2,1,5,6,4,0,0,0,1,-22,11
-301204016,Cleveland Cavaliers,A. Varejao,2419,C,18,2-7,0-0,0-2,1,2,3,1,0,0,0,4,-20,4
-301204016,Cleveland Cavaliers,M. Williams,2178,PG,19,1-3,0-1,2-2,0,0,0,4,1,0,0,0,-30,4
-301204016,Cleveland Cavaliers,A. Parker,635,SG,26,2-9,1-4,0-0,2,2,4,2,3,0,0,2,-28,5
-301204016,Cleveland Cavaliers,A. Jamison,385,PF,21,5-13,3-7,4-4,1,2,3,2,0,1,1,2,-15,17
-301204016,Cleveland Cavaliers,S. Samuels,4304,PF,8,1-2,0-0,4-5,2,0,2,0,1,1,1,1,-5,6
-301204016,Cleveland Cavaliers,J. Moon,3249,SF,9,1-3,0-1,0-0,0,0,0,1,0,0,0,0,+2,2
-301204016,Cleveland Cavaliers,C. Eyenga,3984,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
-301204016,Cleveland Cavaliers,J. Graham,2759,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-22,0
-301204016,Cleveland Cavaliers,R. Hollins,3008,C,17,0-2,0-0,4-4,1,1,2,0,1,1,0,1,-8,4
-301204016,Cleveland Cavaliers,J. Hickson,3437,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301204016,Cleveland Cavaliers,R. Sessions,3231,PG,29,7-10,0-0,4-4,0,1,1,6,1,0,2,2,-4,18
-301204016,Cleveland Cavaliers,M. Harris,4360,PG,12,3-7,0-1,0-0,0,0,0,0,2,0,1,0,-3,6
-301204016,Cleveland Cavaliers,D. Gibson,3006,SG,23,3-9,0-3,2-2,0,2,2,1,0,0,1,0,-15,8
-301204016,Minnesota Timberwolves,K. Love,3449,PF,32,8-15,5-5,7-8,3,16,19,3,0,1,3,2,+32,28
-301204016,Minnesota Timberwolves,W. Johnson,4247,SF,30,8-9,3-4,1-1,0,6,6,2,0,2,4,2,+28,20
-301204016,Minnesota Timberwolves,D. Milicic,2171,C,26,6-12,0-0,2-2,1,8,9,3,0,3,1,3,+41,14
-301204016,Minnesota Timberwolves,L. Ridnour,1985,PG,22,3-5,2-2,0-0,0,0,0,5,0,0,0,2,+20,8
-301204016,Minnesota Timberwolves,C. Brewer,3191,SG,30,6-10,2-4,1-1,0,0,0,3,1,0,2,2,+27,15
-301204016,Minnesota Timberwolves,A. Tolliver,3276,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-22,0
-301204016,Minnesota Timberwolves,L. Hayward,4277,SF,15,3-6,1-2,0-0,1,1,2,1,0,1,2,3,+0,7
-301204016,Minnesota Timberwolves,M. Beasley,3418,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301204016,Minnesota Timberwolves,M. Webster,2795,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-301204016,Minnesota Timberwolves,N. Pekovic,3453,C,12,3-5,0-0,1-2,1,6,7,1,0,0,2,3,+0,7
-301204016,Minnesota Timberwolves,K. Koufos,3444,C,10,1-2,0-0,0-0,0,1,1,0,0,1,0,2,-7,2
-301204016,Minnesota Timberwolves,S. Gaines,4224,PG,7,1-3,0-1,0-0,0,0,0,2,0,0,0,1,-2,2
-301204016,Minnesota Timberwolves,S. Telfair,2417,PG,26,3-5,1-2,3-4,0,0,0,7,2,0,2,1,+14,10
-301204016,Minnesota Timberwolves,W. Ellington,3981,SG,30,6-9,4-6,0-0,0,2,2,3,1,0,1,3,+17,16
 301205008,Cleveland Cavaliers,J. Graham,2759,SF,18,4-8,0-0,0-0,1,2,3,1,0,1,1,3,-10,8
 301205008,Cleveland Cavaliers,A. Varejao,2419,C,35,5-7,0-0,1-2,6,8,14,1,0,2,1,1,-17,11
 301205008,Cleveland Cavaliers,J. Hickson,3437,C,16,3-5,0-0,1-4,0,2,2,3,0,0,5,4,-5,7
@@ -22296,12 +21863,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310213005,Washington Wizards,J. Wall,4237,PG,36,8-19,0-0,3-6,0,5,5,14,2,2,2,1,+21,19
 310213005,Washington Wizards,C. Martin,3930,PF,21,0-3,0-3,2-2,2,1,3,2,0,1,1,1,-1,2
 310213005,Washington Wizards,T. Booker,4270,PF,17,1-5,0-0,0-0,4,4,8,1,0,2,0,3,+2,2
-310213005,Washington Wizards,K. Seraphin,4289,C,7,0-2,0-0,0-0,1,2,3,0,0,0,0,0,-12,0
 310213005,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-16,0
 310213005,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310213005,Washington Wizards,Y. Jianlian,3214,SF,14,1-1,0-0,0-0,2,2,4,1,0,1,2,1,+10,2
 310213005,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310213005,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
+310213005,Washington Wizards,K. Seraphin,4289,C,7,0-2,0-0,0-0,1,2,3,0,0,0,0,0,-12,0
 310213005,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310213005,Washington Wizards,K. Hinrich,1981,SG,29,8-13,1-3,0-0,0,2,2,5,1,2,0,3,+4,17
 310213005,Cleveland Cavaliers,A. Jamison,385,PF,33,7-15,4-6,3-5,1,6,7,0,0,0,1,5,-16,21
@@ -22465,36 +22032,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310313005,Cleveland Cavaliers,M. Harris,4360,PG,27,2-6,2-3,0-2,0,2,2,2,0,1,2,3,-4,6
 310313005,Cleveland Cavaliers,B. Davis,194,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310313005,Cleveland Cavaliers,D. Gibson,3006,SG,24,5-11,2-3,1-2,1,2,3,3,1,1,2,2,-20,13
-310317022,Cleveland Cavaliers,S. Samuels,4304,PF,20,1-8,0-0,5-6,1,2,3,1,0,0,1,3,-19,7
-310317022,Cleveland Cavaliers,A. Gee,4232,SF,27,0-5,0-0,2-2,0,3,3,0,0,0,2,2,-33,2
-310317022,Cleveland Cavaliers,J. Hickson,3437,C,27,2-4,0-0,1-2,3,4,7,0,0,0,0,3,-32,5
-310317022,Cleveland Cavaliers,R. Sessions,3231,PG,21,4-8,0-0,6-6,1,0,1,0,1,0,2,1,-32,14
-310317022,Cleveland Cavaliers,A. Parker,635,SG,21,2-6,0-3,0-0,0,1,1,0,0,0,2,2,-30,4
-310317022,Cleveland Cavaliers,L. Harangody,4276,PF,20,2-5,1-3,0-0,0,3,3,1,1,0,3,4,-13,5
-310317022,Cleveland Cavaliers,A. Jamison,385,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-310317022,Cleveland Cavaliers,C. Eyenga,3984,SF,25,1-5,0-2,1-1,0,5,5,1,1,0,2,3,-12,3
-310317022,Cleveland Cavaliers,J. Graham,2759,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310317022,Cleveland Cavaliers,S. Erden,3425,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+14,0
-310317022,Cleveland Cavaliers,A. Varejao,2419,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
-310317022,Cleveland Cavaliers,R. Hollins,3008,C,21,1-3,0-0,3-4,2,1,3,0,0,0,1,3,-9,5
-310317022,Cleveland Cavaliers,M. Harris,4360,PG,19,5-6,0-1,0-0,0,2,2,3,2,0,1,0,-7,10
-310317022,Cleveland Cavaliers,B. Davis,194,PG,15,1-4,1-3,0-0,0,0,0,0,0,0,3,1,-12,3
-310317022,Cleveland Cavaliers,D. Gibson,3006,SG,23,2-5,1-3,7-9,0,1,1,0,1,0,1,2,-6,12
-310317022,Portland Trail Blazers,L. Aldridge,2983,PF,29,9-10,0-0,2-3,5,6,11,0,0,0,2,1,+37,20
-310317022,Portland Trail Blazers,G. Wallace,1026,SF,33,8-14,0-4,1-1,1,5,6,6,2,2,0,1,+42,17
-310317022,Portland Trail Blazers,A. Miller,557,PG,26,2-3,0-0,2-2,0,1,1,6,0,0,4,2,+42,6
-310317022,Portland Trail Blazers,N. Batum,3416,SG,33,5-12,2-5,2-2,1,3,4,5,1,0,0,2,+25,14
-310317022,Portland Trail Blazers,W. Matthews,4032,SG,31,5-10,4-7,0-2,0,7,7,4,0,0,2,3,+27,14
-310317022,Portland Trail Blazers,L. Babbitt,4250,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-19,0
-310317022,Portland Trail Blazers,C. Johnson,4400,C,4,1-1,0-0,0-0,1,0,1,0,1,0,1,1,+5,2
-310317022,Portland Trail Blazers,M. Camby,125,C,19,3-7,0-1,0-0,3,6,9,2,1,0,0,2,+1,6
-310317022,Portland Trail Blazers,J. Collins,988,C,4,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-310317022,Portland Trail Blazers,G. Oden,3225,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
-310317022,Portland Trail Blazers,A. Johnson,4279,PG,4,3-5,0-0,0-0,1,1,2,1,0,0,0,1,+5,6
-310317022,Portland Trail Blazers,P. Mills,4004,PG,18,4-9,3-6,0-0,0,0,0,0,0,0,2,1,-2,11
-310317022,Portland Trail Blazers,E. Williams,4294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310317022,Portland Trail Blazers,B. Roy,3027,SG,14,1-3,0-0,0-0,0,0,0,0,0,0,1,2,+4,2
-310317022,Portland Trail Blazers,R. Fernandez,3204,SG,27,4-8,2-4,3-3,3,1,4,5,3,0,0,3,+14,13
 310321005,Orlando Magic,B. Bass,2745,PF,35,9-10,0-0,4-8,2,4,6,0,2,1,1,5,+12,22
 310321005,Orlando Magic,H. Turkoglu,862,SF,29,3-10,2-6,0-0,0,3,3,9,0,1,1,1,+14,8
 310321005,Orlando Magic,D. Howard,2384,C,42,9-11,0-0,10-12,4,14,18,4,4,4,4,3,+14,28
@@ -22664,7 +22201,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310401027,Washington Wizards,O. Jeffers,4231,SG,33,5-7,0-0,3-5,2,2,4,0,3,0,1,5,+7,13
 310401027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
 310401027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-310401027,Washington Wizards,K. Seraphin,4289,PF,8,0-2,0-0,0-0,1,1,2,0,0,0,0,2,-7,0
+310401027,Washington Wizards,K. Seraphin,4289,C,8,0-2,0-0,0-0,1,1,2,0,0,0,0,2,-7,0
 310401027,Washington Wizards,C. Martin,3930,PF,22,3-6,2-4,0-0,0,2,2,0,0,0,0,3,+2,8
 310401027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 310401027,Washington Wizards,Y. Jianlian,3214,SF,17,2-5,0-0,1-2,2,3,5,0,0,1,0,1,+5,5
@@ -22917,12 +22454,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301121008,Washington Wizards,K. Hinrich,1981,SG,39,6-9,0-0,0-0,0,3,3,6,1,1,3,3,-14,12
 301121008,Washington Wizards,C. Martin,3930,PF,15,3-5,2-3,1-2,1,2,3,0,0,0,1,3,+5,9
 301121008,Washington Wizards,T. Booker,4270,PF,9,1-1,0-0,2-2,0,0,0,0,0,0,0,1,+7,4
-301121008,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301121008,Washington Wizards,H. Armstrong,2984,PF,11,0-0,0-0,0-0,0,4,4,0,0,1,0,0,-6,0
 301121008,Washington Wizards,N. Young,3243,SF,31,7-10,2-3,2-3,0,1,1,0,0,0,0,3,+0,18
 301121008,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301121008,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 301121008,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
+301121008,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301121008,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301121008,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-3,0
 301121008,Detroit Pistons,B. Wallace,885,PF,21,2-2,0-0,0-2,5,5,10,0,1,1,1,1,+6,4
@@ -23236,36 +22773,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301214008,Detroit Pistons,T. McGrady,532,SG,26,5-9,4-6,2-2,0,6,6,3,1,1,1,2,+23,16
 301214008,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301214008,Detroit Pistons,B. Gordon,2381,SG,22,1-6,0-3,0-0,1,0,1,3,0,0,1,0,+25,2
-301219008,New Orleans Pelicans,D. West,2177,PF,43,12-21,0-0,8-9,3,6,9,2,1,0,3,4,+2,32
-301219008,New Orleans Pelicans,T. Ariza,2426,SF,42,2-11,0-3,5-6,1,8,9,0,3,0,5,3,+6,9
-301219008,New Orleans Pelicans,E. Okafor,2399,C,31,5-9,0-0,3-3,4,8,12,1,2,2,2,6,+9,13
-301219008,New Orleans Pelicans,C. Paul,2779,PG,39,9-16,3-5,2-2,0,2,2,10,3,0,1,1,+0,23
-301219008,New Orleans Pelicans,M. Belinelli,3190,SG,29,2-6,2-3,0-0,1,2,3,2,1,0,1,3,-3,6
-301219008,New Orleans Pelicans,J. Smith,3232,PF,24,2-6,0-0,2-2,3,0,3,0,0,0,0,1,-7,6
-301219008,New Orleans Pelicans,P. Mensah-Bonsu,3053,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-301219008,New Orleans Pelicans,M. Thornton,4017,SF,13,1-5,0-2,1-2,0,3,3,0,1,0,2,0,-8,3
-301219008,New Orleans Pelicans,Q. Pondexter,4253,SF,4,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-2,0
-301219008,New Orleans Pelicans,A. Gray,3207,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
-301219008,New Orleans Pelicans,D. Andersen,4205,C,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
-301219008,New Orleans Pelicans,D. Ilunga-Mbenga,2450,C,3,0-0,0-0,1-2,0,1,1,0,1,0,0,0,+3,1
-301219008,New Orleans Pelicans,M. Banks,2165,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301219008,New Orleans Pelicans,J. Jack,2768,PG,16,2-6,0-1,0-0,0,0,0,2,0,0,1,1,-4,4
-301219008,New Orleans Pelicans,W. Green,2004,SG,20,4-7,1-1,2-4,2,3,5,1,0,0,0,3,-4,11
-301219008,Detroit Pistons,C. Villanueva,2792,PF,40,6-17,1-5,4-6,2,4,6,1,0,1,3,5,+11,17
-301219008,Detroit Pistons,B. Wallace,885,PF,19,0-0,0-0,0-2,0,2,2,2,1,2,0,1,+4,0
-301219008,Detroit Pistons,T. Prince,1724,SF,47,12-16,1-2,3-5,2,10,12,8,1,3,2,4,+8,28
-301219008,Detroit Pistons,T. McGrady,532,SG,19,2-6,0-2,0-0,0,5,5,2,1,0,2,1,-9,4
-301219008,Detroit Pistons,B. Gordon,2381,SG,44,9-21,4-9,3-4,1,6,7,3,0,0,4,3,+6,25
-301219008,Detroit Pistons,J. Maxiell,2775,PF,21,1-1,0-0,0-0,0,0,0,1,2,1,1,2,+7,2
-301219008,Detroit Pistons,C. Wilcox,1731,PF,13,1-5,0-0,0-0,1,2,3,0,1,0,0,2,-8,2
-301219008,Detroit Pistons,J. Jerebko,3998,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
-301219008,Detroit Pistons,A. Daye,3976,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
-301219008,Detroit Pistons,D. Summers,4012,SF,9,3-4,2-2,0-2,0,1,1,0,1,0,0,0,+2,8
-301219008,Detroit Pistons,G. Monroe,4260,C,16,2-3,0-0,0-0,1,0,1,0,0,0,0,2,-11,4
-301219008,Detroit Pistons,W. Bynum,2816,PG,37,8-10,2-3,3-4,0,0,0,9,1,0,5,3,+5,21
-301219008,Detroit Pistons,R. Stuckey,3235,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301219008,Detroit Pistons,R. Hamilton,294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301219008,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301227030,Detroit Pistons,B. Wallace,885,PF,16,0-3,0-0,0-0,1,1,2,0,3,0,0,1,+0,0
 301227030,Detroit Pistons,C. Villanueva,2792,PF,31,10-14,5-5,0-0,1,2,3,2,1,1,1,1,+7,25
 301227030,Detroit Pistons,T. Prince,1724,SF,29,7-12,1-1,2-2,1,1,2,0,0,1,0,1,+3,17
@@ -23500,36 +23007,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310202008,Detroit Pistons,R. Stuckey,3235,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
 310202008,Detroit Pistons,R. Hamilton,294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310202008,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310205015,Detroit Pistons,B. Wallace,885,PF,27,0-0,0-0,1-4,1,4,5,2,1,0,1,3,+3,1
-310205015,Detroit Pistons,T. Prince,1724,SF,34,6-10,0-0,0-1,0,11,11,1,0,0,0,0,+2,12
-310205015,Detroit Pistons,G. Monroe,4260,C,33,3-6,0-0,1-2,0,7,7,1,1,0,2,3,+7,7
-310205015,Detroit Pistons,B. Gordon,2381,SG,28,3-7,0-0,6-7,1,1,2,1,0,0,3,2,+2,12
-310205015,Detroit Pistons,T. McGrady,532,SG,30,7-14,0-3,6-6,1,1,2,2,0,0,4,2,+3,20
-310205015,Detroit Pistons,C. Wilcox,1731,PF,7,0-1,0-0,0-0,0,3,3,3,1,0,1,2,+7,0
-310205015,Detroit Pistons,J. Maxiell,2775,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
-310205015,Detroit Pistons,C. Villanueva,2792,PF,14,2-6,0-3,2-2,0,0,0,0,0,0,0,0,+9,6
-310205015,Detroit Pistons,J. Jerebko,3998,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-310205015,Detroit Pistons,A. Daye,3976,SF,28,3-5,1-1,0-0,1,3,4,1,0,1,0,2,+5,7
-310205015,Detroit Pistons,D. Summers,4012,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310205015,Detroit Pistons,W. Bynum,2816,PG,18,4-5,0-0,1-2,0,3,3,4,0,0,3,2,+8,9
-310205015,Detroit Pistons,R. Stuckey,3235,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310205015,Detroit Pistons,R. Hamilton,294,SG,20,7-14,1-1,0-0,1,0,1,3,0,0,1,2,+9,15
-310205015,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-310205015,Milwaukee Bucks,E. Ilyasova,2767,PF,25,3-11,0-1,0-0,4,5,9,2,0,0,0,0,-16,6
-310205015,Milwaukee Bucks,C. Maggette,497,SF,34,7-12,1-2,0-0,1,2,3,3,2,0,3,3,-6,15
-310205015,Milwaukee Bucks,A. Bogut,2747,C,38,8-15,0-0,2-2,2,7,9,2,0,3,1,3,-3,18
-310205015,Milwaukee Bucks,B. Jennings,3997,PG,25,2-7,0-3,0-0,0,0,0,5,1,0,1,2,-4,4
-310205015,Milwaukee Bucks,C. Delfino,1999,SG,31,2-11,2-6,2-2,0,3,3,1,2,0,2,3,-6,8
-310205015,Milwaukee Bucks,L. Mbah a Moute,3451,PF,25,1-1,0-0,2-3,2,3,5,0,0,0,1,1,-2,4
-310205015,Milwaukee Bucks,J. Brockman,3966,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310205015,Milwaukee Bucks,D. Gooden,1711,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
-310205015,Milwaukee Bucks,J. Salmons,1726,SF,20,2-6,0-0,2-2,0,3,3,1,1,1,2,3,-11,6
-310205015,Milwaukee Bucks,L. Sanders,4265,C,9,0-2,0-0,0-0,0,2,2,0,0,0,0,4,-1,0
-310205015,Milwaukee Bucks,E. Boykins,87,PG,9,2-5,0-1,2-2,0,0,0,1,0,0,0,1,-1,6
-310205015,Milwaukee Bucks,K. Dooling,209,PG,14,1-5,1-4,0-0,0,2,2,1,0,0,3,1,-6,3
-310205015,Milwaukee Bucks,G. Temple,4023,SG,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
-310205015,Milwaukee Bucks,C. Douglas-Roberts,3422,SG,9,3-4,0-0,2-2,0,0,0,0,0,0,0,2,-1,8
-310205015,Milwaukee Bucks,M. Redd,692,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 310208008,San Antonio Spurs,R. Jefferson,1006,SF,36,3-7,3-5,2-2,0,3,3,1,0,0,1,2,+8,11
 310208008,San Antonio Spurs,T. Duncan,215,C,28,3-10,0-0,4-8,2,8,10,0,0,3,1,2,+8,10
 310208008,San Antonio Spurs,D. Blair,3965,C,29,9-15,0-0,0-1,1,11,12,0,1,0,2,1,-5,18
@@ -23707,36 +23184,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310222008,Detroit Pistons,R. Hamilton,294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
 310222008,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 310222008,Detroit Pistons,B. Gordon,2381,SG,28,7-12,1-2,0-0,0,0,0,1,0,1,1,1,+2,15
-310223011,Detroit Pistons,B. Wallace,885,PF,34,3-4,0-0,0-0,5,5,10,1,2,1,1,1,+8,6
-310223011,Detroit Pistons,T. Prince,1724,SF,9,0-3,0-0,0-2,0,0,0,0,0,0,0,0,+0,0
-310223011,Detroit Pistons,G. Monroe,4260,C,32,11-17,0-0,5-7,6,6,12,1,1,0,1,4,+8,27
-310223011,Detroit Pistons,R. Stuckey,3235,PG,40,8-14,3-4,2-2,1,2,3,2,1,0,6,4,+6,21
-310223011,Detroit Pistons,T. McGrady,532,SG,38,6-15,0-2,4-6,0,5,5,12,0,1,3,1,+8,16
-310223011,Detroit Pistons,J. Jerebko,3998,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310223011,Detroit Pistons,C. Wilcox,1731,PF,17,3-6,0-0,0-0,0,6,6,0,0,0,1,2,-10,6
-310223011,Detroit Pistons,J. Maxiell,2775,PF,7,0-1,0-0,0-0,0,1,1,0,0,0,0,1,+3,0
-310223011,Detroit Pistons,C. Villanueva,2792,PF,4,0-2,0-1,0-0,1,0,1,0,0,0,1,1,-11,0
-310223011,Detroit Pistons,A. Daye,3976,SF,14,2-4,0-0,0-0,2,1,3,1,0,2,1,0,-6,4
-310223011,Detroit Pistons,D. Summers,4012,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310223011,Detroit Pistons,W. Bynum,2816,PG,15,2-6,2-4,3-4,0,1,1,2,1,0,0,1,-11,9
-310223011,Detroit Pistons,R. Hamilton,294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
-310223011,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
-310223011,Detroit Pistons,B. Gordon,2381,SG,29,5-10,2-3,0-0,0,1,1,2,1,1,2,4,+0,12
-310223011,Indiana Pacers,J. McRoberts,3220,PF,16,4-5,0-1,2-2,0,1,1,1,0,0,1,1,-1,10
-310223011,Indiana Pacers,B. Rush,3457,SF,34,4-8,1-2,0-0,1,3,4,1,1,0,0,2,-2,9
-310223011,Indiana Pacers,D. Granger,2760,SF,27,5-11,2-5,6-6,1,5,6,3,0,0,2,3,-5,18
-310223011,Indiana Pacers,R. Hibbert,3436,C,30,2-3,0-0,3-5,1,7,8,0,0,0,1,5,+0,7
-310223011,Indiana Pacers,D. Collison,3973,PG,32,4-11,0-1,3-3,1,0,1,6,3,0,1,2,+3,11
-310223011,Indiana Pacers,S. Jones,3010,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310223011,Indiana Pacers,J. Foster,250,PF,18,2-5,0-0,0-0,4,3,7,1,0,0,1,2,+3,4
-310223011,Indiana Pacers,T. Hansbrough,3991,PF,32,8-17,0-0,5-6,8,4,12,0,2,1,2,2,+2,21
-310223011,Indiana Pacers,J. Posey,671,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310223011,Indiana Pacers,L. Stephenson,4244,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310223011,Indiana Pacers,P. George,4251,SF,22,5-11,0-2,0-0,0,5,5,1,2,0,3,1,+3,10
-310223011,Indiana Pacers,T.J. Ford,1979,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310223011,Indiana Pacers,A.J. Price,4010,PG,16,0-8,0-4,4-4,0,1,1,3,0,0,1,1,-2,4
-310223011,Indiana Pacers,M. Dunleavy,1708,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310223011,Indiana Pacers,D. Jones,2008,SG,13,4-7,0-2,0-0,0,0,0,1,0,0,3,2,+4,8
 310226008,Utah Jazz,P. Millsap,3015,PF,38,9-12,0-0,5-8,2,9,11,6,0,3,2,5,+7,23
 310226008,Utah Jazz,A. Kirilenko,434,SF,37,9-11,0-1,3-5,1,6,7,7,0,1,5,2,+9,21
 310226008,Utah Jazz,A. Jefferson,2389,C,37,10-17,0-0,0-0,1,8,9,1,0,1,0,2,-1,20
@@ -23830,7 +23277,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310306008,Washington Wizards,J. Wall,4237,PG,45,6-15,0-2,12-13,1,4,5,7,0,0,4,1,-6,24
 310306008,Washington Wizards,M. Evans,1031,SG,30,2-7,0-4,0-0,0,1,1,1,0,0,0,2,-10,4
 310306008,Washington Wizards,T. Booker,4270,PF,29,3-5,0-0,4-4,2,1,3,0,1,0,2,3,-9,10
-310306008,Washington Wizards,K. Seraphin,4289,PF,8,0-1,0-0,1-2,1,2,3,1,0,0,0,2,-7,1
+310306008,Washington Wizards,K. Seraphin,4289,C,8,0-1,0-0,1-2,1,2,3,1,0,0,0,2,-7,1
 310306008,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310306008,Washington Wizards,C. Martin,3930,PF,2,1-2,0-0,0-0,1,0,1,0,1,0,0,0,+6,2
 310306008,Washington Wizards,Y. Jianlian,3214,SF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
@@ -24029,36 +23476,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310326008,Detroit Pistons,T. McGrady,532,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310326008,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+20,0
 310326008,Detroit Pistons,B. Gordon,2381,SG,11,1-4,1-4,0-0,0,1,1,0,0,0,0,1,-8,3
-310330011,Detroit Pistons,C. Wilcox,1731,PF,19,5-8,0-0,0-1,3,4,7,2,0,1,3,4,-10,10
-310330011,Detroit Pistons,T. Prince,1724,SF,27,6-9,0-1,2-2,0,2,2,2,1,1,0,0,-11,14
-310330011,Detroit Pistons,G. Monroe,4260,C,33,5-7,0-0,4-5,3,6,9,2,0,1,1,4,+3,14
-310330011,Detroit Pistons,R. Hamilton,294,SG,42,8-17,0-2,3-4,2,3,5,5,4,0,6,3,-6,19
-310330011,Detroit Pistons,T. McGrady,532,SG,12,0-0,0-0,2-2,0,1,1,0,0,0,1,1,-5,2
-310330011,Detroit Pistons,B. Wallace,885,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310330011,Detroit Pistons,J. Maxiell,2775,PF,17,3-6,0-0,1-2,1,2,3,0,2,0,0,1,-12,7
-310330011,Detroit Pistons,C. Villanueva,2792,PF,12,1-4,0-1,0-0,0,1,1,0,0,1,0,1,-7,2
-310330011,Detroit Pistons,J. Jerebko,3998,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
-310330011,Detroit Pistons,A. Daye,3976,SF,15,2-5,0-0,0-0,0,2,2,0,2,0,0,1,-13,4
-310330011,Detroit Pistons,D. Summers,4012,SF,9,2-4,1-2,0-0,1,2,3,0,0,0,2,1,+9,5
-310330011,Detroit Pistons,W. Bynum,2816,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310330011,Detroit Pistons,R. Stuckey,3235,PG,36,10-20,0-0,4-4,4,3,7,9,2,0,3,4,-5,24
-310330011,Detroit Pistons,B. Gordon,2381,SG,18,0-3,0-2,0-0,0,2,2,0,0,0,2,2,+7,0
-310330011,Detroit Pistons,T. White,4245,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310330011,Indiana Pacers,T. Hansbrough,3991,PF,23,2-6,0-0,3-4,1,1,2,2,0,1,1,2,+1,7
-310330011,Indiana Pacers,D. Granger,2760,SF,29,7-17,1-5,2-2,1,3,4,2,4,0,1,1,+20,17
-310330011,Indiana Pacers,P. George,4251,SF,26,2-7,0-3,4-4,0,3,3,2,1,0,0,1,+8,8
-310330011,Indiana Pacers,R. Hibbert,3436,C,31,3-5,0-0,6-7,1,3,4,2,0,2,2,3,+4,12
-310330011,Indiana Pacers,D. Collison,3973,PG,26,9-11,0-0,2-2,0,2,2,3,2,0,4,2,+8,20
-310330011,Indiana Pacers,S. Jones,3010,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
-310330011,Indiana Pacers,J. McRoberts,3220,PF,28,6-9,0-0,3-3,7,6,13,2,1,2,1,0,+1,15
-310330011,Indiana Pacers,J. Foster,250,PF,14,3-6,0-0,1-1,3,4,7,1,0,0,0,0,+12,7
-310330011,Indiana Pacers,L. Stephenson,4244,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310330011,Indiana Pacers,B. Rush,3457,SF,23,3-8,2-6,0-0,0,3,3,1,0,0,1,2,+4,8
-310330011,Indiana Pacers,J. Posey,671,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310330011,Indiana Pacers,A.J. Price,4010,PG,22,3-8,2-5,0-0,1,1,2,3,1,1,4,1,+2,8
-310330011,Indiana Pacers,T.J. Ford,1979,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
-310330011,Indiana Pacers,M. Dunleavy,1708,SG,19,3-9,1-6,2-2,0,2,2,2,0,0,1,2,-10,9
-310330011,Indiana Pacers,D. Jones,2008,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310405027,Detroit Pistons,C. Wilcox,1731,PF,16,5-11,0-0,0-0,5,4,9,2,0,0,0,3,-10,10
 310405027,Detroit Pistons,T. Prince,1724,SF,31,7-16,0-2,0-0,0,4,4,1,0,0,3,1,-9,14
 310405027,Detroit Pistons,G. Monroe,4260,C,43,7-13,0-0,8-10,9,5,14,4,4,1,2,5,-8,22
@@ -24080,13 +23497,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310405027,Washington Wizards,M. Evans,1031,SG,36,9-13,2-6,0-1,1,2,3,0,1,1,0,2,+6,20
 310405027,Washington Wizards,J. Crawford,4243,SG,41,6-17,1-3,4-4,0,3,3,4,1,0,3,2,+1,17
 310405027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
-310405027,Washington Wizards,K. Seraphin,4289,C,8,1-1,0-0,0-0,0,4,4,0,0,0,3,1,-10,2
 310405027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+10,0
 310405027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310405027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
 310405027,Washington Wizards,Y. Jianlian,3214,SF,14,2-5,0-0,0-0,2,1,3,0,0,2,0,3,-6,4
 310405027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310405027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310405027,Washington Wizards,K. Seraphin,4289,C,8,1-1,0-0,0-0,0,4,4,0,0,0,3,1,-10,2
 310405027,Washington Wizards,M. Shakur,3252,PG,4,0-1,0-0,0-0,0,1,1,0,0,1,0,1,+1,0
 310405027,Washington Wizards,O. Jeffers,4231,SG,17,2-2,0-0,0-0,1,1,2,1,0,0,0,0,-8,4
 310408008,Milwaukee Bucks,L. Mbah a Moute,3451,PF,7,0-1,0-0,0-0,0,1,1,0,0,0,0,3,-13,0
@@ -24624,13 +24041,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301231011,Washington Wizards,J. McGee,3452,C,18,3-6,0-0,1-2,2,1,3,0,1,0,0,4,-18,7
 301231011,Washington Wizards,J. Wall,4237,PG,39,10-15,1-2,4-4,0,3,3,4,1,0,7,4,-14,25
 301231011,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301231011,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
 301231011,Washington Wizards,C. Martin,3930,PF,19,1-7,0-1,2-2,1,2,3,1,0,0,0,1,-3,4
 301231011,Washington Wizards,H. Armstrong,2984,PF,17,0-1,0-1,0-0,2,1,3,0,1,0,0,2,+5,0
 301231011,Washington Wizards,J. Howard,2006,SF,15,0-5,0-3,4-6,2,1,3,0,3,0,2,0,-10,4
 301231011,Washington Wizards,Y. Jianlian,3214,SF,5,0-2,0-0,0-0,0,3,3,0,0,0,0,0,+6,0
 301231011,Washington Wizards,A. Thornton,3237,SF,16,4-4,0-0,2-2,0,1,1,0,2,0,1,1,+11,10
 301231011,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
+301231011,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
 301231011,Washington Wizards,K. Hinrich,1981,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
 301231011,Washington Wizards,L. Hudson,3996,SG,8,2-3,1-2,0-0,0,1,1,1,0,0,0,1,+5,5
 301231011,Indiana Pacers,J. McRoberts,3220,PF,21,1-3,0-1,0-0,1,7,8,2,1,0,2,0,+4,2
@@ -25023,13 +24440,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310222027,Washington Wizards,J. McGee,3452,C,22,2-4,0-0,1-2,1,7,8,1,1,1,2,4,-22,5
 310222027,Washington Wizards,J. Wall,4237,PG,38,5-15,0-2,5-7,0,8,8,10,0,0,6,5,-29,15
 310222027,Washington Wizards,T. Booker,4270,PF,16,2-4,0-0,1-2,1,5,6,0,0,1,0,2,-13,5
-310222027,Washington Wizards,K. Seraphin,4289,PF,15,3-6,0-0,1-1,3,0,3,1,0,0,1,5,+7,7
 310222027,Washington Wizards,C. Martin,3930,PF,12,2-3,0-1,0-0,0,2,2,0,1,0,0,3,-6,4
 310222027,Washington Wizards,R. Lewis,469,PF,20,0-3,0-2,0-0,0,2,2,0,0,0,2,2,-3,0
 310222027,Washington Wizards,H. Armstrong,2984,PF,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+4,0
 310222027,Washington Wizards,Y. Jianlian,3214,SF,9,1-4,0-0,0-0,1,1,2,0,0,1,1,2,-6,2
 310222027,Washington Wizards,A. Thornton,3237,SF,12,2-7,0-0,3-4,0,2,2,0,0,0,0,4,+7,7
 310222027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
+310222027,Washington Wizards,K. Seraphin,4289,C,15,3-6,0-0,1-1,3,0,3,1,0,0,1,5,+7,7
 310222027,Washington Wizards,K. Hinrich,1981,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
 310225011,Utah Jazz,P. Millsap,3015,PF,36,9-18,0-0,5-8,7,11,18,2,0,2,1,4,+4,23
 310225011,Utah Jazz,A. Kirilenko,434,SF,32,4-11,0-1,6-7,4,2,6,3,2,1,1,1,+8,14
@@ -25236,35 +24653,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310323030,Charlotte Hornets,S. Livingston,2393,PG,20,6-9,0-0,3-4,1,2,3,4,0,1,2,1,-13,15
 310323030,Charlotte Hornets,G. Temple,4023,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
 310323030,Charlotte Hornets,M. Carroll,2211,SG,9,1-2,1-1,0-0,0,1,1,0,1,0,0,2,+2,3
-310401011,Milwaukee Bucks,L. Mbah a Moute,3451,PF,34,5-8,0-0,0-1,3,4,7,2,1,0,0,2,-2,10
-310401011,Milwaukee Bucks,J. Salmons,1726,SF,29,3-10,0-4,2-2,0,3,3,3,1,1,1,0,-2,8
-310401011,Milwaukee Bucks,A. Bogut,2747,C,33,7-11,0-0,2-2,1,5,6,0,1,2,1,6,+3,16
-310401011,Milwaukee Bucks,B. Jennings,3997,PG,37,8-18,2-6,2-4,3,4,7,3,2,0,3,1,+3,20
-310401011,Milwaukee Bucks,C. Delfino,1999,SG,19,0-4,0-4,0-0,0,2,2,1,2,0,1,2,-7,0
-310401011,Milwaukee Bucks,J. Brockman,3966,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
-310401011,Milwaukee Bucks,E. Ilyasova,2767,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-310401011,Milwaukee Bucks,D. Gooden,1711,PF,28,3-11,0-2,2-4,2,8,10,1,0,1,0,0,-1,8
-310401011,Milwaukee Bucks,C. Maggette,497,SF,22,4-6,1-1,4-6,0,4,4,0,0,0,0,5,+12,13
-310401011,Milwaukee Bucks,L. Sanders,4265,C,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310401011,Milwaukee Bucks,E. Boykins,87,PG,7,0-2,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
-310401011,Milwaukee Bucks,K. Dooling,209,PG,23,3-7,3-5,0-0,0,0,0,4,0,0,2,1,-7,9
-310401011,Milwaukee Bucks,C. Douglas-Roberts,3422,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310401011,Milwaukee Bucks,M. Redd,692,SG,6,1-3,0-0,2-2,0,0,0,0,0,0,0,0,-3,4
-310401011,Indiana Pacers,T. Hansbrough,3991,PF,31,4-10,0-0,3-5,4,3,7,0,0,0,1,0,+1,11
-310401011,Indiana Pacers,D. Granger,2760,SF,33,5-13,1-3,6-6,2,3,5,3,1,0,2,3,+8,17
-310401011,Indiana Pacers,P. George,4251,SF,23,3-7,0-1,0-0,2,3,5,0,0,1,1,3,+5,6
-310401011,Indiana Pacers,R. Hibbert,3436,C,32,7-13,0-0,1-2,1,10,11,0,0,4,4,5,+1,15
-310401011,Indiana Pacers,D. Collison,3973,PG,37,5-9,0-1,1-1,0,3,3,7,1,1,3,1,-4,11
-310401011,Indiana Pacers,S. Jones,3010,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-310401011,Indiana Pacers,J. McRoberts,3220,PF,17,1-5,0-0,2-2,0,2,2,1,0,0,0,1,+0,4
-310401011,Indiana Pacers,J. Foster,250,PF,16,2-4,0-0,0-0,4,2,6,1,0,0,0,2,+0,4
-310401011,Indiana Pacers,L. Stephenson,4244,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
-310401011,Indiana Pacers,B. Rush,3457,SF,25,5-8,2-4,0-0,0,3,3,1,0,0,2,1,-4,12
-310401011,Indiana Pacers,J. Posey,671,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310401011,Indiana Pacers,A.J. Price,4010,PG,11,3-5,0-0,1-3,0,0,0,2,0,0,0,0,+5,7
-310401011,Indiana Pacers,T.J. Ford,1979,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
-310401011,Indiana Pacers,M. Dunleavy,1708,SG,15,1-4,0-2,0-0,0,5,5,1,0,0,0,2,-7,2
-310401011,Indiana Pacers,D. Jones,2008,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310403003,Indiana Pacers,T. Hansbrough,3991,PF,24,4-7,0-0,1-4,2,3,5,2,0,0,2,1,-20,9
 310403003,Indiana Pacers,D. Granger,2760,SF,31,5-11,1-4,4-6,2,2,4,0,1,2,2,2,-23,15
 310403003,Indiana Pacers,P. George,4251,SF,24,1-5,1-2,0-0,0,1,1,1,1,0,0,0,-18,3
@@ -25301,13 +24689,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310406011,Washington Wizards,M. Evans,1031,SG,23,0-5,0-2,0-0,0,2,2,0,0,1,1,2,-25,0
 310406011,Washington Wizards,J. Crawford,4243,SG,39,9-23,1-4,10-10,0,0,0,2,2,0,2,1,-24,29
 310406011,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
-310406011,Washington Wizards,K. Seraphin,4289,C,18,2-6,0-0,0-0,4,1,5,1,1,0,1,3,-4,4
 310406011,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310406011,Washington Wizards,L. Owens,4179,SF,17,4-5,1-1,0-0,0,2,2,2,1,0,0,2,-5,9
 310406011,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-25,0
 310406011,Washington Wizards,Y. Jianlian,3214,SF,26,2-4,0-0,2-2,1,5,6,0,1,1,1,2,-5,6
 310406011,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310406011,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310406011,Washington Wizards,K. Seraphin,4289,C,18,2-6,0-0,0-0,4,1,5,1,1,0,1,3,-4,4
 310406011,Washington Wizards,M. Shakur,3252,PG,11,3-5,1-1,0-2,0,1,1,1,0,0,1,0,-2,7
 310406011,Washington Wizards,O. Jeffers,4231,SG,33,3-5,0-0,7-12,1,2,3,0,1,0,1,1,-2,13
 310406011,Indiana Pacers,T. Hansbrough,3991,PF,27,5-10,0-0,5-6,3,2,5,3,0,0,1,2,+18,15
@@ -25561,36 +24949,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301110001,Atlanta Hawks,J. Crawford,4243,SG,16,5-8,1-2,0-0,2,1,3,0,0,0,2,0,+5,11
 301110001,Atlanta Hawks,J. Crawford,165,SG,34,2-7,1-2,0-0,0,2,2,5,0,0,0,2,-24,5
 301110001,Atlanta Hawks,M. Evans,1031,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-301120015,Oklahoma City Thunder,S. Ibaka,3439,PF,21,2-5,0-0,0-0,2,4,6,1,0,1,1,5,-1,4
-301120015,Oklahoma City Thunder,T. Sefolosha,3028,SF,33,4-10,0-2,2-4,1,3,4,1,3,0,0,3,+9,10
-301120015,Oklahoma City Thunder,N. Krstic,1719,C,19,2-5,0-0,1-1,2,0,2,0,0,0,0,4,+5,5
-301120015,Oklahoma City Thunder,R. Westbrook,3468,PG,34,5-18,0-0,8-8,0,3,3,6,0,0,3,1,-8,18
-301120015,Oklahoma City Thunder,J. Harden,3992,SG,40,6-13,6-8,5-6,0,9,9,4,1,0,2,1,+7,23
-301120015,Oklahoma City Thunder,D.J. White,3469,PF,21,1-6,0-0,0-0,0,4,4,1,1,2,1,3,+2,2
-301120015,Oklahoma City Thunder,N. Collison,1978,PF,35,1-6,0-0,4-4,1,5,6,0,1,0,2,2,+0,6
-301120015,Oklahoma City Thunder,K. Durant,3202,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
-301120015,Oklahoma City Thunder,J. Green,3209,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Oklahoma City Thunder,B. Mullens,4005,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Oklahoma City Thunder,C. Aldrich,4267,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Oklahoma City Thunder,E. Maynor,4001,PG,21,5-8,2-3,0-2,1,4,5,3,1,0,4,2,+3,12
-301120015,Oklahoma City Thunder,R. Ivey,2387,PG,18,1-2,0-1,0-0,0,4,4,0,2,0,1,3,-12,2
-301120015,Oklahoma City Thunder,M. Peterson,656,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Oklahoma City Thunder,D. Cook,3196,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,D. Gooden,1711,PF,41,5-13,0-1,6-9,7,9,16,1,1,1,3,3,-4,16
-301120015,Milwaukee Bucks,L. Mbah a Moute,3451,PF,34,3-4,0-0,1-1,1,3,4,2,1,1,2,3,-1,7
-301120015,Milwaukee Bucks,J. Salmons,1726,SF,36,3-9,0-3,3-4,0,6,6,2,0,0,2,4,-6,9
-301120015,Milwaukee Bucks,A. Bogut,2747,C,30,4-10,0-1,0-0,2,10,12,1,0,2,1,5,+1,8
-301120015,Milwaukee Bucks,B. Jennings,3997,PG,42,8-24,3-9,6-7,0,3,3,3,3,0,3,4,+5,25
-301120015,Milwaukee Bucks,J. Brockman,3966,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,E. Ilyasova,2767,PF,25,4-11,0-3,1-2,2,3,5,0,1,0,0,1,+1,9
-301120015,Milwaukee Bucks,C. Maggette,497,SF,14,0-3,0-0,3-4,1,2,3,1,1,1,2,1,+0,3
-301120015,Milwaukee Bucks,L. Sanders,4265,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,E. Boykins,87,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,K. Dooling,209,PG,18,2-4,0-1,0-0,0,1,1,1,0,0,2,3,-1,4
-301120015,Milwaukee Bucks,D. Hobson,4278,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
-301120015,Milwaukee Bucks,C. Douglas-Roberts,3422,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,C. Delfino,1999,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301120015,Milwaukee Bucks,M. Redd,692,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301127015,Charlotte Hornets,S. Jackson,378,SF,4,0-3,0-1,0-0,0,1,1,1,0,0,0,0,-5,0
 301127015,Charlotte Hornets,G. Wallace,1026,SF,42,6-12,0-3,7-8,0,5,5,4,0,0,3,4,+0,19
 301127015,Charlotte Hornets,N. Mohammed,568,C,17,0-3,0-0,3-6,0,1,1,0,0,0,0,0,-9,3
@@ -26088,13 +25446,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310119015,Washington Wizards,J. McGee,3452,C,26,3-6,0-0,1-3,2,3,5,0,1,3,2,3,-20,7
 310119015,Washington Wizards,J. Wall,4237,PG,38,3-11,0-0,4-4,0,6,6,13,1,0,4,3,-1,10
 310119015,Washington Wizards,T. Booker,4270,PF,1,0-0,0-0,1-2,0,0,0,0,0,0,0,0,-1,1
-310119015,Washington Wizards,K. Seraphin,4289,C,6,1-1,0-0,1-2,0,1,1,0,0,1,1,2,+6,3
 310119015,Washington Wizards,C. Martin,3930,PF,3,0-2,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310119015,Washington Wizards,H. Armstrong,2984,PF,3,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310119015,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310119015,Washington Wizards,Y. Jianlian,3214,SF,13,3-4,0-0,0-0,1,0,1,1,0,0,1,0,-7,6
 310119015,Washington Wizards,A. Thornton,3237,SF,14,1-2,1-2,0-0,1,3,4,0,0,1,0,2,-8,3
 310119015,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
+310119015,Washington Wizards,K. Seraphin,4289,C,6,1-1,0-0,1-2,0,1,1,0,0,1,1,2,+6,3
 310119015,Washington Wizards,K. Hinrich,1981,SG,24,2-5,0-0,1-1,0,0,0,3,1,1,1,3,-13,5
 310119015,Milwaukee Bucks,E. Ilyasova,2767,PF,27,2-6,0-0,5-5,1,8,9,1,4,0,0,3,+5,9
 310119015,Milwaukee Bucks,C. Maggette,497,SF,35,7-18,0-2,7-7,1,4,5,4,2,0,2,3,+14,21
@@ -26116,11 +25474,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310122015,Memphis Grizzlies,M. Gasol,3206,C,34,7-12,0-1,10-11,2,14,16,2,0,3,4,4,+21,24
 310122015,Memphis Grizzlies,M. Conley,3195,PG,38,3-11,1-3,1-2,0,5,5,2,1,2,1,1,+19,8
 310122015,Memphis Grizzlies,D. Arthur,3413,PF,23,7-11,0-0,0-0,3,1,4,2,2,0,1,1,+2,14
+310122015,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310122015,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+15,0
 310122015,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310122015,Memphis Grizzlies,H. Thabeet,4016,C,6,0-1,0-0,0-0,1,0,1,0,0,0,1,0,-8,0
 310122015,Memphis Grizzlies,G. Vasquez,4291,PG,10,0-2,0-0,0-0,1,2,3,4,0,0,1,3,-6,0
-310122015,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310122015,Memphis Grizzlies,T. Allen,2367,SG,6,1-2,0-0,0-0,0,0,0,2,1,0,1,0,+3,2
 310122015,Memphis Grizzlies,O.J. Mayo,3450,SG,25,5-7,1-3,0-0,0,0,0,0,1,0,3,0,+3,11
 310122015,Milwaukee Bucks,E. Ilyasova,2767,PF,21,3-5,0-2,0-0,1,1,2,0,0,0,0,3,-7,6
@@ -26188,13 +25546,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310209027,Washington Wizards,J. McGee,3452,C,37,6-11,0-0,4-4,3,14,17,1,0,3,1,3,+15,16
 310209027,Washington Wizards,J. Wall,4237,PG,34,5-9,1-1,4-4,0,7,7,6,2,1,3,3,+14,15
 310209027,Washington Wizards,T. Booker,4270,PF,12,0-1,0-0,1-2,0,3,3,1,0,1,1,1,-1,1
-310209027,Washington Wizards,K. Seraphin,4289,PF,7,1-2,0-0,0-0,2,0,2,0,0,0,2,3,-2,2
 310209027,Washington Wizards,C. Martin,3930,PF,23,5-8,5-7,0-0,3,1,4,0,0,0,1,2,+9,15
 310209027,Washington Wizards,H. Armstrong,2984,PF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310209027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 310209027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310209027,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310209027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
+310209027,Washington Wizards,K. Seraphin,4289,C,7,1-2,0-0,0-0,2,0,2,0,0,0,2,3,-2,2
 310209027,Washington Wizards,K. Hinrich,1981,SG,21,4-11,1-1,1-1,0,2,2,4,2,1,2,1,-3,10
 310211029,Milwaukee Bucks,E. Ilyasova,2767,PF,28,1-4,0-1,0-0,2,4,6,0,1,1,3,2,+4,2
 310211029,Milwaukee Bucks,C. Maggette,497,SF,30,6-12,4-6,6-7,0,2,2,0,0,0,3,4,-7,22
@@ -26301,12 +25659,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310308027,Washington Wizards,J. Wall,4237,PG,40,4-17,0-1,2-4,3,6,9,7,3,1,5,3,-7,10
 310308027,Washington Wizards,M. Evans,1031,SG,33,5-11,1-1,0-0,2,1,3,2,0,0,1,1,-17,11
 310308027,Washington Wizards,T. Booker,4270,PF,32,4-9,0-0,0-0,2,6,8,1,0,4,0,0,-9,8
-310308027,Washington Wizards,K. Seraphin,4289,C,23,0-4,0-0,1-2,3,3,6,0,0,0,0,3,-16,1
 310308027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
 310308027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310308027,Washington Wizards,Y. Jianlian,3214,SF,14,1-3,0-0,2-2,0,2,2,1,0,0,0,1,-10,4
 310308027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-17,0
 310308027,Washington Wizards,H. Ndiaye,4282,C,5,0-0,0-0,1-2,0,1,1,0,0,1,0,1,-3,1
+310308027,Washington Wizards,K. Seraphin,4289,C,23,0-4,0-0,1-2,3,3,6,0,0,0,0,3,-16,1
 310308027,Washington Wizards,M. Shakur,3252,PG,6,0-1,0-1,0-0,0,0,0,0,0,0,1,2,-6,0
 310308027,Washington Wizards,J. Crawford,4243,SG,27,9-17,1-5,3-3,1,3,4,3,2,0,5,0,-22,22
 310315001,Milwaukee Bucks,L. Mbah a Moute,3451,PF,26,1-6,0-0,0-0,2,0,2,2,3,0,2,2,-11,2
@@ -27264,13 +26622,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310131006,Washington Wizards,N. Young,3243,SF,38,6-20,0-3,6-9,1,2,3,2,1,1,0,3,-5,18
 310131006,Washington Wizards,A. Blatche,2746,C,38,4-17,0-0,8-10,3,10,13,2,0,1,1,2,-11,16
 310131006,Washington Wizards,J. Wall,4237,PG,42,7-13,1-2,2-4,1,3,4,10,1,0,2,4,-13,17
-310131006,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 310131006,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310131006,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310131006,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
 310131006,Washington Wizards,Y. Jianlian,3214,SF,29,6-12,0-0,2-2,3,8,11,0,4,1,0,4,-3,14
 310131006,Washington Wizards,A. Thornton,3237,SF,15,1-3,0-0,0-1,0,2,2,1,0,0,0,2,+0,2
 310131006,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+310131006,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
 310131006,Washington Wizards,J. McGee,3452,C,13,1-4,0-0,0-2,0,3,3,0,0,2,0,4,-7,2
 310131006,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310131006,Washington Wizards,K. Hinrich,1981,SG,16,2-4,1-2,0-0,0,0,0,2,0,0,0,2,+0,5
@@ -27422,11 +26780,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310226027,Washington Wizards,J. McGee,3452,C,29,3-9,0-0,0-0,2,9,11,1,2,2,0,3,-3,6
 310226027,Washington Wizards,J. Wall,4237,PG,32,11-26,1-1,1-4,2,3,5,5,0,1,4,2,-8,24
 310226027,Washington Wizards,T. Booker,4270,PF,15,3-5,0-0,2-7,1,4,5,0,0,0,0,3,+6,8
-310226027,Washington Wizards,K. Seraphin,4289,PF,14,4-5,0-0,0-0,3,3,6,0,0,0,1,2,-3,8
 310226027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310226027,Washington Wizards,Y. Jianlian,3214,SF,5,0-0,0-0,0-0,1,2,3,0,0,0,0,1,+0,0
 310226027,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310226027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
+310226027,Washington Wizards,K. Seraphin,4289,C,14,4-5,0-0,0-0,3,3,6,0,0,0,1,2,-3,8
 310226027,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
 310226027,Washington Wizards,M. Bibby,61,PG,19,1-5,0-2,0-0,0,3,3,4,1,0,0,2,+7,2
 310226027,Washington Wizards,J. Crawford,4243,SG,17,5-9,0-2,0-0,0,0,0,2,2,0,0,0,+1,10
@@ -27890,13 +27248,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301110027,Washington Wizards,J. Wall,4237,PG,42,8-16,2-4,1-2,1,9,10,13,6,1,1,3,+12,19
 301110027,Washington Wizards,K. Hinrich,1981,SG,29,3-9,1-2,3-4,1,3,4,2,1,0,6,4,-5,10
 301110027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301110027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301110027,Washington Wizards,C. Martin,3930,PF,5,0-0,0-0,0-0,0,2,2,0,0,0,0,0,+1,0
 301110027,Washington Wizards,H. Armstrong,2984,PF,9,0-0,0-0,0-0,1,1,2,0,0,0,1,2,-1,0
 301110027,Washington Wizards,N. Young,3243,SF,8,1-4,1-3,0-0,0,1,1,0,0,0,0,1,+4,3
 301110027,Washington Wizards,Y. Jianlian,3214,SF,29,6-12,0-1,1-2,0,7,7,1,0,4,2,1,+10,13
 301110027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
 301110027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-2,0
+301110027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301110027,Washington Wizards,G. Arenas,974,PG,23,1-7,1-2,2-2,0,2,2,3,0,1,2,4,+7,5
 301110027,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 301117025,Houston Rockets,L. Scola,1781,PF,30,12-19,0-0,2-4,2,6,8,0,0,0,3,3,-8,26
@@ -28049,9 +27407,9 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301215025,Oklahoma City Thunder,J. Harden,3992,SG,32,5-7,2-3,4-5,1,3,4,4,1,0,2,4,+10,16
 301217010,Memphis Grizzlies,Z. Randolph,1017,PF,30,4-13,0-0,5-7,4,5,9,0,0,1,3,1,-19,13
 301217010,Memphis Grizzlies,R. Gay,3005,SF,29,8-14,0-1,3-4,1,3,4,3,4,1,3,4,-15,19
+301217010,Memphis Grizzlies,X. Henry,4241,SG,14,0-3,0-0,0-0,0,2,2,0,1,0,0,0,+9,0
 301217010,Memphis Grizzlies,M. Gasol,3206,C,30,2-16,0-0,6-6,3,1,4,1,0,0,0,3,-13,10
 301217010,Memphis Grizzlies,M. Conley,3195,PG,23,2-5,1-1,2-2,0,4,4,3,0,0,1,2,-14,7
-301217010,Memphis Grizzlies,X. Henry,4241,SG,14,0-3,0-0,0-0,0,2,2,0,1,0,0,0,+9,0
 301217010,Memphis Grizzlies,D. Arthur,3413,PF,19,4-9,0-0,0-0,0,3,3,0,3,2,2,3,-13,8
 301217010,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-15,0
 301217010,Memphis Grizzlies,S. Young,4020,SF,19,8-9,1-1,2-2,0,0,0,0,2,1,0,0,+4,19
@@ -28083,11 +27441,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301227010,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 301227010,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227010,Washington Wizards,T. Booker,4270,PF,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
-301227010,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227010,Washington Wizards,J. Howard,2006,SF,23,5-13,1-2,1-2,1,1,2,2,1,0,1,3,+8,12
 301227010,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 301227010,Washington Wizards,A. Thornton,3237,SF,8,0-1,0-0,0-0,0,0,0,0,0,0,0,2,-3,0
 301227010,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-10,0
+301227010,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227010,Washington Wizards,J. Wall,4237,PG,27,2-7,0-1,9-13,0,5,5,6,0,2,3,3,+5,13
 301227010,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301227010,Houston Rockets,L. Scola,1781,PF,32,7-13,0-0,0-0,1,2,3,3,0,0,3,4,-8,14
@@ -29046,12 +28404,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301119027,Washington Wizards,K. Hinrich,1981,SG,41,6-12,1-5,9-9,1,1,2,6,2,0,1,2,+2,22
 301119027,Washington Wizards,C. Martin,3930,PF,4,0-1,0-1,0-0,1,0,1,0,0,0,0,1,-2,0
 301119027,Washington Wizards,T. Booker,4270,PF,10,1-5,0-0,0-0,3,1,4,0,0,0,2,1,-7,2
-301119027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301119027,Washington Wizards,H. Armstrong,2984,PF,10,2-3,0-0,0-0,0,2,2,0,0,2,0,4,-4,4
 301119027,Washington Wizards,N. Young,3243,SF,21,1-8,0-3,3-4,0,1,1,0,1,0,0,0,-8,5
 301119027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
 301119027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301119027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301119027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301119027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+5,0
 301119027,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301120029,Miami Heat,C. Bosh,1977,PF,39,8-14,1-1,3-4,2,8,10,0,2,0,1,4,+0,20
@@ -29073,7 +28431,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301120029,Memphis Grizzlies,R. Gay,3005,SF,35,5-13,0-3,5-6,2,6,8,2,0,1,4,1,+0,15
 301120029,Memphis Grizzlies,M. Gasol,3206,C,34,5-8,0-0,1-2,4,7,11,1,0,1,2,3,+3,11
 301120029,Memphis Grizzlies,M. Conley,3195,PG,36,6-12,1-2,3-4,1,4,5,6,0,0,1,1,+5,16
-301120029,Memphis Grizzlies,X. Henry,4241,SG,26,1-9,0-2,4-4,0,2,2,3,0,0,0,1,+5,6
+301120029,Memphis Grizzlies,X. Henry,4241,SF,26,1-9,0-2,4-4,0,2,2,3,0,0,0,1,+5,6
 301120029,Memphis Grizzlies,Z. Randolph,1017,PF,27,8-14,0-0,5-7,6,7,13,1,0,1,2,2,-4,21
 301120029,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301120029,Memphis Grizzlies,S. Young,4020,SF,13,4-6,0-1,2-2,0,1,1,0,1,0,0,0,+2,10
@@ -29113,9 +28471,9 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301201001,Atlanta Hawks,J. Crawford,165,SG,34,4-12,2-4,6-8,0,1,1,8,1,0,2,1,+8,16
 301205007,Memphis Grizzlies,Z. Randolph,1017,PF,38,8-21,0-1,2-3,5,7,12,1,0,0,6,4,+2,18
 301205007,Memphis Grizzlies,R. Gay,3005,SF,40,8-17,2-6,6-9,0,4,4,3,2,5,1,3,+9,24
+301205007,Memphis Grizzlies,X. Henry,4241,SG,27,8-12,1-2,0-0,0,2,2,3,0,0,0,3,+10,17
 301205007,Memphis Grizzlies,M. Gasol,3206,C,25,5-6,0-0,0-0,1,5,6,3,0,2,1,5,+0,10
 301205007,Memphis Grizzlies,M. Conley,3195,PG,41,8-12,2-2,1-2,1,4,5,9,0,0,2,3,+7,19
-301205007,Memphis Grizzlies,X. Henry,4241,SG,27,8-12,1-2,0-0,0,2,2,3,0,0,0,3,+10,17
 301205007,Memphis Grizzlies,D. Arthur,3413,PF,15,4-6,0-0,0-0,1,1,2,0,1,0,2,4,+2,8
 301205007,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301205007,Memphis Grizzlies,S. Young,4020,SF,17,1-5,0-1,2-2,0,3,3,2,4,0,1,1,-7,4
@@ -29228,11 +28586,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301218024,Memphis Grizzlies,D. Arthur,3413,PF,18,1-6,0-0,0-0,2,1,3,1,0,0,0,2,-10,2
 301218024,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218024,Memphis Grizzlies,S. Young,4020,SF,18,4-9,0-0,3-3,0,2,2,0,0,0,0,3,+4,11
+301218024,Memphis Grizzlies,X. Henry,4241,SG,9,0-2,0-0,0-0,0,1,1,0,1,0,0,1,+0,0
 301218024,Memphis Grizzlies,R. Gay,3005,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218024,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218024,Memphis Grizzlies,H. Thabeet,4016,C,2,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-7,0
 301218024,Memphis Grizzlies,G. Vasquez,4291,PG,17,1-4,1-1,0-0,0,0,0,1,1,0,1,0,-7,3
-301218024,Memphis Grizzlies,X. Henry,4241,SG,9,0-2,0-0,0-0,0,1,1,0,1,0,0,1,+0,0
 301218024,San Antonio Spurs,R. Jefferson,1006,SF,33,5-8,2-4,0-0,0,9,9,1,1,0,4,5,+6,12
 301218024,San Antonio Spurs,T. Duncan,215,C,37,6-13,0-0,1-1,3,7,10,5,1,3,2,1,+3,13
 301218024,San Antonio Spurs,D. Blair,3965,C,13,1-6,0-0,0-0,2,1,3,1,1,0,2,3,+8,2
@@ -29413,13 +28771,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310129029,Washington Wizards,N. Young,3243,SF,28,2-9,1-1,3-4,0,0,0,1,2,0,1,1,-2,8
 310129029,Washington Wizards,A. Blatche,2746,C,33,4-12,0-1,2-2,1,8,9,4,0,3,0,0,-16,10
 310129029,Washington Wizards,J. Wall,4237,PG,33,4-10,1-3,5-7,0,5,5,8,0,1,5,3,-7,14
-310129029,Washington Wizards,K. Seraphin,4289,C,7,1-1,0-0,0-0,0,1,1,0,0,1,0,1,+4,2
 310129029,Washington Wizards,C. Martin,3930,PF,12,4-6,2-3,2-2,0,2,2,0,0,0,1,1,+5,12
 310129029,Washington Wizards,H. Armstrong,2984,PF,3,0-1,0-0,0-0,1,0,1,0,0,0,2,3,-8,0
 310129029,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+10,0
 310129029,Washington Wizards,Y. Jianlian,3214,SF,15,0-1,0-0,4-4,0,0,0,0,0,0,0,0,-8,4
 310129029,Washington Wizards,A. Thornton,3237,SF,27,5-8,0-0,2-2,1,0,1,1,1,0,2,1,-11,12
 310129029,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
+310129029,Washington Wizards,K. Seraphin,4289,C,7,1-1,0-0,0-0,0,1,1,0,0,1,0,1,+4,2
 310129029,Washington Wizards,J. McGee,3452,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+13,0
 310129029,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310129029,Washington Wizards,K. Hinrich,1981,SG,19,3-9,1-3,2-3,1,1,2,3,0,0,1,3,-11,9
@@ -29468,11 +28826,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310202016,Memphis Grizzlies,M. Gasol,3206,C,31,5-8,1-1,2-2,2,5,7,3,1,4,4,2,+25,13
 310202016,Memphis Grizzlies,M. Conley,3195,PG,36,3-12,3-5,0-0,0,5,5,9,3,0,2,1,+25,9
 310202016,Memphis Grizzlies,D. Arthur,3413,PF,18,2-5,0-1,0-0,1,4,5,0,0,0,1,2,-5,4
+310202016,Memphis Grizzlies,X. Henry,4241,SG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
 310202016,Memphis Grizzlies,D. Carroll,3970,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-15,0
 310202016,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310202016,Memphis Grizzlies,H. Thabeet,4016,C,11,1-3,0-0,1-1,0,3,3,0,0,0,0,2,-5,3
 310202016,Memphis Grizzlies,G. Vasquez,4291,PG,13,2-4,0-1,0-0,1,1,2,0,0,0,2,1,-5,4
-310202016,Memphis Grizzlies,X. Henry,4241,SG,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
 310202016,Memphis Grizzlies,T. Allen,2367,SG,18,2-6,0-2,2-2,1,0,1,0,2,0,2,1,-3,6
 310202016,Memphis Grizzlies,O.J. Mayo,3450,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310202016,Minnesota Timberwolves,K. Love,3449,PF,35,4-9,0-2,2-5,1,9,10,3,1,1,2,2,-17,10
@@ -29543,7 +28901,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310213029,Memphis Grizzlies,H. Thabeet,4016,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310213029,Memphis Grizzlies,G. Vasquez,4291,PG,6,0-2,0-1,0-0,0,0,0,2,0,0,0,1,-10,0
 310213029,Memphis Grizzlies,J. Williams,933,PG,7,0-0,0-0,0-0,0,0,0,2,0,0,0,0,+10,0
-310213029,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310213029,Memphis Grizzlies,X. Henry,4241,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310213029,Memphis Grizzlies,T. Allen,2367,SG,28,6-8,0-0,5-6,0,3,3,0,3,0,0,2,+6,17
 310213029,Memphis Grizzlies,O.J. Mayo,3450,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
 310222007,Memphis Grizzlies,Z. Randolph,1017,PF,28,6-10,0-0,0-2,5,3,8,0,2,0,5,4,-23,12
@@ -29552,13 +28910,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310222007,Memphis Grizzlies,M. Conley,3195,PG,30,4-6,2-2,0-0,0,1,1,3,0,1,4,1,-20,10
 310222007,Memphis Grizzlies,T. Allen,2367,SG,31,8-15,0-0,10-14,2,6,8,2,1,0,2,4,-5,26
 310222007,Memphis Grizzlies,D. Arthur,3413,PF,22,4-8,0-0,2-2,0,2,2,0,0,0,0,6,+1,10
+310222007,Memphis Grizzlies,X. Henry,4241,SG,8,2-4,0-0,0-0,0,0,0,0,0,0,0,0,+2,4
 310222007,Memphis Grizzlies,D. Carroll,3970,SF,7,1-2,0-0,0-0,0,1,1,1,0,0,0,1,+14,2
 310222007,Memphis Grizzlies,R. Gay,3005,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
 310222007,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-9,0
 310222007,Memphis Grizzlies,H. Thabeet,4016,C,9,1-1,0-0,0-0,1,2,3,0,0,0,0,3,+5,2
 310222007,Memphis Grizzlies,G. Vasquez,4291,PG,4,0-0,0-0,0-0,0,0,0,1,1,1,0,0,+0,0
 310222007,Memphis Grizzlies,J. Williams,933,PG,17,0-1,0-1,0-0,0,1,1,9,0,0,1,2,+4,0
-310222007,Memphis Grizzlies,X. Henry,4241,SG,8,2-4,0-0,0-0,0,0,0,0,0,0,0,0,+2,4
 310222007,Memphis Grizzlies,O.J. Mayo,3450,SG,30,8-14,2-7,3-5,0,3,3,1,1,0,3,1,-9,21
 310222007,Memphis Grizzlies,R. Carney,2995,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+26,0
 310222007,Denver Nuggets,K. Martin,515,PF,25,2-5,0-0,1-2,0,2,2,5,3,1,2,4,+3,5
@@ -29605,13 +28963,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310227024,Memphis Grizzlies,M. Conley,3195,PG,38,9-17,1-3,0-0,0,3,3,1,1,1,2,5,+5,19
 310227024,Memphis Grizzlies,T. Allen,2367,SG,19,5-10,0-1,0-1,3,0,3,1,0,1,2,5,-17,10
 310227024,Memphis Grizzlies,D. Arthur,3413,PF,17,5-10,0-0,2-2,2,1,3,2,1,2,0,3,-12,12
+310227024,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,Memphis Grizzlies,S. Battier,976,SF,30,2-6,2-4,2-2,0,4,4,0,4,0,1,3,-3,8
 310227024,Memphis Grizzlies,R. Gay,3005,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-17,0
 310227024,Memphis Grizzlies,H. Haddadi,3478,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,Memphis Grizzlies,G. Vasquez,4291,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,Memphis Grizzlies,I. Smith,4305,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,Memphis Grizzlies,J. Williams,933,PG,14,1-3,1-2,0-0,0,2,2,0,1,0,1,0,-15,3
-310227024,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,Memphis Grizzlies,O.J. Mayo,3450,SG,16,0-3,0-0,0-0,0,1,1,3,1,0,3,2,+4,0
 310227024,Memphis Grizzlies,R. Carney,2995,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310227024,San Antonio Spurs,R. Jefferson,1006,SF,36,1-3,1-2,2-2,1,3,4,3,1,0,1,2,+3,5
@@ -29719,13 +29077,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310312014,Memphis Grizzlies,T. Allen,2367,SG,23,2-7,0-1,2-2,1,2,3,0,1,0,0,1,-32,6
 310312014,Memphis Grizzlies,D. Arthur,3413,PF,19,2-7,0-0,2-2,0,4,4,0,1,0,2,3,-9,6
 310312014,Memphis Grizzlies,L. Powe,3023,PF,7,1-1,0-0,2-4,0,2,2,1,0,0,0,1,+2,4
+310312014,Memphis Grizzlies,X. Henry,4241,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310312014,Memphis Grizzlies,S. Battier,976,SF,21,1-4,0-2,0-0,1,0,1,0,1,0,0,2,-19,2
 310312014,Memphis Grizzlies,R. Gay,3005,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310312014,Memphis Grizzlies,H. Haddadi,3478,C,7,1-3,0-1,0-0,0,0,0,0,0,1,1,1,+2,2
 310312014,Memphis Grizzlies,G. Vasquez,4291,PG,9,4-5,1-1,1-2,0,0,0,0,0,0,0,2,+1,10
 310312014,Memphis Grizzlies,I. Smith,4305,PG,12,0-2,0-0,0-0,0,0,0,2,0,0,0,1,+1,0
 310312014,Memphis Grizzlies,J. Williams,933,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+20,0
-310312014,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310312014,Memphis Grizzlies,O.J. Mayo,3450,SG,25,8-13,0-1,3-3,1,2,3,1,0,0,2,5,-14,19
 310312014,Miami Heat,C. Bosh,1977,PF,32,7-11,0-0,4-5,1,9,10,2,1,0,3,3,+31,18
 310312014,Miami Heat,L. James,1966,SF,32,10-16,2-4,5-6,1,4,5,5,1,2,3,1,+17,27
@@ -29798,7 +29156,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310327029,Memphis Grizzlies,G. Vasquez,4291,PG,6,0-2,0-1,0-0,1,0,1,1,0,0,0,0,-8,0
 310327029,Memphis Grizzlies,I. Smith,4305,PG,9,0-3,0-0,1-2,0,0,0,0,0,0,0,1,+5,1
 310327029,Memphis Grizzlies,J. Williams,933,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-13,0
-310327029,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
+310327029,Memphis Grizzlies,X. Henry,4241,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 310327029,Memphis Grizzlies,O.J. Mayo,3450,SG,27,6-11,4-6,1-2,0,0,0,1,0,0,2,0,+8,17
 310401003,Memphis Grizzlies,Z. Randolph,1017,PF,40,11-19,1-1,5-6,4,6,10,7,1,0,3,4,+23,28
 310401003,Memphis Grizzlies,S. Young,4020,SF,24,2-6,0-0,3-4,0,4,4,0,1,0,1,0,-4,7
@@ -29807,13 +29165,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310401003,Memphis Grizzlies,T. Allen,2367,SG,35,7-12,0-1,3-4,2,1,3,4,0,1,1,1,+6,17
 310401003,Memphis Grizzlies,D. Arthur,3413,PF,17,1-5,0-0,0-0,2,3,5,1,1,1,1,4,-4,2
 310401003,Memphis Grizzlies,L. Powe,3023,PF,2,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
+310401003,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 310401003,Memphis Grizzlies,S. Battier,976,SF,20,1-2,0-0,0-0,0,1,1,2,1,1,1,0,+13,2
 310401003,Memphis Grizzlies,R. Gay,3005,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
 310401003,Memphis Grizzlies,H. Haddadi,3478,C,3,0-1,0-0,1-2,0,1,1,0,0,0,0,0,-8,1
 310401003,Memphis Grizzlies,G. Vasquez,4291,PG,9,0-1,0-0,0-0,0,0,0,1,0,0,2,0,+2,0
 310401003,Memphis Grizzlies,I. Smith,4305,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310401003,Memphis Grizzlies,J. Williams,933,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310401003,Memphis Grizzlies,X. Henry,4241,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 310401003,Memphis Grizzlies,O.J. Mayo,3450,SG,16,5-7,2-2,1-1,0,1,1,1,1,0,2,3,+9,13
 310401003,New Orleans Pelicans,C. Landry,3217,PF,32,8-13,0-0,3-4,1,1,2,2,1,0,1,5,-9,19
 310401003,New Orleans Pelicans,T. Ariza,2426,SF,29,4-10,2-4,2-2,0,2,2,2,2,1,0,3,-15,12
@@ -30561,7 +29919,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310201003,Washington Wizards,N. Young,3243,SF,39,9-18,3-7,9-12,1,3,4,2,1,0,1,4,-5,30
 310201003,Washington Wizards,A. Blatche,2746,C,38,10-17,0-0,1-2,1,8,9,2,2,1,4,4,+3,21
 310201003,Washington Wizards,J. Wall,4237,PG,37,2-10,0-1,0-0,1,5,6,7,2,0,3,3,-10,4
-310201003,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310201003,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310201003,Washington Wizards,C. Martin,3930,PF,5,0-1,0-1,1-2,0,0,0,0,0,0,0,1,-6,1
 310201003,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310201003,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
@@ -31152,12 +30510,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301226024,Washington Wizards,K. Hinrich,1981,SG,35,7-10,1-1,0-0,0,2,2,7,2,0,4,1,-9,15
 301226024,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301226024,Washington Wizards,T. Booker,4270,PF,15,1-3,0-0,0-0,2,3,5,0,0,1,1,0,-6,2
-301226024,Washington Wizards,K. Seraphin,4289,PF,9,0-0,0-0,0-0,0,0,0,0,0,0,0,4,-10,0
 301226024,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301226024,Washington Wizards,J. Howard,2006,SF,24,4-12,0-1,3-4,2,4,6,0,1,0,1,1,-12,11
 301226024,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-7,0
 301226024,Washington Wizards,J. McGee,3452,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301226024,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301226024,Washington Wizards,K. Seraphin,4289,C,9,0-0,0-0,0-0,0,0,0,0,0,0,0,4,-10,0
 301226024,Washington Wizards,J. Wall,4237,PG,19,2-9,0-1,0-0,0,6,6,4,0,1,4,4,-8,4
 301226024,Washington Wizards,L. Hudson,3996,SG,2,0-1,0-1,0-0,0,0,0,1,0,0,0,1,+0,0
 301226024,San Antonio Spurs,R. Jefferson,1006,SF,32,2-5,1-4,0-0,0,9,9,3,1,0,1,0,+5,5
@@ -31355,12 +30713,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310212027,Washington Wizards,C. Martin,3930,PF,35,5-9,2-4,4-7,0,3,3,2,0,1,0,2,-8,16
 310212027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+21,0
 310212027,Washington Wizards,T. Booker,4270,PF,30,3-5,0-0,1-2,2,6,8,1,0,3,1,2,-8,7
-310212027,Washington Wizards,K. Seraphin,4289,PF,11,2-4,0-0,3-4,2,1,3,0,1,0,0,1,-3,7
 310212027,Washington Wizards,H. Armstrong,2984,PF,6,2-2,1-1,0-0,2,2,4,0,2,0,0,0,+4,5
 310212027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+23,0
 310212027,Washington Wizards,Y. Jianlian,3214,SF,19,4-7,0-1,1-2,2,1,3,0,0,0,0,0,-5,9
 310212027,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
 310212027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310212027,Washington Wizards,K. Seraphin,4289,C,11,2-4,0-0,3-4,2,1,3,0,1,0,0,1,-3,7
 310212027,Washington Wizards,M. Shakur,3252,PG,7,1-4,0-1,0-0,0,0,0,1,0,0,0,0,+7,2
 310223024,Oklahoma City Thunder,T. Sefolosha,3028,SF,24,0-2,0-1,0-0,0,7,7,1,2,0,1,2,-9,0
 310223024,Oklahoma City Thunder,K. Durant,3202,SF,42,9-19,1-3,11-13,2,7,9,3,1,1,1,4,-2,30
@@ -31623,13 +30981,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301030001,Washington Wizards,J. Wall,4237,PG,42,9-17,2-3,8-10,0,5,5,9,0,0,3,1,+3,28
 301030001,Washington Wizards,K. Hinrich,1981,SG,41,3-8,2-5,0-0,0,3,3,4,3,0,0,5,-5,8
 301030001,Washington Wizards,T. Booker,4270,PF,3,0-1,0-0,0-0,0,1,1,0,0,0,0,1,-4,0
-301030001,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301030001,Washington Wizards,C. Martin,3930,PF,9,0-1,0-0,0-0,0,0,0,0,1,0,1,2,-13,0
 301030001,Washington Wizards,H. Armstrong,2984,PF,8,0-1,0-0,0-0,0,2,2,0,0,2,2,2,+0,0
 301030001,Washington Wizards,N. Young,3243,SF,11,0-2,0-1,0-0,0,0,0,0,0,1,0,1,-2,0
 301030001,Washington Wizards,Y. Jianlian,3214,SF,24,4-8,0-0,2-2,0,1,1,0,0,1,1,4,+5,10
 301030001,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+8,0
 301030001,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+301030001,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301030001,Washington Wizards,G. Arenas,974,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301030001,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301030001,Atlanta Hawks,M. Williams,2797,PF,21,0-3,0-1,0-0,0,4,4,2,0,0,0,3,-10,0
@@ -31765,7 +31123,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301125001,Washington Wizards,J. Wall,4237,PG,33,3-12,0-3,4-4,0,1,1,7,1,1,3,1,-25,10
 301125001,Washington Wizards,K. Hinrich,1981,SG,25,4-7,0-2,0-0,0,1,1,1,0,0,0,1,-25,8
 301125001,Washington Wizards,T. Booker,4270,PF,12,1-3,0-0,0-0,0,1,1,0,0,0,0,3,+0,2
-301125001,Washington Wizards,K. Seraphin,4289,PF,17,2-7,0-0,2-2,4,1,5,0,0,1,0,3,+3,6
+301125001,Washington Wizards,K. Seraphin,4289,C,17,2-7,0-0,2-2,4,1,5,0,0,1,0,3,+3,6
 301125001,Washington Wizards,C. Martin,3930,PF,9,2-5,0-0,2-2,1,1,2,0,0,0,0,2,+5,6
 301125001,Washington Wizards,H. Armstrong,2984,PF,7,0-0,0-0,0-0,1,1,2,0,0,1,2,4,-4,0
 301125001,Washington Wizards,A. Gee,4232,SF,13,1-4,0-0,0-0,2,0,2,1,0,0,1,1,-12,2
@@ -32042,13 +31400,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310205027,Washington Wizards,J. McGee,3452,C,31,5-10,0-0,2-5,0,5,5,1,0,1,0,3,-1,12
 310205027,Washington Wizards,J. Wall,4237,PG,32,8-13,0-0,2-7,2,4,6,6,1,1,2,5,-6,18
 310205027,Washington Wizards,T. Booker,4270,PF,12,0-0,0-0,0-0,0,0,0,1,1,0,0,5,+3,0
-310205027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310205027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310205027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310205027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310205027,Washington Wizards,Y. Jianlian,3214,SF,10,0-3,0-0,0-0,1,0,1,0,0,0,0,1,-6,0
 310205027,Washington Wizards,A. Thornton,3237,SF,18,2-2,0-0,0-0,0,2,2,0,1,0,0,1,-5,4
 310205027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
+310205027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310205027,Washington Wizards,K. Hinrich,1981,SG,27,6-9,1-2,0-0,0,4,4,4,1,1,3,0,-8,13
 310212001,Charlotte Hornets,S. Jackson,378,SF,43,12-24,1-6,7-8,0,2,2,1,1,1,1,2,+14,32
 310212001,Charlotte Hornets,G. Wallace,1026,SF,42,6-15,4-6,0-0,1,12,13,7,2,1,2,3,+7,16
@@ -32295,13 +31653,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310409027,Washington Wizards,M. Evans,1031,SG,26,5-5,0-0,0-0,1,1,2,0,0,0,1,1,+13,10
 310409027,Washington Wizards,J. Crawford,4243,SG,27,3-9,0-0,0-0,0,3,3,8,1,0,1,3,+10,6
 310409027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+24,0
-310409027,Washington Wizards,K. Seraphin,4289,C,21,2-3,0-0,0-0,0,4,4,0,1,1,1,3,+20,4
 310409027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 310409027,Washington Wizards,L. Owens,4179,SF,22,4-8,2-3,0-0,0,0,0,1,1,2,0,2,+19,10
 310409027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+13,0
 310409027,Washington Wizards,Y. Jianlian,3214,SF,21,5-13,0-0,5-6,6,3,9,1,0,0,0,1,+13,15
 310409027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310409027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310409027,Washington Wizards,K. Seraphin,4289,C,21,2-3,0-0,0-0,0,4,4,0,1,1,1,3,+20,4
 310409027,Washington Wizards,M. Shakur,3252,PG,7,1-2,0-1,1-2,0,0,0,0,1,0,1,0,+6,3
 310409027,Washington Wizards,O. Jeffers,4231,SG,30,4-7,0-0,5-6,2,9,11,2,3,0,0,2,+24,13
 310411001,Miami Heat,C. Bosh,1977,PF,31,7-10,0-0,1-1,2,7,9,2,0,0,3,5,+17,15
@@ -32412,13 +31770,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301112027,Washington Wizards,J. Wall,4237,PG,40,6-16,1-4,0-0,1,3,4,11,4,0,1,2,-17,13
 301112027,Washington Wizards,K. Hinrich,1981,SG,38,5-7,2-3,2-2,0,1,1,8,1,0,0,2,-5,14
 301112027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301112027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301112027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301112027,Washington Wizards,H. Armstrong,2984,PF,5,1-1,0-0,0-1,2,0,2,0,1,0,0,1,+4,2
 301112027,Washington Wizards,N. Young,3243,SF,13,4-7,1-3,0-0,0,0,0,0,0,0,0,3,+4,9
 301112027,Washington Wizards,Y. Jianlian,3214,SF,32,3-7,0-0,2-2,3,1,4,1,1,6,2,4,-2,8
 301112027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
 301112027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301112027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301112027,Washington Wizards,G. Arenas,974,PG,32,2-14,1-9,0-0,1,5,6,4,2,1,4,2,+1,5
 301112027,Washington Wizards,L. Hudson,3996,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-6,0
 301113030,Utah Jazz,P. Millsap,3015,PF,33,7-11,0-0,3-4,1,5,6,0,0,1,1,4,+0,17
@@ -32663,13 +32021,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310108030,Washington Wizards,J. McGee,3452,C,25,3-4,0-0,2-2,0,1,1,0,1,2,0,1,-10,8
 310108030,Washington Wizards,J. Wall,4237,PG,37,8-19,0-5,0-1,1,1,2,11,1,0,5,1,-13,16
 310108030,Washington Wizards,T. Booker,4270,PF,6,2-3,0-0,0-0,1,0,1,0,0,0,0,1,-2,4
-310108030,Washington Wizards,K. Seraphin,4289,PF,7,2-3,0-0,0-0,1,0,1,0,0,1,0,2,-8,4
 310108030,Washington Wizards,C. Martin,3930,PF,3,0-1,0-1,0-0,0,1,1,0,0,0,0,0,+1,0
 310108030,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310108030,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
 310108030,Washington Wizards,Y. Jianlian,3214,SF,13,2-3,1-1,0-0,0,2,2,0,0,0,1,1,+3,5
 310108030,Washington Wizards,A. Thornton,3237,SF,30,4-9,0-0,5-7,3,4,7,3,3,1,1,4,+1,13
 310108030,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
+310108030,Washington Wizards,K. Seraphin,4289,C,7,2-3,0-0,0-0,1,0,1,0,0,1,0,2,-8,4
 310108030,Washington Wizards,K. Hinrich,1981,SG,32,7-14,3-4,1-1,0,2,2,5,2,1,1,4,-10,18
 310108030,Charlotte Hornets,S. Jackson,378,SF,41,6-16,2-5,7-8,2,8,10,5,1,1,4,1,+13,21
 310108030,Charlotte Hornets,K. Brown,981,C,16,4-7,0-0,1-1,1,3,4,0,0,0,1,3,+12,9
@@ -32919,13 +32277,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310403030,Washington Wizards,M. Evans,1031,SG,42,4-11,0-3,3-3,1,5,6,2,0,0,1,3,-2,11
 310403030,Washington Wizards,J. Crawford,4243,SG,42,10-20,2-5,1-1,3,2,5,3,2,0,1,2,+8,23
 310403030,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-8,0
-310403030,Washington Wizards,K. Seraphin,4289,PF,12,0-3,0-0,0-0,2,2,4,0,0,0,1,2,-4,0
 310403030,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+10,0
 310403030,Washington Wizards,C. Martin,3930,PF,3,0-0,0-0,0-0,0,0,0,0,0,1,0,1,+3,0
 310403030,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310403030,Washington Wizards,Y. Jianlian,3214,SF,13,1-4,0-0,0-2,1,1,2,0,0,0,1,3,-2,2
 310403030,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310403030,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310403030,Washington Wizards,K. Seraphin,4289,C,12,0-3,0-0,0-0,2,2,4,0,0,0,1,2,-4,0
 310403030,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310403030,Washington Wizards,O. Jeffers,4231,SG,16,0-3,0-1,3-4,2,2,4,2,0,0,0,1,-6,3
 310403030,Charlotte Hornets,D. Cunningham,3974,PF,26,2-8,0-0,0-0,0,5,5,3,0,0,3,2,-12,4
@@ -33123,13 +32481,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301129014,Washington Wizards,G. Arenas,974,PG,41,9-21,3-10,2-2,0,5,5,7,2,0,1,2,-10,23
 301129014,Washington Wizards,K. Hinrich,1981,SG,36,2-7,0-1,1-2,0,3,3,3,1,0,3,3,-11,5
 301129014,Washington Wizards,T. Booker,4270,PF,8,3-4,0-0,0-0,0,1,1,1,0,2,1,3,+3,6
-301129014,Washington Wizards,K. Seraphin,4289,C,8,0-2,0-0,0-0,2,0,2,1,0,0,0,2,+6,0
 301129014,Washington Wizards,C. Martin,3930,PF,10,2-4,0-2,0-0,0,2,2,0,0,0,2,1,-1,4
 301129014,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 301129014,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301129014,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
 301129014,Washington Wizards,N. Young,3243,SF,33,4-15,0-4,5-6,1,1,2,0,0,0,1,2,-5,13
 301129014,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301129014,Washington Wizards,K. Seraphin,4289,C,8,0-2,0-0,0-0,2,0,2,1,0,0,0,2,+6,0
 301129014,Washington Wizards,J. McGee,3452,C,26,5-7,0-0,0-1,5,5,10,1,0,2,2,6,-11,10
 301129014,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301129014,Miami Heat,C. Bosh,1977,PF,37,5-14,0-0,10-14,2,5,7,1,1,0,4,2,+17,20
@@ -33199,11 +32557,11 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301218027,Washington Wizards,R. Lewis,469,PF,--,-----,-----,-----,--,--,--,--,--,--,--,--,--,--
 301218027,Washington Wizards,C. Martin,3930,PF,2,0-0,0-0,0-0,0,0,0,0,1,0,0,0,+0,0
 301218027,Washington Wizards,T. Booker,4270,PF,8,1-2,0-0,0-0,2,1,3,0,1,0,1,3,-7,2
-301218027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218027,Washington Wizards,Y. Jianlian,3214,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 301218027,Washington Wizards,J. Howard,2006,SF,22,5-9,0-2,3-6,2,2,4,1,1,0,1,2,-6,13
 301218027,Washington Wizards,A. Gee,4232,SF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301218027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301218027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+3,0
 310109022,Miami Heat,C. Bosh,1977,PF,44,9-17,0-1,0-0,0,8,8,0,1,2,2,3,+15,18
 310109022,Miami Heat,L. James,1966,SF,46,17-26,3-5,7-10,3,10,13,6,2,0,6,4,+5,44
@@ -33327,7 +32685,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310225014,Washington Wizards,J. McGee,3452,C,36,9-16,0-0,0-3,6,11,17,0,1,0,1,4,-8,18
 310225014,Washington Wizards,J. Wall,4237,PG,39,7-15,1-2,9-12,1,2,3,12,0,0,4,2,+11,24
 310225014,Washington Wizards,T. Booker,4270,PF,12,1-1,0-0,0-0,1,1,2,0,0,0,0,2,-17,2
-310225014,Washington Wizards,K. Seraphin,4289,PF,11,2-4,0-0,0-0,3,4,7,0,0,0,0,3,-4,4
+310225014,Washington Wizards,K. Seraphin,4289,C,11,2-4,0-0,0-0,3,4,7,0,0,0,0,3,-4,4
 310225014,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310225014,Washington Wizards,Y. Jianlian,3214,SF,17,2-3,0-0,0-0,0,2,2,0,0,1,1,2,+7,4
 310225014,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -33489,10 +32847,10 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310330027,Washington Wizards,C. Martin,3930,PF,18,1-4,1-3,1-2,0,2,2,3,0,0,2,3,-6,4
 310330027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
 310330027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-20,0
-310330027,Washington Wizards,K. Seraphin,4289,PF,9,0-0,0-0,0-0,1,1,2,0,1,1,1,2,+1,0
 310330027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310330027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-14,0
 310330027,Washington Wizards,H. Ndiaye,4282,C,1,0-0,0-0,0-2,0,0,0,0,0,0,0,0,+0,0
+310330027,Washington Wizards,K. Seraphin,4289,C,9,0-0,0-0,0-0,1,1,2,0,1,1,1,2,+1,0
 310330027,Washington Wizards,A. Blatche,2746,C,27,6-15,0-0,2-4,3,5,8,2,3,0,1,5,-15,14
 310330027,Washington Wizards,M. Shakur,3252,PG,1,0-0,0-0,0-0,0,0,0,1,0,0,0,0,-4,0
 310330027,Washington Wizards,O. Jeffers,4231,SG,29,6-7,0-0,3-5,2,6,8,0,1,0,2,3,-20,15
@@ -33530,7 +32888,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301028019,Washington Wizards,J. Wall,4237,PG,35,6-19,0-0,2-3,0,1,1,9,3,0,3,3,-31,14
 301028019,Washington Wizards,K. Hinrich,1981,SG,33,4-9,3-6,1-1,0,0,0,2,0,0,1,2,-25,12
 301028019,Washington Wizards,T. Booker,4270,PF,10,2-4,0-0,2-2,0,2,2,1,1,0,0,0,+1,6
-301028019,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-31,0
+301028019,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-31,0
 301028019,Washington Wizards,C. Martin,3930,PF,24,5-9,1-4,6-6,0,2,2,0,2,1,0,0,-3,17
 301028019,Washington Wizards,H. Armstrong,2984,PF,11,0-0,0-0,1-2,0,2,2,0,0,1,2,5,-5,1
 301028019,Washington Wizards,N. Young,3243,SF,21,1-5,0-2,3-3,0,2,2,1,0,0,0,0,-4,5
@@ -33629,7 +32987,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301127027,Washington Wizards,G. Arenas,974,PG,37,9-23,1-6,12-14,0,5,5,5,0,1,2,4,-7,31
 301127027,Washington Wizards,K. Hinrich,1981,SG,34,3-12,2-4,1-1,1,2,3,4,1,0,1,3,-6,9
 301127027,Washington Wizards,T. Booker,4270,PF,11,1-1,0-0,0-0,1,2,3,0,0,0,1,1,+0,2
-301127027,Washington Wizards,K. Seraphin,4289,C,10,2-3,0-0,0-0,1,0,1,0,0,1,1,3,-10,4
 301127027,Washington Wizards,C. Martin,3930,PF,11,1-2,1-2,0-0,1,1,2,0,0,0,0,0,+1,3
 301127027,Washington Wizards,H. Armstrong,2984,PF,12,1-2,0-0,0-0,1,4,5,0,1,1,0,4,-6,2
 301127027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
@@ -33637,6 +32994,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301127027,Washington Wizards,A. Thornton,3237,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
 301127027,Washington Wizards,N. Young,3243,SF,32,8-15,3-4,2-2,0,1,1,2,1,0,2,1,+7,21
 301127027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301127027,Washington Wizards,K. Seraphin,4289,C,10,2-3,0-0,0-0,1,0,1,0,0,1,1,3,-10,4
 301127027,Washington Wizards,J. Wall,4237,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301209022,Orlando Magic,R. Lewis,469,PF,34,4-10,1-3,2-2,1,5,6,2,1,1,2,6,-16,11
 301209022,Orlando Magic,Q. Richardson,703,SF,18,0-1,0-1,0-0,0,4,4,0,0,0,1,1,-3,0
@@ -33797,13 +33155,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310204027,Washington Wizards,J. McGee,3452,C,17,1-5,0-0,0-0,0,1,1,0,0,1,1,3,-7,2
 310204027,Washington Wizards,J. Wall,4237,PG,37,5-12,0-1,4-4,0,5,5,5,0,0,3,3,-17,14
 310204027,Washington Wizards,T. Booker,4270,PF,24,3-5,0-0,0-0,1,5,6,1,0,6,1,0,-4,6
-310204027,Washington Wizards,K. Seraphin,4289,PF,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+1,0
 310204027,Washington Wizards,C. Martin,3930,PF,2,1-1,0-0,0-0,0,0,0,0,0,0,0,0,+1,2
 310204027,Washington Wizards,H. Armstrong,2984,PF,4,0-0,0-0,0-0,1,0,1,0,0,0,0,1,-6,0
 310204027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-9,0
 310204027,Washington Wizards,Y. Jianlian,3214,SF,18,3-9,0-0,0-0,1,5,6,2,0,0,2,1,+2,6
 310204027,Washington Wizards,A. Thornton,3237,SF,7,1-2,0-0,2-2,0,2,2,0,0,0,0,0,+5,4
 310204027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+4,0
+310204027,Washington Wizards,K. Seraphin,4289,C,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,+1,0
 310204027,Washington Wizards,K. Hinrich,1981,SG,26,7-13,3-5,0-0,0,3,3,5,1,0,2,2,-1,17
 310216019,Washington Wizards,C. Martin,3930,PF,30,2-13,1-7,0-0,3,4,7,0,1,1,0,3,-16,5
 310216019,Washington Wizards,J. Howard,2006,SF,24,1-10,0-1,1-3,0,7,7,1,0,0,1,1,-16,3
@@ -33811,13 +33169,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310216019,Washington Wizards,J. McGee,3452,C,14,1-6,0-0,2-3,2,3,5,0,0,0,1,3,-18,4
 310216019,Washington Wizards,J. Wall,4237,PG,39,10-17,1-3,6-10,0,5,5,1,2,1,5,2,-22,27
 310216019,Washington Wizards,T. Booker,4270,PF,22,1-2,0-0,0-0,1,3,4,0,1,0,0,0,-7,2
-310216019,Washington Wizards,K. Seraphin,4289,C,18,2-3,0-0,0-0,2,0,2,1,0,3,2,4,-5,4
 310216019,Washington Wizards,H. Armstrong,2984,PF,8,0-0,0-0,0-0,0,1,1,1,0,0,1,2,-2,0
 310216019,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+13,0
 310216019,Washington Wizards,Y. Jianlian,3214,SF,13,0-2,0-0,0-0,0,4,4,0,0,0,0,2,+0,0
 310216019,Washington Wizards,A. Thornton,3237,SF,4,1-1,0-0,0-0,0,1,1,0,0,0,0,0,-3,2
 310216019,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310216019,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310216019,Washington Wizards,K. Seraphin,4289,C,18,2-3,0-0,0-0,2,0,2,1,0,3,2,4,-5,4
 310216019,Washington Wizards,M. Shakur,3252,PG,5,1-3,0-0,2-2,1,0,1,0,0,0,0,0,+0,4
 310216019,Washington Wizards,K. Hinrich,1981,SG,31,4-9,1-1,1-1,0,1,1,3,0,0,1,1,-15,10
 310216019,Orlando Magic,B. Bass,2745,PF,33,6-13,0-0,3-3,5,6,11,0,2,1,1,0,+7,15
@@ -33935,7 +33293,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301203027,Washington Wizards,J. Wall,4237,PG,40,3-13,0-2,4-4,0,4,4,2,0,0,4,2,+0,10
 301203027,Washington Wizards,K. Hinrich,1981,SG,36,4-10,1-3,2-2,1,2,3,5,3,0,1,2,+8,11
 301203027,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-301203027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301203027,Washington Wizards,C. Martin,3930,PF,10,2-5,1-3,1-3,1,3,4,0,0,0,0,0,+8,6
 301203027,Washington Wizards,H. Armstrong,2984,PF,12,3-3,0-0,0-0,2,1,3,0,1,1,1,1,+5,6
 301203027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-1,0
@@ -33943,6 +33300,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 301203027,Washington Wizards,A. Thornton,3237,SF,10,0-2,0-0,0-0,0,1,1,1,1,0,0,1,-7,0
 301203027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 301203027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+301203027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 301203027,Washington Wizards,G. Arenas,974,PG,30,6-16,0-4,3-3,0,2,2,6,0,1,5,6,-1,15
 310113016,Washington Wizards,R. Lewis,469,PF,32,8-13,3-7,0-0,0,5,5,2,1,0,4,5,-3,19
 310113016,Washington Wizards,A. Thornton,3237,SF,26,6-9,0-1,2-2,1,3,4,2,1,0,2,3,-6,14
@@ -33950,12 +33308,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310113016,Washington Wizards,J. McGee,3452,C,17,2-2,0-0,1-2,1,6,7,0,0,3,1,4,+0,5
 310113016,Washington Wizards,J. Wall,4237,PG,41,4-11,0-1,6-8,0,4,4,10,3,1,2,1,-18,14
 310113016,Washington Wizards,T. Booker,4270,PF,8,1-1,0-0,0-0,0,2,2,0,0,0,0,2,-3,2
-310113016,Washington Wizards,K. Seraphin,4289,PF,5,1-1,0-0,0-0,0,0,0,0,0,0,0,0,-8,2
 310113016,Washington Wizards,C. Martin,3930,PF,2,0-1,0-1,0-0,0,0,0,0,0,0,0,0,+2,0
 310113016,Washington Wizards,H. Armstrong,2984,PF,7,0-0,0-0,0-0,0,1,1,0,0,0,1,0,-6,0
 310113016,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 310113016,Washington Wizards,Y. Jianlian,3214,SF,26,4-10,0-0,0-0,4,4,8,0,0,1,3,4,-4,8
 310113016,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310113016,Washington Wizards,K. Seraphin,4289,C,5,1-1,0-0,0-0,0,0,0,0,0,0,0,0,-8,2
 310113016,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310113016,Washington Wizards,K. Hinrich,1981,SG,33,6-16,2-4,4-4,0,3,3,5,2,0,3,1,-4,18
 310113016,Minnesota Timberwolves,K. Love,3449,PF,41,13-18,5-6,4-4,5,6,11,4,0,0,1,1,+21,35
@@ -33991,13 +33349,13 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310117027,Washington Wizards,J. McGee,3452,C,24,3-6,0-0,1-1,3,8,11,2,0,1,2,3,+15,7
 310117027,Washington Wizards,J. Wall,4237,PG,40,7-12,0-0,5-7,1,4,5,15,1,0,7,2,+12,19
 310117027,Washington Wizards,T. Booker,4270,PF,1,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
-310117027,Washington Wizards,K. Seraphin,4289,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310117027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310117027,Washington Wizards,H. Armstrong,2984,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310117027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
 310117027,Washington Wizards,Y. Jianlian,3214,SF,20,5-10,0-1,0-0,1,1,2,0,0,0,0,4,-2,10
 310117027,Washington Wizards,A. Thornton,3237,SF,18,2-3,0-0,0-0,1,3,4,0,0,0,2,1,-8,4
 310117027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-3,0
+310117027,Washington Wizards,K. Seraphin,4289,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310117027,Washington Wizards,K. Hinrich,1981,SG,25,2-6,1-3,4-4,0,0,0,3,2,0,2,2,-5,9
 310125027,Denver Nuggets,K. Martin,515,PF,25,2-2,0-0,0-0,0,3,3,1,1,1,1,2,+12,4
 310125027,Denver Nuggets,C. Anthony,1975,SF,35,8-20,1-3,6-7,0,7,7,4,0,0,4,0,+11,23
@@ -34020,7 +33378,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310125027,Washington Wizards,J. Wall,4237,PG,34,4-8,0-1,2-3,0,5,5,13,2,0,4,5,-4,10
 310125027,Washington Wizards,C. Martin,3930,PF,7,1-3,0-1,0-0,0,0,0,0,0,0,0,0,-3,2
 310125027,Washington Wizards,T. Booker,4270,PF,10,2-3,0-0,0-0,1,0,1,0,0,0,0,1,-9,4
-310125027,Washington Wizards,K. Seraphin,4289,PF,9,0-2,0-0,0-0,1,0,1,0,0,0,1,1,-11,0
+310125027,Washington Wizards,K. Seraphin,4289,C,9,0-2,0-0,0-0,1,0,1,0,0,0,1,1,-11,0
 310125027,Washington Wizards,H. Armstrong,2984,PF,4,1-1,0-0,0-0,0,0,0,0,0,0,0,1,+3,2
 310125027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+12,0
 310125027,Washington Wizards,Y. Jianlian,3214,SF,12,5-9,0-2,0-0,2,2,4,0,0,1,0,0,+6,10
@@ -34077,12 +33435,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310305027,Washington Wizards,J. Wall,4237,PG,39,8-17,0-0,2-6,2,9,11,8,1,0,2,2,+8,18
 310305027,Washington Wizards,J. Crawford,4243,SG,20,3-10,1-5,1-2,1,3,4,1,1,0,2,2,-3,8
 310305027,Washington Wizards,T. Booker,4270,PF,17,3-5,0-0,1-2,3,4,7,1,1,1,0,2,+10,7
-310305027,Washington Wizards,K. Seraphin,4289,C,9,1-1,0-0,0-0,1,0,1,0,0,0,0,2,-10,2
 310305027,Washington Wizards,C. Martin,3930,PF,27,2-8,2-4,1-2,1,4,5,1,1,1,0,1,+12,7
 310305027,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
 310305027,Washington Wizards,Y. Jianlian,3214,SF,1,0-1,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310305027,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+2,0
 310305027,Washington Wizards,H. Ndiaye,4282,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
+310305027,Washington Wizards,K. Seraphin,4289,C,9,1-1,0-0,0-0,1,0,1,0,0,0,0,2,-10,2
 310305027,Washington Wizards,M. Shakur,3252,PG,9,0-1,0-0,2-2,0,0,0,2,0,0,2,0,-1,2
 310305027,Washington Wizards,M. Evans,1031,SG,25,5-10,3-5,2-2,0,1,1,0,2,0,1,1,+6,15
 310314027,Oklahoma City Thunder,S. Ibaka,3439,PF,24,5-10,0-0,0-0,1,3,4,0,0,8,0,3,+18,10
@@ -34104,7 +33462,7 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310314027,Washington Wizards,N. Young,3243,SF,27,4-16,0-4,3-4,0,1,1,1,0,0,2,2,-28,11
 310314027,Washington Wizards,J. McGee,3452,C,25,6-10,0-0,2-2,5,4,9,1,0,5,2,3,-28,14
 310314027,Washington Wizards,J. Wall,4237,PG,37,6-15,0-1,2-2,2,5,7,5,4,1,6,2,-21,14
-310314027,Washington Wizards,K. Seraphin,4289,PF,22,5-9,0-0,2-2,3,0,3,0,3,0,1,1,-7,12
+310314027,Washington Wizards,K. Seraphin,4289,C,22,5-9,0-0,2-2,3,0,3,0,3,0,1,1,-7,12
 310314027,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310314027,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+7,0
 310314027,Washington Wizards,Y. Jianlian,3214,SF,22,3-9,0-0,0-2,4,4,8,0,0,1,0,1,-12,6
@@ -34118,12 +33476,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310322022,Washington Wizards,J. McGee,3452,C,24,3-6,0-0,2-3,1,6,7,1,1,1,2,4,-16,8
 310322022,Washington Wizards,J. Wall,4237,PG,34,3-12,0-0,3-4,0,3,3,7,3,0,4,4,-19,9
 310322022,Washington Wizards,J. Crawford,4243,SG,35,3-15,1-4,5-7,2,2,4,4,1,0,6,4,-30,12
-310322022,Washington Wizards,K. Seraphin,4289,PF,17,5-9,0-0,0-0,2,1,3,0,0,0,1,5,-21,10
 310322022,Washington Wizards,C. Martin,3930,PF,13,1-2,1-2,0-0,0,3,3,2,2,0,1,1,-1,3
 310322022,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310322022,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310322022,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-31,0
 310322022,Washington Wizards,H. Ndiaye,4282,C,7,0-0,0-0,2-2,0,0,0,0,1,0,1,2,+2,2
+310322022,Washington Wizards,K. Seraphin,4289,C,17,5-9,0-0,0-0,2,1,3,0,0,0,1,5,-21,10
 310322022,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310322022,Washington Wizards,M. Shakur,3252,PG,10,4-5,0-0,0-0,0,1,1,0,0,0,3,0,-12,8
 310322022,Washington Wizards,O. Jeffers,4231,SG,10,0-3,0-0,2-2,0,1,1,0,2,0,2,1,-6,2
@@ -34147,12 +33505,12 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310325007,Washington Wizards,J. McGee,3452,C,23,5-13,0-0,3-4,6,7,13,0,0,0,1,4,-9,13
 310325007,Washington Wizards,J. Wall,4237,PG,41,2-10,0-1,9-9,0,2,2,6,0,3,4,3,-18,13
 310325007,Washington Wizards,J. Crawford,4243,SG,34,8-16,3-5,0-0,1,1,2,4,2,0,1,2,-10,19
-310325007,Washington Wizards,K. Seraphin,4289,PF,9,2-3,0-0,0-0,2,1,3,0,0,0,1,1,-9,4
 310325007,Washington Wizards,C. Martin,3930,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310325007,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+14,0
 310325007,Washington Wizards,N. Young,3243,SF,33,4-15,0-3,2-2,0,1,1,0,1,0,2,2,-20,10
 310325007,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+20,0
 310325007,Washington Wizards,H. Ndiaye,4282,C,7,1-1,0-0,0-0,0,1,1,0,0,0,1,1,+1,2
+310325007,Washington Wizards,K. Seraphin,4289,C,9,2-3,0-0,0-0,2,1,3,0,0,0,1,1,-9,4
 310325007,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-20,0
 310325007,Washington Wizards,M. Shakur,3252,PG,2,0-1,0-0,0-0,0,0,0,1,0,0,1,0,+2,0
 310325007,Washington Wizards,O. Jeffers,4231,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,1,-2,0
@@ -34179,10 +33537,10 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310328026,Washington Wizards,C. Martin,3930,PF,20,2-7,2-6,0-0,0,3,3,2,1,0,2,1,+7,6
 310328026,Washington Wizards,R. Lewis,469,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310328026,Washington Wizards,T. Booker,4270,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310328026,Washington Wizards,K. Seraphin,4289,C,21,3-3,0-0,0-0,1,7,8,0,2,1,1,4,+7,6
 310328026,Washington Wizards,N. Young,3243,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310328026,Washington Wizards,J. Howard,2006,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310328026,Washington Wizards,H. Ndiaye,4282,C,3,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-4,0
+310328026,Washington Wizards,K. Seraphin,4289,C,21,3-3,0-0,0-0,1,7,8,0,2,1,1,4,+7,6
 310328026,Washington Wizards,A. Blatche,2746,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310328026,Washington Wizards,M. Shakur,3252,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
 310328026,Washington Wizards,O. Jeffers,4231,SG,21,1-4,1-2,3-6,5,1,6,1,0,0,2,1,+9,6
@@ -34940,34 +34298,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310311016,Minnesota Timberwolves,J. Flynn,3985,PG,24,4-5,2-2,1-1,0,3,3,4,2,0,3,3,+8,11
 310311016,Minnesota Timberwolves,S. Telfair,2417,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+1,0
 310311016,Minnesota Timberwolves,W. Ellington,3981,SG,18,5-7,1-2,2-2,1,1,2,1,1,0,0,1,+25,13
-310316026,Minnesota Timberwolves,K. Love,3449,PF,32,8-18,0-2,6-7,4,7,11,3,2,0,1,3,+0,22
-310316026,Minnesota Timberwolves,M. Beasley,3418,SF,30,7-16,0-1,2-4,1,4,5,1,1,0,1,4,-4,16
-310316026,Minnesota Timberwolves,W. Johnson,4247,SF,18,1-4,1-3,2-3,0,0,0,0,0,0,0,1,-6,5
-310316026,Minnesota Timberwolves,D. Milicic,2171,C,27,3-7,0-0,4-4,1,5,6,2,1,1,0,5,-7,10
-310316026,Minnesota Timberwolves,L. Ridnour,1985,PG,32,6-9,2-2,2-2,2,2,4,3,0,1,2,1,-5,16
-310316026,Minnesota Timberwolves,A. Tolliver,3276,PF,14,1-5,0-4,1-2,2,1,3,0,2,0,1,2,-11,3
-310316026,Minnesota Timberwolves,L. Hayward,4277,SF,8,0-2,0-1,0-0,0,1,1,1,0,0,1,0,+4,0
-310316026,Minnesota Timberwolves,A. Randolph,3455,SF,15,4-6,0-0,2-4,4,4,8,0,1,1,2,2,+6,10
-310316026,Minnesota Timberwolves,M. Webster,2795,SF,21,2-4,2-3,1-2,1,0,1,0,1,0,2,2,-16,7
-310316026,Minnesota Timberwolves,N. Pekovic,3453,C,5,0-3,0-0,0-0,1,0,1,0,0,0,1,3,-16,0
-310316026,Minnesota Timberwolves,J. Flynn,3985,PG,16,2-7,1-3,1-1,0,0,0,1,0,0,1,0,-10,6
-310316026,Minnesota Timberwolves,S. Telfair,2417,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
-310316026,Minnesota Timberwolves,W. Ellington,3981,SG,21,3-7,0-1,3-3,1,1,2,2,0,0,0,2,-10,9
-310316026,Utah Jazz,D. Favors,4257,PF,24,5-8,0-0,3-4,2,3,5,1,0,3,1,4,+2,13
-310316026,Utah Jazz,A. Kirilenko,434,SF,33,7-14,0-2,1-2,1,5,6,6,0,1,1,6,+13,15
-310316026,Utah Jazz,C.J. Miles,2778,SF,32,14-18,6-7,6-7,1,3,4,2,0,0,1,4,+17,40
-310316026,Utah Jazz,A. Jefferson,2389,C,39,11-20,0-0,4-5,1,10,11,2,0,4,1,2,+21,26
-310316026,Utah Jazz,D. Harris,2382,PG,26,4-11,1-6,3-4,0,2,2,4,1,0,1,1,+6,12
-310316026,Utah Jazz,P. Millsap,3015,PF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310316026,Utah Jazz,J. Evans,4295,SF,15,2-4,0-0,0-0,1,2,3,0,1,0,0,2,+3,4
-310316026,Utah Jazz,G. Hayward,4249,SF,16,0-2,0-1,1-4,0,1,1,2,2,0,1,2,-1,1
-310316026,Utah Jazz,M. Cousin,4325,C,1,0-0,0-0,0-0,0,1,1,0,0,0,0,0,-3,0
-310316026,Utah Jazz,K. Fesenko,3205,C,6,0-0,0-0,0-0,0,0,0,0,0,0,1,0,+0,0
-310316026,Utah Jazz,M. Okur,1014,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+11,0
-310316026,Utah Jazz,F. Elson,234,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
-310316026,Utah Jazz,R. Price,2807,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-11,0
-310316026,Utah Jazz,E. Watson,1027,PG,23,1-2,0-1,0-0,1,4,5,8,2,0,4,2,+6,2
-310316026,Utah Jazz,R. Bell,49,SG,24,2-5,0-2,2-2,0,1,1,3,0,0,2,2,+11,6
 310325025,Minnesota Timberwolves,M. Beasley,3418,SF,31,8-18,2-2,2-2,2,6,8,2,2,0,7,4,+0,20
 310325025,Minnesota Timberwolves,A. Randolph,3455,SF,37,9-16,0-0,6-6,3,12,15,2,1,2,2,1,+6,24
 310325025,Minnesota Timberwolves,W. Johnson,4247,SF,25,4-10,2-3,0-0,1,1,2,3,0,0,0,2,-1,10
@@ -35166,34 +34496,6 @@ id,team,player,player_id,position,MIN,FG,3PT,FT,OREB,DREB,REB,AST,STL,BLK,TO,PF,
 310323025,Oklahoma City Thunder,N. Robinson,2782,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+18,0
 310323025,Oklahoma City Thunder,D. Cook,3196,SG,6,0-1,0-0,0-0,0,0,0,0,0,1,0,1,-3,0
 310323025,Oklahoma City Thunder,J. Harden,3992,SG,27,3-9,1-4,4-4,1,1,2,0,0,0,2,5,+15,11
-310327025,Portland Trail Blazers,L. Aldridge,2983,PF,44,8-17,0-1,4-4,2,5,7,3,0,1,3,3,-9,20
-310327025,Portland Trail Blazers,G. Wallace,1026,SF,45,16-28,1-4,7-9,3,4,7,0,1,1,0,2,-2,40
-310327025,Portland Trail Blazers,A. Miller,557,PG,38,4-13,0-0,1-2,2,6,8,5,1,0,2,2,-2,9
-310327025,Portland Trail Blazers,W. Matthews,4032,SG,30,2-9,0-4,0-1,1,1,2,2,1,0,1,1,-8,4
-310327025,Portland Trail Blazers,N. Batum,3416,SG,21,1-4,1-2,3-4,0,0,0,0,1,2,3,3,-23,6
-310327025,Portland Trail Blazers,L. Babbitt,4250,SF,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
-310327025,Portland Trail Blazers,M. Camby,125,C,31,2-5,0-0,0-0,3,10,13,1,0,1,0,4,+8,4
-310327025,Portland Trail Blazers,C. Johnson,4400,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327025,Portland Trail Blazers,G. Oden,3225,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+10,0
-310327025,Portland Trail Blazers,P. Mills,4004,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327025,Portland Trail Blazers,A. Johnson,4279,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327025,Portland Trail Blazers,E. Williams,4294,SG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
-310327025,Portland Trail Blazers,B. Roy,3027,SG,13,2-3,0-0,0-0,0,0,0,3,0,0,0,1,-5,4
-310327025,Portland Trail Blazers,R. Fernandez,3204,SG,19,0-2,0-1,3-4,1,0,1,2,1,0,1,0,-4,3
-310327025,Oklahoma City Thunder,S. Ibaka,3439,PF,28,7-9,0-0,4-4,5,3,8,0,0,2,0,3,+6,18
-310327025,Oklahoma City Thunder,K. Durant,3202,SF,41,5-18,3-10,8-8,0,3,3,1,3,5,2,5,+8,21
-310327025,Oklahoma City Thunder,T. Sefolosha,3028,SF,18,0-5,0-2,1-2,0,2,2,0,1,0,0,1,-3,1
-310327025,Oklahoma City Thunder,K. Perkins,2018,C,31,3-6,0-0,0-1,4,6,10,0,0,2,3,3,+13,6
-310327025,Oklahoma City Thunder,R. Westbrook,3468,PG,34,9-19,4-5,6-7,2,5,7,7,2,0,5,5,+9,28
-310327025,Oklahoma City Thunder,N. Collison,1978,PF,23,2-3,0-0,0-0,0,5,5,0,0,1,1,3,+2,4
-310327025,Oklahoma City Thunder,B. Mullens,4005,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+6,0
-310327025,Oklahoma City Thunder,C. Aldrich,4267,C,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327025,Oklahoma City Thunder,N. Mohammed,568,C,12,1-1,0-0,4-4,3,0,3,1,0,0,2,2,-3,6
-310327025,Oklahoma City Thunder,E. Maynor,4001,PG,14,2-4,0-1,0-0,0,1,1,3,0,0,0,1,+0,4
-310327025,Oklahoma City Thunder,R. Ivey,2387,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,+0,0
-310327025,Oklahoma City Thunder,N. Robinson,2782,PG,0,0-0,0-0,0-0,0,0,0,0,0,0,0,0,-5,0
-310327025,Oklahoma City Thunder,D. Cook,3196,SG,14,1-2,1-2,0-0,0,1,1,0,0,0,0,0,+10,3
-310327025,Oklahoma City Thunder,J. Harden,3992,SG,25,2-8,1-4,3-3,0,2,2,1,0,1,1,3,+3,8
 310401022,Oklahoma City Thunder,S. Ibaka,3439,PF,36,4-7,0-0,0-0,2,4,6,0,0,5,2,4,-13,8
 310401022,Oklahoma City Thunder,K. Durant,3202,SF,38,9-24,3-13,4-4,1,10,11,1,2,1,4,2,+1,25
 310401022,Oklahoma City Thunder,T. Sefolosha,3028,SF,15,2-4,0-1,0-0,2,0,2,2,0,0,0,1,+3,4

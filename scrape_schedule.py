@@ -38,7 +38,7 @@ for index, row in teams.iterrows():
         #print columns[1]
         #print columns[2]
 
-        try: 
+        try:
             #_id = columns[2].a['href'].split('recap/_/id/')[1]
             #print _id
             _home = True if columns[1].li.text == 'vs' else False
@@ -58,8 +58,8 @@ for index, row in teams.iterrows():
             other_team.append(_other_team)
             #print visit_team
             d = datetime.strptime(columns[0].text, '%a, %b %d')
+            print d
             dates.append(date(year, d.month, d.day))
-
 
             # r = requests.get(BASE_GAME_URL.format(_id))
             # table = BeautifulSoup(r.text).find('table', class_='mod-data')

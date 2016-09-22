@@ -5,21 +5,25 @@ from bs4 import BeautifulSoup
 import os
 from datetime import datetime, date
 
-years = [2011, 2012, 2013, 2014, 2015, 2016] #specify past seasons to scrape results for
-#years = [2014]
+#years = [2011, 2012, 2013, 2014, 2015, 2016] #specify past seasons to scrape results for
+years = [2011]
 
 def get_players(players, team_name):
     array = np.zeros((len(players), len(headers) + 3), dtype=object)
     array[:] = np.nan
     for i, player in enumerate(players):
+        #print player
         cols = player.find_all('td')
         position_elem = cols[0].find('span', {'class': 'position'}) #want to seperate position attribute to avoid concatenation issue with player_name
         if not position_elem == None: #in ['TEAM', '']:
             position_elem.replace_with('')
             player_id = cols[0].a['href'].split('_/id/')[1]
-            player_name = cols[0].text.split(',')[0]
+            #player_name = cols[0].text.split(',')[0]
+            player_name = cols[0].find('span', {'class': 'abbr'})
+            #print cols[0]
+            #print player_name.text
     #        array[i, 0] = cols[0].text.split(',')[0]
-            array[i, 0] = player_name
+            array[i, 0] = player_name.text
             array[i, 1] = int(player_id)
             array[i, 2] = position_elem.text
 

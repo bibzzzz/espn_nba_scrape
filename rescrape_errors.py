@@ -7,6 +7,7 @@ from datetime import datetime, date
 
 years = [2011, 2012, 2013, 2014, 2015, 2016] #specify past seasons to scrape results for
 #years = [2013]
+std_gameID = 400578298
 
 def get_players(players, team_name):
     array = np.zeros((len(players), len(headers) + 3), dtype=object)
@@ -17,9 +18,10 @@ def get_players(players, team_name):
         if not position_elem == None: #in ['TEAM', '']:
             position_elem.replace_with('')
             player_id = cols[0].a['href'].split('_/id/')[1]
-            player_name = cols[0].text.split(',')[0]
+            player_name = cols[0].find('span', {'class': 'abbr'})
+            #player_name = cols[0].text.split(',')[0]
     #        array[i, 0] = cols[0].text.split(',')[0]
-            array[i, 0] = player_name
+            array[i, 0] = player_name.text
             array[i, 1] = player_id
             array[i, 2] = position_elem.text
 
@@ -55,7 +57,7 @@ for year in years:
         n_games = len(games)
 
         BASE_URL = 'http://espn.go.com/nba/boxscore?gameId={0}'
-        request = requests.get(BASE_URL.format(int(games.index[0])))
+        request = requests.get(BASE_URL.format(int(std_gameID)))
 
         table = BeautifulSoup(request.text, "html.parser").find('table', class_='mod-data')
         heads = table.find_all('thead')
