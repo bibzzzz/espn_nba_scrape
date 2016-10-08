@@ -42,7 +42,7 @@ for player_id in full_player_table['player_id']:
 player_lookup_table = pd.merge(full_player_table, player_full_names, left_on='player_id', right_on='player_id')
 player_lookup_table[['player_id']] = player_lookup_table[['player_id']].astype(int)
 
-print 'storing player lookup table...' 
+print 'storing player lookup table...'
 
 output_dir = os.path.dirname(os.path.realpath(__file__)) + '/data/'
 lookup_output_filepath = os.path.join(output_dir, 'player_lookup_table.csv')
