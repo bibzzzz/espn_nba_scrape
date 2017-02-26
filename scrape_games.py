@@ -5,7 +5,8 @@ from bs4 import BeautifulSoup
 import os
 from datetime import datetime, date
 
-years = [2011, 2012, 2013, 2014, 2015, 2016] #specify past seasons to scrape results for
+#years = [2011, 2012, 2013, 2014, 2015, 2016] #specify past seasons to scrape results for
+years = [2017]
 output_dir = os.path.dirname(os.path.realpath(__file__)) + '/data/'
 teams_path = os.path.join(output_dir, 'team_data.csv')
 
@@ -69,7 +70,7 @@ for year in years:
                 pass # Not all columns row are a game, is OK
                 # print(e)
 
-    dic = {'id': game_id, 'date': dates, 'home_team': home_team, 'visit_team': visit_team, 
+    dic = {'id': game_id, 'date': dates, 'home_team': home_team, 'visit_team': visit_team,
             'home_team_score': home_team_score, 'visit_team_score': visit_team_score}
 
     games = pd.DataFrame(dic).drop_duplicates().set_index('id')
